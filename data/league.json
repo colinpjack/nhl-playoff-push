@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:10:21.945528-04:00",
+  "generatedAt": "2026-09-26T19:39:22.386258-04:00",
   "season": "2026\u201327",
   "mode": "preview",
   "weekLabel": "2025\u201326 finish",
@@ -5265,9 +5265,9 @@
     {
       "id": 2026010052,
       "date": "2026-09-26",
-      "status": "Live",
-      "live": true,
-      "completed": false,
+      "status": "Final",
+      "live": false,
+      "completed": true,
       "exhibition": true,
       "venue": "Crypto.com Arena",
       "broadcast": "ABTV, KCOP-13",
@@ -5277,7 +5277,8 @@
         "nickname": "Kings",
         "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
         "record": "",
-        "score": 2
+        "score": 6,
+        "winner": true
       },
       "away": {
         "abbr": "ANA",
@@ -5285,15 +5286,16 @@
         "nickname": "Ducks",
         "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
         "record": "",
-        "score": 2
+        "score": 2,
+        "winner": false
       }
     },
     {
       "id": 2026010053,
       "date": "2026-09-26",
-      "status": "Live",
-      "live": true,
-      "completed": false,
+      "status": "Final",
+      "live": false,
+      "completed": true,
       "exhibition": true,
       "venue": "Bridgestone Arena",
       "broadcast": "SCRIPPS",
@@ -5303,7 +5305,8 @@
         "nickname": "Predators",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
         "record": "",
-        "score": 0
+        "score": 0,
+        "winner": false
       },
       "away": {
         "abbr": "CAR",
@@ -5311,7 +5314,8 @@
         "nickname": "Hurricanes",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
         "record": "",
-        "score": 4
+        "score": 6,
+        "winner": true
       }
     },
     {
@@ -5329,7 +5333,7 @@
         "nickname": "Mammoth",
         "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
         "record": "",
-        "score": 0
+        "score": 2
       },
       "away": {
         "abbr": "COL",
@@ -5343,9 +5347,9 @@
     {
       "id": 2026010055,
       "date": "2026-09-26",
-      "status": "Live",
-      "live": true,
-      "completed": false,
+      "status": "Final",
+      "live": false,
+      "completed": true,
       "exhibition": true,
       "venue": "KeyBank Center",
       "broadcast": "NHLN, SN-PIT+, MSG-B",
@@ -5355,7 +5359,8 @@
         "nickname": "Sabres",
         "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
         "record": "",
-        "score": 0
+        "score": 1,
+        "winner": false
       },
       "away": {
         "abbr": "PIT",
@@ -5363,14 +5368,15 @@
         "nickname": "Penguins",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
         "record": "",
-        "score": 2
+        "score": 3,
+        "winner": true
       }
     },
     {
       "id": 2026010056,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "Rogers Arena",
@@ -5381,7 +5387,7 @@
         "nickname": "Canucks",
         "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
         "record": "",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "SEA",
@@ -5389,15 +5395,15 @@
         "nickname": "Kraken",
         "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
         "record": "",
-        "score": ""
+        "score": 2
       }
     },
     {
       "id": 2026010057,
       "date": "2026-09-26",
-      "status": "Live",
-      "live": true,
-      "completed": false,
+      "status": "Final",
+      "live": false,
+      "completed": true,
       "exhibition": true,
       "venue": "Xfinity Mobile Arena",
       "broadcast": "MNMT, NBCSP",
@@ -5407,7 +5413,8 @@
         "nickname": "Flyers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
         "record": "",
-        "score": 0
+        "score": 1,
+        "winner": false
       },
       "away": {
         "abbr": "WSH",
@@ -5415,14 +5422,15 @@
         "nickname": "Capitals",
         "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
         "record": "",
-        "score": 0
+        "score": 5,
+        "winner": true
       }
     },
     {
       "id": 2026010058,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "United Center",
@@ -5433,7 +5441,7 @@
         "nickname": "Blackhawks",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
         "record": "",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "STL",
@@ -5441,14 +5449,14 @@
         "nickname": "Blues",
         "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       }
     },
     {
       "id": 2026010059,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 6:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "Amerant Bank Arena",
@@ -5459,7 +5467,7 @@
         "nickname": "Panthers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
         "record": "",
-        "score": ""
+        "score": 2
       },
       "away": {
         "abbr": "TBL",
@@ -5467,7 +5475,7 @@
         "nickname": "Lightning",
         "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
         "record": "",
-        "score": ""
+        "score": 1
       }
     },
     {
@@ -5499,8 +5507,8 @@
     {
       "id": 2026010061,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "Little Caesars Arena",
@@ -5511,7 +5519,7 @@
         "nickname": "Red Wings",
         "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "CBJ",
@@ -5519,14 +5527,14 @@
         "nickname": "Blue Jackets",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
         "record": "",
-        "score": ""
+        "score": 1
       }
     },
     {
       "id": 2026010062,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 7:30 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "UBS Arena",
@@ -5537,7 +5545,7 @@
         "nickname": "Islanders",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "NJD",
@@ -5545,7 +5553,7 @@
         "nickname": "Devils",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       }
     },
     {
@@ -5577,8 +5585,8 @@
     {
       "id": 2026010064,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "Canadian Tire Centre",
@@ -5589,7 +5597,7 @@
         "nickname": "Senators",
         "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
         "record": "",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "MTL",
@@ -5597,14 +5605,14 @@
         "nickname": "Canadiens",
         "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
         "record": "",
-        "score": ""
+        "score": 1
       }
     },
     {
       "id": 2026010065,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "Centre Bell",
@@ -5615,7 +5623,7 @@
         "nickname": "Canadiens",
         "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
         "record": "",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "OTT",
@@ -5623,7 +5631,7 @@
         "nickname": "Senators",
         "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
         "record": "",
-        "score": ""
+        "score": 1
       }
     }
   ],
