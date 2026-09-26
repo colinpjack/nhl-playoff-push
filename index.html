@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Push | This week's power rankings and playoff picture</title>
+  <meta name="description" content="This week's NHL power rankings and playoff picture: standings, trending teams, the games on the slate, and last week's scores. Every club has its own page." />
+  <link rel="icon" href="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@500;600&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css?v=20260926e" />
+</head>
+<body class="league">
+  <div class="chris-ribbon"><span>chris approved</span></div>
+
+  <div class="atmosphere" aria-hidden="true">
+    <div class="flood flood-a"></div>
+    <div class="flood flood-b"></div>
+    <div class="diamond"></div>
+    <div class="puck"></div>
+  </div>
+
+  <div class="page">
+  <div class="ticker" id="ticker" aria-label="Scoreboard ticker">
+    <div class="ticker-track" id="tickerTrack">Loading the board…</div>
+  </div>
+
+  <header class="topbar">
+    <div class="brand">
+      <img class="brand-logo" src="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" alt="NHL" />
+      <div>
+        <p class="eyebrow">The Push · NHL</p>
+        <h1>This week's power rankings and playoff picture</h1>
+      </div>
+    </div>
+    <aside class="my-teams" id="myTeams" aria-label="My teams">
+      <div class="my-teams-head">
+        <h2>My Teams</h2>
+        <button type="button" class="my-teams-edit" id="myTeamsEdit" hidden>Edit</button>
+      </div>
+      <div id="myTeamsBody"></div>
+    </aside>
+    <div class="top-meta">
+      <span class="pill" id="updatePill">Refreshing</span>
+      <span class="pill ghost" id="seasonPill">Week</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero" id="hero">
+      <div class="hero-copy">
+        <div class="hero-story">
+          <p class="kicker" id="statusKicker">Loading the week…</p>
+          <h2 id="headline">The board is loading</h2>
+          <p class="lede" id="blurb">Pulling standings, the slate, and the points math.</p>
+          <div class="rules">
+            <span class="pill ghost">Win = 2 points</span>
+            <span class="pill ghost">OT / SO loss = 1</span>
+            <span class="pill ghost">16 playoff teams</span>
+          </div>
+        </div>
+        <div class="hero-chips" id="heroChips"></div>
+      </div>
+      <div class="hero-meters" id="heroMeters"></div>
+    </section>
+
+    <nav class="jump" aria-label="Sections">
+      <a href="#clubs">Teams</a>
+      <a href="#rankings">Power rankings</a>
+      <a href="#picture">Playoff picture</a>
+      <a href="#trending">Trending</a>
+      <a href="#week">This week</a>
+      <a href="#last">Last week</a>
+    </nav>
+
+    <section class="panel" id="clubs">
+      <div class="section-head">
+        <h3>All 32</h3>
+        <p>Every club has the same playoff page: the cut line, the division, the schedule, and the points underneath the record.</p>
+      </div>
+      <div class="club-strip" id="clubStrip"></div>
+    </section>
+
+    <section class="panel" id="rankings">
+      <div class="section-head">
+        <h3>Power rankings</h3>
+        <p id="rankingsBlurb">Sorting the league from the results and the points percentage.</p>
+      </div>
+      <div class="table-wrap">
+        <table class="board" id="rankTable">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel" id="picture">
+      <div class="section-head">
+        <h3>Playoff picture</h3>
+        <p>Current standings. Eight clubs in each conference: three from each division and two wild cards. The line under the eighth seed is the cut line.</p>
+      </div>
+      <div class="legend">
+        <span><i class="swatch in"></i> In a playoff spot</span>
+        <span><i class="swatch hunt"></i> Chasing</span>
+      </div>
+      <div class="picture-grid">
+        <div>
+          <h4 class="subhead">East</h4>
+          <p class="meta" id="eastBlurb"></p>
+          <div class="table-wrap">
+            <table class="board compact" id="eastTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+        <div>
+          <h4 class="subhead">West</h4>
+          <p class="meta" id="westBlurb"></p>
+          <div class="table-wrap">
+            <table class="board compact" id="westTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="section-head">
+        <h3>Division leaders</h3>
+        <p>These four lead their divisions. The top three in each division are automatic. Everyone else is chasing a wild card.</p>
+      </div>
+      <div class="leader-grid four" id="divLeaders"></div>
+    </section>
+
+    <section class="panel" id="trending">
+      <div class="section-head">
+        <h3>Trending teams</h3>
+        <p id="trendingBlurb">Who the last three games say is rising, and who is falling.</p>
+      </div>
+      <div class="trend-split">
+        <div>
+          <h4 class="subhead">Heating up</h4>
+          <div class="trend-list" id="trendUp"></div>
+        </div>
+        <div>
+          <h4 class="subhead">Cooling off</h4>
+          <div class="trend-list" id="trendDown"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel" id="week">
+      <div class="section-head">
+        <h3>Games this week</h3>
+        <p id="weekBlurb">Puck drops, and the score once a game is live or final.</p>
+      </div>
+      <div class="week-grid" id="weekGames"></div>
+    </section>
+
+    <section class="panel" id="last">
+      <div class="section-head">
+        <h3>Last week</h3>
+        <p id="lastBlurb">Final scores from the week before this one.</p>
+      </div>
+      <div class="week-grid" id="lastGames"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Updated from the NHL’s public API. Not affiliated with the NHL.</p>
+    <p class="tiny">Sixteen teams qualify: the top three in each division and two wild cards in each conference. A regulation win and an overtime win are both two points. Power rankings blend points percentage, shrunk toward average, with the last three games. The playoff percentage is a season simulation. It is not a betting line.</p>
+  </footer>
+  </div>
+
+  <script src="js/common.js?v=20260926e"></script>
+  <script src="js/league.js?v=20260926e"></script>
+</body>
+</html>
