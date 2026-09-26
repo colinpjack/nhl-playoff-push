@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T17:07:01.637793-04:00",
+  "generatedAt": "2026-09-26T17:10:21.945528-04:00",
   "season": "2026\u201327",
   "mode": "preview",
   "weekLabel": "2025\u201326 finish",
@@ -5317,8 +5317,8 @@
     {
       "id": 2026010054,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 5:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "Delta Center",
@@ -5329,7 +5329,7 @@
         "nickname": "Mammoth",
         "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "COL",
@@ -5337,7 +5337,7 @@
         "nickname": "Avalanche",
         "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       }
     },
     {
@@ -5395,8 +5395,8 @@
     {
       "id": 2026010057,
       "date": "2026-09-26",
-      "status": "Sat, Sep 26 \u00b7 5:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": true,
       "venue": "Xfinity Mobile Arena",
@@ -5407,7 +5407,7 @@
         "nickname": "Flyers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "WSH",
@@ -5415,7 +5415,7 @@
         "nickname": "Capitals",
         "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       }
     },
     {
