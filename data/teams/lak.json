@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
+  "generatedAt": "2026-09-27T17:39:13.183625-04:00",
   "team": "LAK",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2736,16 +2736,16 @@
         "toi": "15:46"
       },
       {
-        "id": 8483406,
-        "name": "Taylor Ward",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8483406.png",
-        "gp": 36,
-        "goals": 3,
-        "assists": 4,
-        "points": 7,
-        "plusMinus": 0,
-        "toi": "9:28"
+        "id": 8481732,
+        "name": "Andre Lee",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8481732.png",
+        "gp": 7,
+        "goals": 1,
+        "assists": 1,
+        "points": 2,
+        "plusMinus": -2,
+        "toi": "10:17"
       }
     ],
     "defense": [

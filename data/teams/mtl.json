@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
+  "generatedAt": "2026-09-27T17:39:13.183625-04:00",
   "team": "MTL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2799,18 +2799,6 @@
         "toi": "14:01"
       },
       {
-        "id": 8482087,
-        "name": "Kaiden Guhle",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8482087.png",
-        "gp": 39,
-        "goals": 2,
-        "assists": 9,
-        "points": 11,
-        "plusMinus": 5,
-        "toi": "19:28"
-      },
-      {
         "id": 8482964,
         "name": "Arber Xhekaj",
         "position": "D",
@@ -2859,18 +2847,6 @@
         "sv": 0.872,
         "gaa": 3.426879,
         "so": 0
-      },
-      {
-        "id": 8484170,
-        "name": "Jacob Fowler",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484170.png",
-        "gp": 17,
-        "wins": 9,
-        "losses": 6,
-        "otl": 2,
-        "sv": 0.908,
-        "gaa": 2.433957,
-        "so": 1
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
+  "generatedAt": "2026-09-27T17:39:13.183625-04:00",
   "team": "FLA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2726,18 +2726,6 @@
         "points": 3,
         "plusMinus": 2,
         "toi": "7:57"
-      },
-      {
-        "id": 8483433,
-        "name": "Jack Devine",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8483433.png",
-        "gp": 6,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -3,
-        "toi": "8:26"
       }
     ],
     "defense": [
@@ -2814,28 +2802,16 @@
         "toi": "15:06"
       },
       {
-        "id": 8483687,
-        "name": "Marek Alscher",
+        "id": 8475179,
+        "name": "Dmitry Kulikov",
         "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8483687.png",
-        "gp": 4,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8475179.png",
+        "gp": 19,
         "goals": 0,
-        "assists": 3,
-        "points": 3,
-        "plusMinus": 4,
-        "toi": "20:22"
-      },
-      {
-        "id": 8484933,
-        "name": "Mikulas Hovorka",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8484933.png",
-        "gp": 4,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": -1,
-        "toi": "14:54"
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -5,
+        "toi": "18:02"
       }
     ],
     "goalies": [
@@ -2843,18 +2819,6 @@
         "id": 8481033,
         "name": "Akira Schmid",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8481033.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
-      },
-      {
-        "id": 8484900,
-        "name": "Cooper Black",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8484900.png",
         "gp": null,
         "wins": null,
         "losses": null,
