@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T19:39:22.386258-04:00",
+  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2382,7 +2382,7 @@
       "id": 2026010061,
       "date": "2026-09-26",
       "start": "2026-09-26T23:00:00Z",
-      "state": "LIVE",
+      "state": "FINAL",
       "venue": "Little Caesars Arena",
       "isHome": true,
       "opponent": {
@@ -2398,16 +2398,16 @@
       "awayWinPct": 46.0,
       "homeAbbr": "DET",
       "awayAbbr": "CBJ",
-      "homeScore": 0,
-      "awayScore": 1,
-      "usScore": 0,
-      "themScore": 1,
+      "homeScore": 2,
+      "awayScore": 4,
+      "usScore": 2,
+      "themScore": 4,
       "ot": false,
       "backToBack": false,
       "divisionGame": false,
       "conferenceGame": true,
-      "result": null,
-      "final": false
+      "result": "L",
+      "final": true
     }
   ],
   "rooting": [

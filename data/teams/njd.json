@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T19:39:22.386258-04:00",
+  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
   "team": "NJD",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2382,7 +2382,7 @@
       "id": 2026010062,
       "date": "2026-09-26",
       "start": "2026-09-26T23:30:00Z",
-      "state": "LIVE",
+      "state": "FINAL",
       "venue": "UBS Arena",
       "isHome": false,
       "opponent": {
@@ -2398,16 +2398,16 @@
       "awayWinPct": 44.2,
       "homeAbbr": "NYI",
       "awayAbbr": "NJD",
-      "homeScore": 0,
-      "awayScore": 0,
-      "usScore": 0,
-      "themScore": 0,
+      "homeScore": 1,
+      "awayScore": 4,
+      "usScore": 4,
+      "themScore": 1,
       "ot": false,
       "backToBack": false,
       "divisionGame": true,
       "conferenceGame": true,
-      "result": null,
-      "final": false
+      "result": "W",
+      "final": true
     }
   ],
   "rooting": [

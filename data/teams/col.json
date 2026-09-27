@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T19:39:22.386258-04:00",
+  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
   "team": "COL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2382,7 +2382,7 @@
       "id": 2026010054,
       "date": "2026-09-26",
       "start": "2026-09-26T21:00:00Z",
-      "state": "CRIT",
+      "state": "FINAL",
       "venue": "Delta Center",
       "isHome": false,
       "opponent": {
@@ -2406,8 +2406,8 @@
       "backToBack": false,
       "divisionGame": true,
       "conferenceGame": true,
-      "result": null,
-      "final": false
+      "result": "L",
+      "final": true
     }
   ],
   "rooting": [
