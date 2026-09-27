@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
+  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
   "team": "CHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -34,7 +34,7 @@
   "narrative": {
     "status": "preview",
     "kicker": "2026\u201327 opens Tue, Sep 29 \u00b7 10:30 PM",
-    "headline": "Puck drop in 3 days",
+    "headline": "Puck drop in 2 days",
     "blurb": "The Blackhawks open at Vegas on Tue, Sep 29 \u00b7 10:30 PM. A full-season simulation gives them a 8.4% chance to still be playing in April. Last spring they finished 18 points back of the easier route in, the West wild card."
   },
   "meters": {
@@ -48,7 +48,7 @@
     },
     "third": {
       "label": "Days to opening night",
-      "value": "3",
+      "value": "2",
       "sub": "Tue, Sep 29 \u00b7 10:30 PM",
       "note": "Exhibition games do not count. The standings start at zero on opening night."
     }
@@ -2424,7 +2424,7 @@
       "id": 2026010058,
       "date": "2026-09-26",
       "start": "2026-09-26T23:00:00Z",
-      "state": "CRIT",
+      "state": "FINAL",
       "venue": "United Center",
       "isHome": true,
       "opponent": {
@@ -2448,8 +2448,8 @@
       "backToBack": false,
       "divisionGame": true,
       "conferenceGame": true,
-      "result": null,
-      "final": false
+      "result": "W",
+      "final": true
     }
   ],
   "rooting": [
@@ -2902,7 +2902,7 @@
     "PLAYOFF ODDS 8.4%",
     "EASIER PATH 18",
     "84 GAMES LEFT",
-    "Puck drop in 3 days"
+    "Puck drop in 2 days"
   ],
   "legend": {
     "in": "Made it last spring",

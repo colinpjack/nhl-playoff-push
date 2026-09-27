@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
+  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
   "team": "WPG",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -34,7 +34,7 @@
   "narrative": {
     "status": "preview",
     "kicker": "2026\u201327 opens Fri, Oct 2 \u00b7 8:00 PM",
-    "headline": "Puck drop in 6 days",
+    "headline": "Puck drop in 5 days",
     "blurb": "The Jets open at home against Boston on Fri, Oct 2 \u00b7 8:00 PM. A full-season simulation gives them a 26.5% chance to still be playing in April. Last spring they finished 8 points back of the easier route in, the West wild card."
   },
   "meters": {
@@ -48,7 +48,7 @@
     },
     "third": {
       "label": "Days to opening night",
-      "value": "6",
+      "value": "5",
       "sub": "Fri, Oct 2 \u00b7 8:00 PM",
       "note": "Exhibition games do not count. The standings start at zero on opening night."
     }
@@ -2890,7 +2890,7 @@
     "PLAYOFF ODDS 26.5%",
     "EASIER PATH 8",
     "84 GAMES LEFT",
-    "Puck drop in 6 days"
+    "Puck drop in 5 days"
   ],
   "legend": {
     "in": "Made it last spring",

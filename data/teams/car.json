@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
+  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
   "team": "CAR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -34,7 +34,7 @@
   "narrative": {
     "status": "preview",
     "kicker": "2026\u201327 opens Tue, Sep 29 \u00b7 5:00 PM",
-    "headline": "Puck drop in 3 days",
+    "headline": "Puck drop in 2 days",
     "blurb": "The Hurricanes open at home against Florida on Tue, Sep 29 \u00b7 5:00 PM. A full-season simulation gives them a 92.3% chance to still be playing in April. Last spring they were in, 18 up on the Metropolitan top three."
   },
   "meters": {
@@ -48,7 +48,7 @@
     },
     "third": {
       "label": "Days to opening night",
-      "value": "3",
+      "value": "2",
       "sub": "Tue, Sep 29 \u00b7 5:00 PM",
       "note": "Exhibition games do not count. The standings start at zero on opening night."
     }
@@ -2838,7 +2838,7 @@
     "PLAYOFF ODDS 92.3%",
     "EASIER PATH 18 up",
     "84 GAMES LEFT",
-    "Puck drop in 3 days"
+    "Puck drop in 2 days"
   ],
   "legend": {
     "in": "Made it last spring",

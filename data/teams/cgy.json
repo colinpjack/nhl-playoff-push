@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
+  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
   "team": "CGY",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -34,7 +34,7 @@
   "narrative": {
     "status": "preview",
     "kicker": "2026\u201327 opens Thu, Oct 1 \u00b7 9:00 PM",
-    "headline": "Puck drop in 5 days",
+    "headline": "Puck drop in 4 days",
     "blurb": "The Flames open at home against Seattle on Thu, Oct 1 \u00b7 9:00 PM. A full-season simulation gives them a 21.3% chance to still be playing in April. Last spring they finished 13 points back of the easier route in, the West wild card."
   },
   "meters": {
@@ -48,7 +48,7 @@
     },
     "third": {
       "label": "Days to opening night",
-      "value": "5",
+      "value": "4",
       "sub": "Thu, Oct 1 \u00b7 9:00 PM",
       "note": "Exhibition games do not count. The standings start at zero on opening night."
     }
@@ -2382,7 +2382,7 @@
       "id": 2026010060,
       "date": "2026-09-26",
       "start": "2026-09-27T01:00:00Z",
-      "state": "LIVE",
+      "state": "FINAL",
       "venue": "Rogers Place",
       "isHome": false,
       "opponent": {
@@ -2398,16 +2398,16 @@
       "awayWinPct": 39.2,
       "homeAbbr": "EDM",
       "awayAbbr": "CGY",
-      "homeScore": 1,
-      "awayScore": 0,
-      "usScore": 0,
-      "themScore": 1,
+      "homeScore": 4,
+      "awayScore": 1,
+      "usScore": 1,
+      "themScore": 4,
       "ot": false,
       "backToBack": false,
       "divisionGame": true,
       "conferenceGame": true,
-      "result": null,
-      "final": false
+      "result": "L",
+      "final": true
     }
   ],
   "rooting": [
@@ -2884,7 +2884,7 @@
     "PLAYOFF ODDS 21.3%",
     "EASIER PATH 13",
     "84 GAMES LEFT",
-    "Puck drop in 5 days"
+    "Puck drop in 4 days"
   ],
   "legend": {
     "in": "Made it last spring",

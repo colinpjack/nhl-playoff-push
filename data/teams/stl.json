@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
+  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
   "team": "STL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -34,7 +34,7 @@
   "narrative": {
     "status": "preview",
     "kicker": "2026\u201327 opens Fri, Oct 2 \u00b7 9:00 PM",
-    "headline": "Puck drop in 6 days",
+    "headline": "Puck drop in 5 days",
     "blurb": "The Blues open at Dallas on Fri, Oct 2 \u00b7 9:00 PM. A full-season simulation gives them a 38.0% chance to still be playing in April. Last spring they finished 4 points back of the easier route in, the West wild card."
   },
   "meters": {
@@ -48,7 +48,7 @@
     },
     "third": {
       "label": "Days to opening night",
-      "value": "6",
+      "value": "5",
       "sub": "Fri, Oct 2 \u00b7 9:00 PM",
       "note": "Exhibition games do not count. The standings start at zero on opening night."
     }
@@ -2424,7 +2424,7 @@
       "id": 2026010058,
       "date": "2026-09-26",
       "start": "2026-09-26T23:00:00Z",
-      "state": "CRIT",
+      "state": "FINAL",
       "venue": "United Center",
       "isHome": false,
       "opponent": {
@@ -2448,8 +2448,8 @@
       "backToBack": false,
       "divisionGame": true,
       "conferenceGame": true,
-      "result": null,
-      "final": false
+      "result": "L",
+      "final": true
     }
   ],
   "rooting": [
@@ -2866,7 +2866,7 @@
     "PLAYOFF ODDS 38.0%",
     "EASIER PATH 4",
     "84 GAMES LEFT",
-    "Puck drop in 6 days"
+    "Puck drop in 5 days"
   ],
   "legend": {
     "in": "Made it last spring",

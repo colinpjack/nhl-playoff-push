@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:52:07.281780-04:00",
+  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
   "team": "SEA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -34,7 +34,7 @@
   "narrative": {
     "status": "preview",
     "kicker": "2026\u201327 opens Thu, Oct 1 \u00b7 9:00 PM",
-    "headline": "Puck drop in 5 days",
+    "headline": "Puck drop in 4 days",
     "blurb": "The Kraken open at Calgary on Thu, Oct 1 \u00b7 9:00 PM. A full-season simulation gives them a 25.6% chance to still be playing in April. Last spring they finished 11 points back of the easier route in, the West wild card."
   },
   "meters": {
@@ -48,7 +48,7 @@
     },
     "third": {
       "label": "Days to opening night",
-      "value": "5",
+      "value": "4",
       "sub": "Thu, Oct 1 \u00b7 9:00 PM",
       "note": "Exhibition games do not count. The standings start at zero on opening night."
     }
@@ -2860,7 +2860,7 @@
     "PLAYOFF ODDS 25.6%",
     "EASIER PATH 11",
     "84 GAMES LEFT",
-    "Puck drop in 5 days"
+    "Puck drop in 4 days"
   ],
   "legend": {
     "in": "Made it last spring",
