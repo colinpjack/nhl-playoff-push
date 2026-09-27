@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "LAK",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2846,18 +2846,6 @@
         "sv": 0.91,
         "gaa": 2.568771,
         "so": 3
-      },
-      {
-        "id": 8481707,
-        "name": "Erik Portillo",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8481707.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       }
     ]
   },

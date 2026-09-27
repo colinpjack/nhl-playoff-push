@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "MIN",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2768,18 +2768,6 @@
         "toi": "14:33"
       },
       {
-        "id": 8482781,
-        "name": "Carson Lambos",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8482781.png",
-        "gp": 1,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 1,
-        "toi": "10:16"
-      },
-      {
         "id": 8483766,
         "name": "David Spacek",
         "position": "D",
@@ -2790,6 +2778,18 @@
         "points": 0,
         "plusMinus": -1,
         "toi": "10:45"
+      },
+      {
+        "id": 8486166,
+        "name": "Viking Gustafsson Nyberg",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8486166.png",
+        "gp": 2,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 1,
+        "toi": "21:18"
       }
     ],
     "goalies": [

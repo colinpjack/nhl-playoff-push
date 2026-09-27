@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2826,18 +2826,6 @@
         "sv": 0.901,
         "gaa": 2.715928,
         "so": 4
-      },
-      {
-        "id": 8481757,
-        "name": "Carter Gylander",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8481757.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       },
       {
         "id": 8480193,

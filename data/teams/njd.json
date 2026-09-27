@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "NJD",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2855,6 +2855,18 @@
         "id": 8479496,
         "name": "David Rittich",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8479496.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
+      },
+      {
+        "id": 8482465,
+        "name": "R\u00e9mi Poirier",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8482465.png",
         "gp": null,
         "wins": null,
         "losses": null,

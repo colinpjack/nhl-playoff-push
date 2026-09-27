@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "NYI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2812,18 +2812,6 @@
         "points": 1,
         "plusMinus": -7,
         "toi": "19:27"
-      },
-      {
-        "id": 8483448,
-        "name": "Isaiah George",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8483448.png",
-        "gp": 4,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": 1,
-        "toi": "13:22"
       }
     ],
     "goalies": [

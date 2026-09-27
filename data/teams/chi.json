@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "CHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2638,18 +2638,6 @@
     "label": "2025\u201326 numbers. They reset once the regular season starts.",
     "forwards": [
       {
-        "id": 8484144,
-        "name": "Connor Bedard",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8484144.png",
-        "gp": 69,
-        "goals": 30,
-        "assists": 45,
-        "points": 75,
-        "plusMinus": -18,
-        "toi": "20:52"
-      },
-      {
         "id": 8477479,
         "name": "Tyler Bertuzzi",
         "position": "L",
@@ -2780,6 +2768,18 @@
         "points": 2,
         "plusMinus": -1,
         "toi": "9:15"
+      },
+      {
+        "id": 8476952,
+        "name": "Dominic Toninato",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8476952.png",
+        "gp": 8,
+        "goals": 0,
+        "assists": 1,
+        "points": 1,
+        "plusMinus": 0,
+        "toi": "9:09"
       }
     ],
     "defense": [
@@ -2879,18 +2879,6 @@
         "otl": 3,
         "sv": 0.88,
         "gaa": 3.799494,
-        "so": 1
-      },
-      {
-        "id": 8482123,
-        "name": "Drew Commesso",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8482123.png",
-        "gp": 3,
-        "wins": 2,
-        "losses": 1,
-        "otl": 0,
-        "sv": 0.918,
-        "gaa": 2.31129,
         "so": 1
       }
     ]

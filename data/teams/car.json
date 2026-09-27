@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "CAR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2598,18 +2598,6 @@
         "toi": "16:59"
       },
       {
-        "id": 8482093,
-        "name": "Seth Jarvis",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8482093.png",
-        "gp": 71,
-        "goals": 32,
-        "assists": 34,
-        "points": 66,
-        "plusMinus": 6,
-        "toi": "18:53"
-      },
-      {
         "id": 8482809,
         "name": "Jackson Blake",
         "position": "R",
@@ -2704,6 +2692,18 @@
         "points": 18,
         "plusMinus": 5,
         "toi": "10:45"
+      },
+      {
+        "id": 8480829,
+        "name": "Jesperi Kotkaniemi",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8480829.png",
+        "gp": 42,
+        "goals": 2,
+        "assists": 7,
+        "points": 9,
+        "plusMinus": 3,
+        "toi": "11:21"
       }
     ],
     "defense": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "TOR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2654,18 +2654,6 @@
         "points": 29,
         "plusMinus": -5,
         "toi": "14:43"
-      },
-      {
-        "id": 8478057,
-        "name": "Dakota Joshua",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8478057.png",
-        "gp": 55,
-        "goals": 10,
-        "assists": 8,
-        "points": 18,
-        "plusMinus": -2,
-        "toi": "12:15"
       },
       {
         "id": 8480870,

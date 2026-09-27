@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T04:15:53.789160-04:00",
+  "generatedAt": "2026-09-27T14:28:07.387830-04:00",
   "team": "COL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2634,18 +2634,6 @@
         "toi": "12:42"
       },
       {
-        "id": 8484149,
-        "name": "Gavin Brindley",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484149.png",
-        "gp": 56,
-        "goals": 6,
-        "assists": 7,
-        "points": 13,
-        "plusMinus": 2,
-        "toi": "9:33"
-      },
-      {
         "id": 8475172,
         "name": "Nazem Kadri",
         "position": "C",
@@ -2816,18 +2804,6 @@
         "sv": 0.933,
         "gaa": 2.029026,
         "so": 1
-      },
-      {
-        "id": 8484996,
-        "name": "Ilya Nabokov",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8484996.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       }
     ]
   },
