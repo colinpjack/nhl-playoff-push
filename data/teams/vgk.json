@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:42:08.321639-04:00",
+  "generatedAt": "2026-09-28T19:59:07.027317-04:00",
   "team": "VGK",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2646,18 +2646,6 @@
         "toi": "14:54"
       },
       {
-        "id": 8482125,
-        "name": "Alexander Holtz",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8482125.png",
-        "gp": 28,
-        "goals": 3,
-        "assists": 6,
-        "points": 9,
-        "plusMinus": -1,
-        "toi": "11:29"
-      },
-      {
         "id": 8476448,
         "name": "William Karlsson",
         "position": "C",
@@ -2682,28 +2670,16 @@
         "toi": "11:46"
       },
       {
-        "id": 8479550,
-        "name": "Tanner Laczynski",
+        "id": 8481534,
+        "name": "Raphael Lavoie",
         "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8479550.png",
-        "gp": 10,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8481534.png",
+        "gp": 1,
         "goals": 0,
-        "assists": 5,
-        "points": 5,
+        "assists": 0,
+        "points": 0,
         "plusMinus": 0,
-        "toi": "10:46"
-      },
-      {
-        "id": 8480007,
-        "name": "Jonas Rondbjerg",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8480007.png",
-        "gp": 4,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": -2,
-        "toi": "12:05"
+        "toi": "8:34"
       }
     ],
     "defense": [

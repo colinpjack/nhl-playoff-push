@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:42:08.321639-04:00",
+  "generatedAt": "2026-09-28T19:59:07.027317-04:00",
   "team": "FLA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2680,30 +2680,6 @@
         "toi": "16:34"
       },
       {
-        "id": 8481133,
-        "name": "Cole Reinhardt",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8481133.png",
-        "gp": 15,
-        "goals": 6,
-        "assists": 2,
-        "points": 8,
-        "plusMinus": 4,
-        "toi": "13:10"
-      },
-      {
-        "id": 8481655,
-        "name": "Cole Schwindt",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8481655.png",
-        "gp": 29,
-        "goals": 5,
-        "assists": 2,
-        "points": 7,
-        "plusMinus": 2,
-        "toi": "10:02"
-      },
-      {
         "id": 8483771,
         "name": "Sandis Vilmanis",
         "position": "L",
@@ -2788,18 +2764,6 @@
         "points": 11,
         "plusMinus": -1,
         "toi": "20:21"
-      },
-      {
-        "id": 8482131,
-        "name": "Donovan Sebrango",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8482131.png",
-        "gp": 40,
-        "goals": 0,
-        "assists": 8,
-        "points": 8,
-        "plusMinus": -4,
-        "toi": "15:06"
       },
       {
         "id": 8475179,

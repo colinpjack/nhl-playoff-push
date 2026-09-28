@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:42:08.321639-04:00",
+  "generatedAt": "2026-09-28T19:59:07.027317-04:00",
   "team": "NYR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2668,18 +2668,6 @@
         "toi": "13:28"
       },
       {
-        "id": 8479390,
-        "name": "Taylor Raddysh",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8479390.png",
-        "gp": 68,
-        "goals": 9,
-        "assists": 10,
-        "points": 19,
-        "plusMinus": 5,
-        "toi": "11:51"
-      },
-      {
         "id": 8481789,
         "name": "Tye Kartye",
         "position": "L",
@@ -2778,16 +2766,16 @@
         "toi": "17:24"
       },
       {
-        "id": 8480001,
-        "name": "Urho Vaakanainen",
+        "id": 8482666,
+        "name": "Scott Morrow",
         "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8480001.png",
-        "gp": 34,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8482666.png",
+        "gp": 29,
         "goals": 0,
         "assists": 6,
         "points": 6,
-        "plusMinus": 0,
-        "toi": "13:51"
+        "plusMinus": -5,
+        "toi": "15:40"
       },
       {
         "id": 8482861,
@@ -2814,18 +2802,6 @@
         "sv": 0.912,
         "gaa": 2.499821,
         "so": 1
-      },
-      {
-        "id": 8482193,
-        "name": "Dylan Garand",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8482193.png",
-        "gp": 3,
-        "wins": 2,
-        "losses": 0,
-        "otl": 1,
-        "sv": 0.948,
-        "gaa": 1.621622,
-        "so": 0
       },
       {
         "id": 8476914,

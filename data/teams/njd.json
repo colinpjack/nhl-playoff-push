@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T15:42:08.321639-04:00",
+  "generatedAt": "2026-09-28T19:59:07.027317-04:00",
   "team": "NJD",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2714,18 +2714,6 @@
         "points": 2,
         "plusMinus": -4,
         "toi": "10:00"
-      },
-      {
-        "id": 8483397,
-        "name": "Marc McLaughlin",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8483397.png",
-        "gp": 7,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -2,
-        "toi": "8:12"
       }
     ],
     "defense": [
@@ -2812,18 +2800,6 @@
         "points": 0,
         "plusMinus": -3,
         "toi": "18:00"
-      },
-      {
-        "id": 8482873,
-        "name": "Topias Vilen",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8482873.png",
-        "gp": 2,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 1,
-        "toi": "15:28"
       }
     ],
     "goalies": [
@@ -2850,18 +2826,6 @@
         "sv": 0.908,
         "gaa": 2.619134,
         "so": 0
-      },
-      {
-        "id": 8479496,
-        "name": "David Rittich",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8479496.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       },
       {
         "id": 8482465,
