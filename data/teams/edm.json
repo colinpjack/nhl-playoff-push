@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:29:46.794137-04:00",
+  "generatedAt": "2026-09-28T15:42:08.321639-04:00",
   "team": "EDM",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2821,18 +2821,6 @@
         "id": 8475883,
         "name": "Frederik Andersen",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8475883.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
-      },
-      {
-        "id": 8477035,
-        "name": "Matt Tomkins",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8477035.png",
         "gp": null,
         "wins": null,
         "losses": null,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:29:46.794137-04:00",
+  "generatedAt": "2026-09-28T15:42:08.321639-04:00",
   "season": "2026\u201327",
   "mode": "preview",
   "weekLabel": "2025\u201326 finish",
@@ -4572,7 +4572,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Scotiabank Saddledome",
-      "broadcast": "SNW, KHN/Prime, KONG",
+      "broadcast": "SNW, Prime Video, KONG",
       "home": {
         "abbr": "CGY",
         "name": "Calgary Flames",
@@ -4702,7 +4702,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Canada Life Centre",
-      "broadcast": "NESN",
+      "broadcast": "TSN3, NESN",
       "home": {
         "abbr": "WPG",
         "name": "Winnipeg Jets",
@@ -4936,7 +4936,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Rogers Place",
-      "broadcast": "SNW, KHN/Prime, KONG",
+      "broadcast": "SNW, NHLN, Prime Video",
       "home": {
         "abbr": "EDM",
         "name": "Edmonton Oilers",
@@ -5118,7 +5118,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Little Caesars Arena",
-      "broadcast": "DSN",
+      "broadcast": "NHLN, TSN3, DSN",
       "home": {
         "abbr": "DET",
         "name": "Detroit Red Wings",
@@ -5196,7 +5196,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Climate Pledge Arena",
-      "broadcast": "SNW, KHN/Prime, KONG",
+      "broadcast": "SNW, Prime Video, KONG",
       "home": {
         "abbr": "SEA",
         "name": "Seattle Kraken",
