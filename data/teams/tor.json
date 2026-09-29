@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
+  "generatedAt": "2026-09-29T18:40:26.885738-04:00",
   "team": "TOR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020002,
       "date": "2026-09-29",
       "start": "2026-09-29T23:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Scotiabank Arena",
       "isHome": true,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020002,
       "date": "2026-09-29",
       "start": "2026-09-29T23:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Scotiabank Arena",
       "isHome": true,
       "opponent": {

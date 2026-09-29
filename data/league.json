@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
+  "generatedAt": "2026-09-29T18:40:26.885738-04:00",
   "season": "2026\u201327",
   "mode": "preview",
   "weekLabel": "2025\u201326 finish",
@@ -562,7 +562,7 @@
       "formDiff": 3,
       "formDirection": "up",
       "nextLabel": "vs FLA",
-      "nextTitle": "Regular season \u00b7 Tue, Sep 29 \u00b7 5:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "The clinch number shows up after opening night."
@@ -1101,7 +1101,7 @@
       "formDiff": 12,
       "formDirection": "up",
       "nextLabel": "@ CAR",
-      "nextTitle": "Regular season \u00b7 Tue, Sep 29 \u00b7 5:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "The clinch number shows up after opening night."
@@ -2036,7 +2036,7 @@
         "formDiff": 12,
         "formDirection": "up",
         "nextLabel": "@ CAR",
-        "nextTitle": "Regular season \u00b7 Tue, Sep 29 \u00b7 5:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "\u2014",
         "magicKind": "",
         "magicTitle": "The clinch number shows up after opening night."
@@ -2434,7 +2434,7 @@
       "formDiff": 3,
       "formDirection": "up",
       "nextLabel": "vs FLA",
-      "nextTitle": "Regular season \u00b7 Tue, Sep 29 \u00b7 5:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "The clinch number shows up after opening night.",
@@ -3097,7 +3097,7 @@
       "formDiff": 12,
       "formDirection": "up",
       "nextLabel": "@ CAR",
-      "nextTitle": "Regular season \u00b7 Tue, Sep 29 \u00b7 5:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "The clinch number shows up after opening night.",
@@ -4121,7 +4121,7 @@
       "formDiff": 3,
       "formDirection": "up",
       "nextLabel": "vs FLA",
-      "nextTitle": "Regular season \u00b7 Tue, Sep 29 \u00b7 5:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "The clinch number shows up after opening night."
@@ -4229,8 +4229,8 @@
     {
       "id": 2026020001,
       "date": "2026-09-29",
-      "status": "Tue, Sep 29 \u00b7 5:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Lenovo Center",
@@ -4241,7 +4241,7 @@
         "nickname": "Hurricanes",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "FLA",
@@ -4249,7 +4249,7 @@
         "nickname": "Panthers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
         "record": "",
-        "score": ""
+        "score": 0
       }
     },
     {
