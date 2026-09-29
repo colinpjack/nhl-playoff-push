@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "SJS",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2802,30 +2802,6 @@
         "sv": 0.896,
         "gaa": 2.870981,
         "so": 0
-      },
-      {
-        "id": 8478492,
-        "name": "Ilya Samsonov",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8478492.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
-      },
-      {
-        "id": 8480356,
-        "name": "Kyle Keyser",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8480356.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       }
     ]
   },

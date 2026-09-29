@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "DAL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2680,18 +2680,6 @@
         "points": 17,
         "plusMinus": 10,
         "toi": "16:40"
-      },
-      {
-        "id": 8476278,
-        "name": "Colin Blackwell",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8476278.png",
-        "gp": 70,
-        "goals": 4,
-        "assists": 11,
-        "points": 15,
-        "plusMinus": -2,
-        "toi": "11:54"
       },
       {
         "id": 8480840,

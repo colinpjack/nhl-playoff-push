@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "TOR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2618,18 +2618,6 @@
         "points": 71,
         "plusMinus": -28,
         "toi": "18:11"
-      },
-      {
-        "id": 8482720,
-        "name": "Matthew Knies",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482720.png",
-        "gp": 79,
-        "goals": 23,
-        "assists": 43,
-        "points": 66,
-        "plusMinus": -30,
-        "toi": "18:48"
       },
       {
         "id": 8479318,

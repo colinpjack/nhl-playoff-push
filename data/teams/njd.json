@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "NJD",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2702,18 +2702,6 @@
         "points": 7,
         "plusMinus": -12,
         "toi": "11:45"
-      },
-      {
-        "id": 8475760,
-        "name": "Nick Bjugstad",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8475760.png",
-        "gp": 26,
-        "goals": 0,
-        "assists": 2,
-        "points": 2,
-        "plusMinus": -4,
-        "toi": "10:00"
       }
     ],
     "defense": [
@@ -2766,18 +2754,6 @@
         "toi": "18:00"
       },
       {
-        "id": 8480192,
-        "name": "Johnathan Kovacevic",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8480192.png",
-        "gp": 34,
-        "goals": 0,
-        "assists": 8,
-        "points": 8,
-        "plusMinus": 0,
-        "toi": "17:52"
-      },
-      {
         "id": 8477488,
         "name": "Brett Pesce",
         "position": "D",
@@ -2788,18 +2764,6 @@
         "points": 7,
         "plusMinus": -11,
         "toi": "20:18"
-      },
-      {
-        "id": 8483429,
-        "name": "Seamus Casey",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8483429.png",
-        "gp": 2,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -3,
-        "toi": "18:00"
       }
     ],
     "goalies": [

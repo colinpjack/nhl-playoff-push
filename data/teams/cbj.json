@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "CBJ",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2596,18 +2596,6 @@
     "label": "2025\u201326 numbers. They reset once the regular season starts.",
     "forwards": [
       {
-        "id": 8480893,
-        "name": "Kirill Marchenko",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8480893.png",
-        "gp": 76,
-        "goals": 27,
-        "assists": 40,
-        "points": 67,
-        "plusMinus": 7,
-        "toi": "18:57"
-      },
-      {
         "id": 8484166,
         "name": "Adam Fantilli",
         "position": "C",
@@ -2692,18 +2680,6 @@
         "toi": "13:14"
       },
       {
-        "id": 8477425,
-        "name": "Miles Wood",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8477425.png",
-        "gp": 54,
-        "goals": 8,
-        "assists": 6,
-        "points": 14,
-        "plusMinus": -10,
-        "toi": "11:51"
-      },
-      {
         "id": 8478046,
         "name": "Danton Heinen",
         "position": "L",
@@ -2752,18 +2728,6 @@
         "points": 81,
         "plusMinus": 7,
         "toi": "26:37"
-      },
-      {
-        "id": 8476923,
-        "name": "Damon Severson",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8476923.png",
-        "gp": 71,
-        "goals": 8,
-        "assists": 24,
-        "points": 32,
-        "plusMinus": 18,
-        "toi": "21:04"
       },
       {
         "id": 8483485,

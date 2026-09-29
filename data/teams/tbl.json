@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "TBL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2634,18 +2634,6 @@
         "toi": "13:05"
       },
       {
-        "id": 8476826,
-        "name": "Yanni Gourde",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8476826.png",
-        "gp": 82,
-        "goals": 9,
-        "assists": 19,
-        "points": 28,
-        "plusMinus": -6,
-        "toi": "16:22"
-      },
-      {
         "id": 8480995,
         "name": "Pontus Holmberg",
         "position": "R",
@@ -2790,18 +2778,6 @@
         "points": 10,
         "plusMinus": 7,
         "toi": "16:01"
-      },
-      {
-        "id": 8482168,
-        "name": "Maxim Groshev",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8482168.png",
-        "gp": 2,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": 1,
-        "toi": "11:30"
       }
     ],
     "goalies": [
@@ -2821,18 +2797,6 @@
         "id": 8483710,
         "name": "Dennis Hildeby",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8483710.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
-      },
-      {
-        "id": 8481544,
-        "name": "Mads Sogaard",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8481544.png",
         "gp": null,
         "wins": null,
         "losses": null,

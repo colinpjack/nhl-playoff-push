@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "NYI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2831,18 +2831,6 @@
         "id": 8473575,
         "name": "Semyon Varlamov",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8473575.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
-      },
-      {
-        "id": 8477970,
-        "name": "Vitek Vanecek",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8477970.png",
         "gp": null,
         "wins": null,
         "losses": null,

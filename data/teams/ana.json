@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "ANA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2596,18 +2596,6 @@
         "points": 60,
         "plusMinus": -12,
         "toi": "17:27"
-      },
-      {
-        "id": 8478873,
-        "name": "Troy Terry",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8478873.png",
-        "gp": 61,
-        "goals": 19,
-        "assists": 38,
-        "points": 57,
-        "plusMinus": 11,
-        "toi": "18:21"
       },
       {
         "id": 8475798,

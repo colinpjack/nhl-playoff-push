@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "BUF",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2610,18 +2610,6 @@
         "toi": "15:39"
       },
       {
-        "id": 8475722,
-        "name": "Jason Zucker",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8475722.png",
-        "gp": 62,
-        "goals": 24,
-        "assists": 21,
-        "points": 45,
-        "plusMinus": -5,
-        "toi": "15:37"
-      },
-      {
         "id": 8484145,
         "name": "Zach Benson",
         "position": "L",
@@ -2704,6 +2692,18 @@
         "points": 6,
         "plusMinus": -1,
         "toi": "11:17"
+      },
+      {
+        "id": 8483468,
+        "name": "Jiri Kulich",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8483468.png",
+        "gp": 12,
+        "goals": 3,
+        "assists": 2,
+        "points": 5,
+        "plusMinus": -4,
+        "toi": "16:22"
       }
     ],
     "defense": [
@@ -2804,18 +2804,6 @@
         "sv": 0.903,
         "gaa": 2.896854,
         "so": 1
-      },
-      {
-        "id": 8483475,
-        "name": "Topias Leinonen",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8483475.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       }
     ]
   },

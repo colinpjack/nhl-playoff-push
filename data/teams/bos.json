@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "BOS",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2796,18 +2796,6 @@
         "points": 22,
         "plusMinus": 18,
         "toi": "20:53"
-      },
-      {
-        "id": 8480035,
-        "name": "Henri Jokiharju",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BOS/8480035.png",
-        "gp": 41,
-        "goals": 2,
-        "assists": 13,
-        "points": 15,
-        "plusMinus": 2,
-        "toi": "17:48"
       },
       {
         "id": 8481219,

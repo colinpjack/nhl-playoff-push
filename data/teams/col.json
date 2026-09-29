@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "COL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2668,18 +2668,6 @@
         "points": 2,
         "plusMinus": -1,
         "toi": "11:27"
-      },
-      {
-        "id": 8482953,
-        "name": "Taylor Makar",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8482953.png",
-        "gp": 12,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 0,
-        "toi": "6:13"
       }
     ],
     "defense": [
@@ -2754,18 +2742,6 @@
         "points": 3,
         "plusMinus": 1,
         "toi": "19:08"
-      },
-      {
-        "id": 8479387,
-        "name": "Keaton Middleton",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8479387.png",
-        "gp": 3,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": -1,
-        "toi": "10:45"
       }
     ],
     "goalies": [
@@ -2792,18 +2768,6 @@
         "sv": 0.904,
         "gaa": 2.505006,
         "so": 3
-      },
-      {
-        "id": 8481529,
-        "name": "Trent Miner",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8481529.png",
-        "gp": 4,
-        "wins": 1,
-        "losses": 0,
-        "otl": 3,
-        "sv": 0.933,
-        "gaa": 2.029026,
-        "so": 1
       }
     ]
   },

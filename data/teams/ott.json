@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "OTT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2755,28 +2755,16 @@
         "toi": "8:31"
       },
       {
-        "id": 8477998,
-        "name": "Warren Foegele",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8477998.png",
-        "gp": 21,
-        "goals": 6,
-        "assists": 2,
-        "points": 8,
-        "plusMinus": 6,
-        "toi": "11:35"
-      },
-      {
-        "id": 8477073,
-        "name": "Kurtis MacDermid",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8477073.png",
-        "gp": 19,
+        "id": 8478173,
+        "name": "Hayden Hodgson",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8478173.png",
+        "gp": 10,
         "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": -5,
-        "toi": "4:12"
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -2,
+        "toi": "7:02"
       }
     ],
     "defense": [
@@ -2815,18 +2803,6 @@
         "points": 31,
         "plusMinus": 6,
         "toi": "22:35"
-      },
-      {
-        "id": 8482245,
-        "name": "Artem Zub",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8482245.png",
-        "gp": 81,
-        "goals": 5,
-        "assists": 25,
-        "points": 30,
-        "plusMinus": 22,
-        "toi": "20:48"
       },
       {
         "id": 8482095,

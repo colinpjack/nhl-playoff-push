@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:48:25.278341-04:00",
+  "generatedAt": "2026-09-29T14:39:48.592129-04:00",
   "team": "CHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2732,18 +2732,6 @@
         "points": 9,
         "plusMinus": -1,
         "toi": "17:42"
-      },
-      {
-        "id": 8482172,
-        "name": "Landon Slaggert",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8482172.png",
-        "gp": 53,
-        "goals": 3,
-        "assists": 4,
-        "points": 7,
-        "plusMinus": -2,
-        "toi": "10:33"
       },
       {
         "id": 8478233,
