@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:15:19.540168-04:00",
+  "generatedAt": "2026-09-30T15:28:16.941598-04:00",
   "team": "TBL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2417,6 +2417,18 @@
         "points": 33,
         "plusMinus": 26,
         "toi": "13:05"
+      },
+      {
+        "id": 8476826,
+        "name": "Yanni Gourde",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8476826.png",
+        "gp": 82,
+        "goals": 9,
+        "assists": 19,
+        "points": 28,
+        "plusMinus": -6,
+        "toi": "16:22"
       },
       {
         "id": 8480995,
