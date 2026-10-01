@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:28:58.499619-04:00",
+  "generatedAt": "2026-10-01T17:24:45.121001-04:00",
   "team": "CGY",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2561,18 +2561,6 @@
         "toi": "13:53"
       },
       {
-        "id": 8484150,
-        "name": "Hunter Brzustewicz",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484150.png",
-        "gp": 34,
-        "goals": 2,
-        "assists": 5,
-        "points": 7,
-        "plusMinus": 0,
-        "toi": "16:08"
-      },
-      {
         "id": 8477810,
         "name": "Joel Hanley",
         "position": "D",
@@ -2583,18 +2571,6 @@
         "points": 7,
         "plusMinus": -5,
         "toi": "14:40"
-      },
-      {
-        "id": 8483709,
-        "name": "Abram Wiebe",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8483709.png",
-        "gp": 4,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 0,
-        "toi": "12:01"
       }
     ],
     "goalies": [
