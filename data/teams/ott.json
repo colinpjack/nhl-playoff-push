@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T03:02:48.641911-04:00",
+  "generatedAt": "2026-10-02T15:22:02.712761-04:00",
   "team": "OTT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2496,6 +2496,18 @@
         "points": 11,
         "plusMinus": 0,
         "toi": "8:31"
+      },
+      {
+        "id": 8477998,
+        "name": "Warren Foegele",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8477998.png",
+        "gp": 21,
+        "goals": 6,
+        "assists": 2,
+        "points": 8,
+        "plusMinus": 6,
+        "toi": "11:35"
       },
       {
         "id": 8478173,

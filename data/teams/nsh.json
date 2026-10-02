@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T03:02:48.641911-04:00",
+  "generatedAt": "2026-10-02T15:22:02.712761-04:00",
   "team": "NSH",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2583,18 +2583,6 @@
         "points": 0,
         "plusMinus": -1,
         "toi": "15:23"
-      },
-      {
-        "id": 8482715,
-        "name": "Ryan Ufko",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8482715.png",
-        "gp": 1,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -1,
-        "toi": "15:27"
       }
     ],
     "goalies": [

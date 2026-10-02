@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T03:02:48.641911-04:00",
+  "generatedAt": "2026-10-02T15:22:02.712761-04:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2369,18 +2369,6 @@
         "points": 76,
         "plusMinus": 1,
         "toi": "18:48"
-      },
-      {
-        "id": 8477946,
-        "name": "Dylan Larkin",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8477946.png",
-        "gp": 74,
-        "goals": 34,
-        "assists": 33,
-        "points": 67,
-        "plusMinus": 3,
-        "toi": "20:11"
       },
       {
         "id": 8477429,
