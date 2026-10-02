@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T17:24:45.121001-04:00",
+  "generatedAt": "2026-10-01T21:05:49.538943-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Sep 28",
@@ -170,7 +170,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "@ CBJ",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -905,7 +905,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "@ CBJ",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -954,7 +954,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs BUF",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1150,7 +1150,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "@ NSH",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1199,7 +1199,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs PHI",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1248,7 +1248,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs MIN",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1493,7 +1493,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "@ NYR",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1885,7 +1885,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "vs TBL",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1983,7 +1983,7 @@
       "formDiff": -7,
       "formDirection": "down",
       "nextLabel": "@ NJD",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2234,7 +2234,7 @@
         "formDiff": -7,
         "formDirection": "down",
         "nextLabel": "@ NJD",
-        "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "\u2014",
         "magicKind": "",
         "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2381,7 +2381,7 @@
         "formDiff": -3,
         "formDirection": "down",
         "nextLabel": "vs TBL",
-        "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "\u2014",
         "magicKind": "",
         "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2689,7 +2689,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs BUF",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -2791,7 +2791,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "@ CBJ",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -2893,7 +2893,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs PHI",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -2995,7 +2995,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "@ NYR",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3148,7 +3148,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "vs TBL",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3199,7 +3199,7 @@
       "formDiff": -7,
       "formDirection": "down",
       "nextLabel": "@ NJD",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3507,7 +3507,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "@ NSH",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3660,7 +3660,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs MIN",
-      "nextTitle": "Regular season \u00b7 Thu, Oct 1 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4453,8 +4453,8 @@
     {
       "id": 2026020009,
       "date": "2026-10-01",
-      "status": "Thu, Oct 1 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Prudential Center",
@@ -4465,7 +4465,7 @@
         "nickname": "Devils",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
         "record": "0-0-0",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "PHI",
@@ -4473,14 +4473,14 @@
         "nickname": "Flyers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
         "record": "0-1-0",
-        "score": ""
+        "score": 1
       }
     },
     {
       "id": 2026020010,
       "date": "2026-10-01",
-      "status": "Thu, Oct 1 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Madison Square Garden",
@@ -4491,7 +4491,7 @@
         "nickname": "Rangers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
         "record": "0-1-0",
-        "score": ""
+        "score": 4
       },
       "away": {
         "abbr": "TBL",
@@ -4499,14 +4499,14 @@
         "nickname": "Lightning",
         "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
         "record": "0-0-0",
-        "score": ""
+        "score": 1
       }
     },
     {
       "id": 2026020011,
       "date": "2026-10-01",
-      "status": "Thu, Oct 1 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Nationwide Arena",
@@ -4517,7 +4517,7 @@
         "nickname": "Blue Jackets",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
         "record": "0-0-0",
-        "score": ""
+        "score": 4
       },
       "away": {
         "abbr": "BUF",
@@ -4525,14 +4525,14 @@
         "nickname": "Sabres",
         "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
         "record": "0-0-0",
-        "score": ""
+        "score": 3
       }
     },
     {
       "id": 2026020012,
       "date": "2026-10-01",
-      "status": "Thu, Oct 1 \u00b7 8:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Bridgestone Arena",
@@ -4543,7 +4543,7 @@
         "nickname": "Predators",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
         "record": "0-0-0",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "MIN",
@@ -4551,7 +4551,7 @@
         "nickname": "Wild",
         "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
         "record": "0-0-0",
-        "score": ""
+        "score": 2
       }
     },
     {
