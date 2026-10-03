@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:00:44.828779-04:00",
+  "generatedAt": "2026-10-03T17:21:41.789270-04:00",
   "team": "CAR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2566,18 +2566,6 @@
         "points": 1,
         "plusMinus": -2,
         "toi": "23:43"
-      },
-      {
-        "id": 8484428,
-        "name": "Charles Alexis Legault",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8484428.png",
-        "gp": 2,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 0,
-        "toi": "11:54"
       },
       {
         "id": 8476958,
