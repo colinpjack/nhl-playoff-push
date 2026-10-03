@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T04:34:16.618936-04:00",
+  "generatedAt": "2026-10-03T09:56:35.531463-04:00",
   "team": "STL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2450,7 +2450,7 @@
         "assists": 0,
         "points": 0,
         "plusMinus": 0,
-        "toi": "13:48"
+        "toi": "13:45"
       },
       {
         "id": 8477402,
@@ -2486,7 +2486,7 @@
         "assists": 0,
         "points": 0,
         "plusMinus": 1,
-        "toi": "9:56"
+        "toi": "9:59"
       }
     ],
     "defense": [
