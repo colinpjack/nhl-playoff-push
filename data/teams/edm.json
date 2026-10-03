@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T09:56:35.531463-04:00",
+  "generatedAt": "2026-10-03T14:00:44.828779-04:00",
   "team": "EDM",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2496,6 +2496,18 @@
         "toi": "13:48"
       },
       {
+        "id": 8484509,
+        "name": "Josh Samanski",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8484509.png",
+        "gp": 1,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "toi": "8:41"
+      },
+      {
         "id": 8479368,
         "name": "Max Jones",
         "position": "L",
@@ -2506,18 +2518,6 @@
         "points": 0,
         "plusMinus": -4,
         "toi": "12:00"
-      },
-      {
-        "id": 8475786,
-        "name": "Zach Hyman",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/EDM/8475786.png",
-        "gp": 1,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 1,
-        "toi": "20:33"
       }
     ],
     "defense": [
