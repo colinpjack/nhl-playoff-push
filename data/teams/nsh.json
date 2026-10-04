@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T01:59:12.401324-04:00",
+  "generatedAt": "2026-10-04T13:04:09.672777-04:00",
   "team": "NSH",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2699,18 +2699,6 @@
         "id": 8481020,
         "name": "Justus Annunen",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8481020.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
-      },
-      {
-        "id": 8483575,
-        "name": "Matt Murray",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8483575.png",
         "gp": null,
         "wins": null,
         "losses": null,
