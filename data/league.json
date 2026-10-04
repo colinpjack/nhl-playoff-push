@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T16:12:40.390247-04:00",
+  "generatedAt": "2026-10-04T19:14:15.155480-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Sep 28",
@@ -513,7 +513,7 @@
       "formDiff": 9,
       "formDirection": "up",
       "nextLabel": "@ NYR",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 4 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "163",
       "magicKind": "",
       "magicTitle": "163 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 164."
@@ -1003,7 +1003,7 @@
       "formDiff": 3,
       "formDirection": "up",
       "nextLabel": "vs UTA",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 4 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2036,7 +2036,7 @@
         "formDiff": 9,
         "formDirection": "up",
         "nextLabel": "@ NYR",
-        "nextTitle": "Regular season \u00b7 Sun, Oct 4 \u00b7 6:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "163",
         "magicKind": "",
         "magicTitle": "163 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 164."
@@ -2434,7 +2434,7 @@
       "formDiff": 3,
       "formDirection": "up",
       "nextLabel": "vs UTA",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 4 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3354,7 +3354,7 @@
       "formDiff": 9,
       "formDirection": "up",
       "nextLabel": "@ NYR",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 4 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "163",
       "magicKind": "",
       "magicTitle": "163 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 164.",
@@ -4121,7 +4121,7 @@
       "formDiff": 3,
       "formDirection": "up",
       "nextLabel": "vs UTA",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 4 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -5209,8 +5209,8 @@
     {
       "id": 2026020036,
       "date": "2026-10-04",
-      "status": "Sun, Oct 4 \u00b7 6:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Madison Square Garden",
@@ -5221,7 +5221,7 @@
         "nickname": "Rangers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
         "record": "2-1-0",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "UTA",
@@ -5229,7 +5229,7 @@
         "nickname": "Mammoth",
         "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
         "record": "2-0-0",
-        "score": ""
+        "score": 0
       }
     },
     {
