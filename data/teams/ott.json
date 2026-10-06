@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:14:15.217331-04:00",
+  "generatedAt": "2026-10-06T15:36:01.738097-04:00",
   "team": "OTT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2661,6 +2661,18 @@
         "sv": 0.889,
         "gaa": 3.0,
         "so": 0
+      },
+      {
+        "id": 8477992,
+        "name": "Jonas Johansson",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8477992.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       }
     ]
   },

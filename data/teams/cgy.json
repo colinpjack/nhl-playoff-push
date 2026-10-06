@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:14:15.217331-04:00",
+  "generatedAt": "2026-10-06T15:36:01.738097-04:00",
   "team": "CGY",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2453,18 +2453,6 @@
         "toi": "16:12"
       },
       {
-        "id": 8482074,
-        "name": "Connor Zary",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8482074.png",
-        "gp": 2,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": -2,
-        "toi": "13:38"
-      },
-      {
         "id": 8482679,
         "name": "Matt Coronato",
         "position": "R",
@@ -2583,6 +2571,18 @@
         "points": 0,
         "plusMinus": -3,
         "toi": "17:07"
+      },
+      {
+        "id": 8484180,
+        "name": "Samuel Honzek",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8484180.png",
+        "gp": 3,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -2,
+        "toi": "15:34"
       }
     ],
     "defense": [
