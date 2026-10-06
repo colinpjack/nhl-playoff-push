@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:53:33.062466-04:00",
+  "generatedAt": "2026-10-06T10:14:15.217331-04:00",
   "team": "SJS",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2461,7 +2461,7 @@
         "goals": 2,
         "assists": 1,
         "points": 3,
-        "plusMinus": 2,
+        "plusMinus": 1,
         "toi": "14:33"
       },
       {
@@ -2497,7 +2497,7 @@
         "goals": 0,
         "assists": 1,
         "points": 1,
-        "plusMinus": -1,
+        "plusMinus": -2,
         "toi": "14:19"
       },
       {
@@ -2533,7 +2533,7 @@
         "goals": 0,
         "assists": 1,
         "points": 1,
-        "plusMinus": 1,
+        "plusMinus": 0,
         "toi": "13:43"
       },
       {
@@ -2557,7 +2557,7 @@
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -1,
+        "plusMinus": 0,
         "toi": "13:06"
       },
       {
@@ -2569,7 +2569,7 @@
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -3,
+        "plusMinus": -2,
         "toi": "15:24"
       },
       {
@@ -2607,7 +2607,7 @@
         "goals": 0,
         "assists": 1,
         "points": 1,
-        "plusMinus": 0,
+        "plusMinus": -1,
         "toi": "20:45"
       },
       {
@@ -2631,7 +2631,7 @@
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -2,
+        "plusMinus": -1,
         "toi": "20:25"
       },
       {
@@ -2655,7 +2655,7 @@
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -1,
+        "plusMinus": 0,
         "toi": "20:37"
       },
       {
@@ -2667,7 +2667,7 @@
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -1,
+        "plusMinus": -2,
         "toi": "16:28"
       }
     ],
