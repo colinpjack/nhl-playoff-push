@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T15:36:01.738097-04:00",
+  "generatedAt": "2026-10-06T19:20:10.685387-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 5",
@@ -170,7 +170,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs CAR",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "164",
       "magicKind": "",
       "magicTitle": "164 more points guarantees Atlantic top three, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -513,7 +513,7 @@
       "formDiff": 5,
       "formDirection": "up",
       "nextLabel": "@ BUF",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "163",
       "magicKind": "",
       "magicTitle": "163 more points guarantees Central top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -562,7 +562,7 @@
       "formDiff": 4,
       "formDirection": "up",
       "nextLabel": "@ DET",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "163",
       "magicKind": "",
       "magicTitle": "163 more points guarantees Atlantic top three, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -807,7 +807,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs CAR",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "164",
       "magicKind": "",
       "magicTitle": "164 more points guarantees Atlantic top three, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -954,7 +954,7 @@
       "formDiff": 7,
       "formDirection": "up",
       "nextLabel": "@ NJD",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1395,7 +1395,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ TOR",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1493,7 +1493,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "@ MTL",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1542,7 +1542,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "vs MIN",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1640,7 +1640,7 @@
       "formDiff": -5,
       "formDirection": "down",
       "nextLabel": "vs UTA",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1738,7 +1738,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs NSH",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1885,7 +1885,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "vs OTT",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2183,7 +2183,7 @@
         "formDiff": 7,
         "formDirection": "up",
         "nextLabel": "@ NJD",
-        "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "\u2014",
         "magicKind": "",
         "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2381,7 +2381,7 @@
         "formDiff": -5,
         "formDirection": "down",
         "nextLabel": "vs UTA",
-        "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "\u2014",
         "magicKind": "",
         "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2485,7 +2485,7 @@
       "formDiff": 4,
       "formDirection": "up",
       "nextLabel": "@ DET",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "163",
       "magicKind": "",
       "magicTitle": "163 more points guarantees Atlantic top three, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point.",
@@ -2689,7 +2689,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "@ MTL",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -2791,7 +2791,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs CAR",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "164",
       "magicKind": "",
       "magicTitle": "164 more points guarantees Atlantic top three, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point.",
@@ -2995,7 +2995,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs NSH",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3046,7 +3046,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "vs MIN",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3097,7 +3097,7 @@
       "formDiff": -5,
       "formDirection": "down",
       "nextLabel": "vs UTA",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3199,7 +3199,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "vs OTT",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3456,7 +3456,7 @@
       "formDiff": 7,
       "formDirection": "up",
       "nextLabel": "@ NJD",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3558,7 +3558,7 @@
       "formDiff": 5,
       "formDirection": "up",
       "nextLabel": "@ BUF",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "163",
       "magicKind": "",
       "magicTitle": "163 more points guarantees Central top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point.",
@@ -3813,7 +3813,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ TOR",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4072,7 +4072,7 @@
       "formDiff": 4,
       "formDirection": "up",
       "nextLabel": "@ DET",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 6 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "163",
       "magicKind": "",
       "magicTitle": "163 more points guarantees Atlantic top three, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -4341,8 +4341,8 @@
     {
       "id": 2026020044,
       "date": "2026-10-06",
-      "status": "Tue, Oct 6 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Scotiabank Arena",
@@ -4353,7 +4353,7 @@
         "nickname": "Maple Leafs",
         "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
         "record": "1-2-0",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "NSH",
@@ -4361,14 +4361,14 @@
         "nickname": "Predators",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
         "record": "1-1-0",
-        "score": ""
+        "score": 1
       }
     },
     {
       "id": 2026020045,
       "date": "2026-10-06",
-      "status": "Tue, Oct 6 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Centre Bell",
@@ -4379,7 +4379,7 @@
         "nickname": "Canadiens",
         "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
         "record": "1-0-1",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "CAR",
@@ -4387,14 +4387,14 @@
         "nickname": "Hurricanes",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
         "record": "1-1-1",
-        "score": ""
+        "score": 0
       }
     },
     {
       "id": 2026020046,
       "date": "2026-10-06",
-      "status": "Tue, Oct 6 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Little Caesars Arena",
@@ -4405,7 +4405,7 @@
         "nickname": "Red Wings",
         "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
         "record": "0-2-0",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "OTT",
@@ -4413,14 +4413,14 @@
         "nickname": "Senators",
         "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
         "record": "2-0-0",
-        "score": ""
+        "score": 1
       }
     },
     {
       "id": 2026020047,
       "date": "2026-10-06",
-      "status": "Tue, Oct 6 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Prudential Center",
@@ -4431,7 +4431,7 @@
         "nickname": "Devils",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
         "record": "1-1-0",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "UTA",
@@ -4439,7 +4439,7 @@
         "nickname": "Mammoth",
         "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
         "record": "2-1-0",
-        "score": ""
+        "score": 1
       }
     },
     {
@@ -4471,8 +4471,8 @@
     {
       "id": 2026020049,
       "date": "2026-10-06",
-      "status": "Tue, Oct 6 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "KeyBank Center",
@@ -4483,7 +4483,7 @@
         "nickname": "Sabres",
         "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
         "record": "1-1-0",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "MIN",
@@ -4491,7 +4491,7 @@
         "nickname": "Wild",
         "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
         "record": "2-0-0",
-        "score": ""
+        "score": 0
       }
     },
     {
@@ -5178,7 +5178,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Canadian Tire Centre",
-      "broadcast": "SN1, SCRIPPS",
+      "broadcast": "SN1, TVAS-D, SCRIPPS",
       "home": {
         "abbr": "OTT",
         "name": "Ottawa Senators",
