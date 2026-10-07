@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T05:22:06.229496-04:00",
+  "generatedAt": "2026-10-07T18:01:32.417960-04:00",
   "team": "PIT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2443,18 +2443,6 @@
         "toi": "16:28"
       },
       {
-        "id": 8480842,
-        "name": "Filip Hallander",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8480842.png",
-        "gp": 2,
-        "goals": 1,
-        "assists": 2,
-        "points": 3,
-        "plusMinus": 4,
-        "toi": "10:17"
-      },
-      {
         "id": 8482148,
         "name": "Hendrix Lapierre",
         "position": "C",
@@ -2549,6 +2537,18 @@
         "points": 0,
         "plusMinus": -1,
         "toi": "13:25"
+      },
+      {
+        "id": 8480980,
+        "name": "Connor Dewar",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8480980.png",
+        "gp": 3,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -2,
+        "toi": "14:30"
       }
     ],
     "defense": [

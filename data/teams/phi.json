@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T05:22:06.229496-04:00",
+  "generatedAt": "2026-10-07T18:01:32.417960-04:00",
   "team": "PHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2556,18 +2556,6 @@
         "toi": "18:24"
       },
       {
-        "id": 8483731,
-        "name": "Alex Bump",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8483731.png",
-        "gp": 3,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 0,
-        "toi": "12:08"
-      },
-      {
         "id": 8479336,
         "name": "Carl Grundstrom",
         "position": "R",
@@ -2614,6 +2602,18 @@
         "points": 0,
         "plusMinus": -3,
         "toi": "15:22"
+      },
+      {
+        "id": 8485406,
+        "name": "Porter Martone",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8485406.png",
+        "gp": 4,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -2,
+        "toi": "13:02"
       }
     ],
     "defense": [
