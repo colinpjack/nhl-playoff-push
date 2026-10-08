@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:01:32.417960-04:00",
+  "generatedAt": "2026-10-07T21:59:39.488663-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 5",
@@ -121,7 +121,7 @@
       "formDiff": 9,
       "formDirection": "up",
       "nextLabel": "@ WPG",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "162",
       "magicKind": "",
       "magicTitle": "162 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 163."
@@ -464,7 +464,7 @@
       "formDiff": 9,
       "formDirection": "up",
       "nextLabel": "@ WPG",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "162",
       "magicKind": "",
       "magicTitle": "162 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 163."
@@ -660,7 +660,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs COL",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "161",
       "magicKind": "",
       "magicTitle": "161 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 162."
@@ -905,7 +905,7 @@
       "formDiff": 7,
       "formDirection": "up",
       "nextLabel": "@ WSH",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "162",
       "magicKind": "",
       "magicTitle": "162 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 163."
@@ -1199,7 +1199,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs PIT",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "164",
       "magicKind": "",
       "magicTitle": "164 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 165."
@@ -2036,7 +2036,7 @@
         "formDiff": 9,
         "formDirection": "up",
         "nextLabel": "@ WPG",
-        "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "162",
         "magicKind": "",
         "magicTitle": "162 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 163."
@@ -2085,7 +2085,7 @@
         "formDiff": 7,
         "formDirection": "up",
         "nextLabel": "@ WSH",
-        "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "162",
         "magicKind": "",
         "magicTitle": "162 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 163."
@@ -2689,7 +2689,7 @@
       "formDiff": 7,
       "formDirection": "up",
       "nextLabel": "@ WSH",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "162",
       "magicKind": "",
       "magicTitle": "162 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 163.",
@@ -2995,7 +2995,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs PIT",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "164",
       "magicKind": "",
       "magicTitle": "164 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 165.",
@@ -3456,7 +3456,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs COL",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "161",
       "magicKind": "",
       "magicTitle": "161 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 162.",
@@ -3558,7 +3558,7 @@
       "formDiff": 9,
       "formDirection": "up",
       "nextLabel": "@ WPG",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 7 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "162",
       "magicKind": "",
       "magicTitle": "162 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 163.",
@@ -4593,8 +4593,8 @@
     {
       "id": 2026020053,
       "date": "2026-10-07",
-      "status": "Wed, Oct 7 \u00b7 7:30 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Capital One Arena",
@@ -4605,7 +4605,7 @@
         "nickname": "Capitals",
         "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
         "record": "1-1-0",
-        "score": ""
+        "score": 5
       },
       "away": {
         "abbr": "PIT",
@@ -4613,14 +4613,14 @@
         "nickname": "Penguins",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
         "record": "2-1-0",
-        "score": ""
+        "score": 3
       }
     },
     {
       "id": 2026020054,
       "date": "2026-10-07",
-      "status": "Wed, Oct 7 \u00b7 7:30 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Canada Life Centre",
@@ -4631,7 +4631,7 @@
         "nickname": "Jets",
         "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
         "record": "2-0-1",
-        "score": ""
+        "score": 2
       },
       "away": {
         "abbr": "COL",
@@ -4639,7 +4639,7 @@
         "nickname": "Avalanche",
         "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
         "record": "2-0-0",
-        "score": ""
+        "score": 1
       }
     },
     {

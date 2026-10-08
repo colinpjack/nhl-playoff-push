@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:01:32.417960-04:00",
+  "generatedAt": "2026-10-07T21:59:39.488663-04:00",
   "team": "STL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2438,7 +2438,7 @@
       "id": 2026020055,
       "date": "2026-10-07",
       "start": "2026-10-08T02:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Honda Center",
       "isHome": true,
       "opponent": {
