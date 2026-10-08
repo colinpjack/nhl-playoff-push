@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T05:03:28.023901-04:00",
+  "generatedAt": "2026-10-08T12:32:52.938276-04:00",
   "team": "TBL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2525,18 +2525,6 @@
         "points": 0,
         "plusMinus": -1,
         "toi": "14:43"
-      },
-      {
-        "id": 8478424,
-        "name": "Jansen Harkins",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TBL/8478424.png",
-        "gp": 1,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -1,
-        "toi": "10:55"
       },
       {
         "id": 8479705,
