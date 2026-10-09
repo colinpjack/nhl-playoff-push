@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T11:20:15.316010-04:00",
+  "generatedAt": "2026-10-09T16:20:35.739471-04:00",
   "team": "MIN",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2685,6 +2685,18 @@
         "id": 8475717,
         "name": "Calvin Pickard",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8475717.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
+      },
+      {
+        "id": 8479406,
+        "name": "Filip Gustavsson",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8479406.png",
         "gp": null,
         "wins": null,
         "losses": null,
