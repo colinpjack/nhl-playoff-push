@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T02:25:42.242482-04:00",
+  "generatedAt": "2026-10-10T13:52:53.253661-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 5",
@@ -1248,7 +1248,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs PHI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 10 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1885,7 +1885,7 @@
       "formDiff": -5,
       "formDirection": "down",
       "nextLabel": "@ BOS",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 10 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2689,7 +2689,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs PHI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 10 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3199,7 +3199,7 @@
       "formDiff": -5,
       "formDirection": "down",
       "nextLabel": "@ BOS",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 10 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -5069,8 +5069,8 @@
     {
       "id": 2026020070,
       "date": "2026-10-10",
-      "status": "Sat, Oct 10 \u00b7 1:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "TD Garden",
@@ -5081,7 +5081,7 @@
         "nickname": "Bruins",
         "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
         "record": "3-2-0",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "PHI",
@@ -5089,7 +5089,7 @@
         "nickname": "Flyers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
         "record": "0-3-2",
-        "score": ""
+        "score": 0
       }
     },
     {
