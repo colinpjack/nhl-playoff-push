@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T14:57:45.849903-04:00",
+  "generatedAt": "2026-10-11T18:57:20.339895-04:00",
   "team": "CAR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020086,
       "date": "2026-10-11",
       "start": "2026-10-11T23:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Xfinity Mobile Arena",
       "isHome": false,
       "opponent": {
@@ -2353,7 +2353,7 @@
       "id": 2026020086,
       "date": "2026-10-11",
       "start": "2026-10-11T23:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Xfinity Mobile Arena",
       "isHome": false,
       "opponent": {
