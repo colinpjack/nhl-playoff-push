@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-10-11T22:27:18.170438-04:00",
+  "generatedAt": "2026-10-12T05:48:14.478168-04:00",
   "season": "2026\u201327",
   "mode": "live",
-  "weekLabel": "Week of Oct 5",
+  "weekLabel": "Week of Oct 12",
   "rankBaseline": {
-    "COL": 1,
-    "PIT": 2,
-    "MIN": 3,
-    "SJS": 4,
+    "EDM": 1,
+    "VGK": 2,
+    "CAR": 3,
+    "TBL": 4,
     "ANA": 5,
     "OTT": 6,
-    "EDM": 7,
-    "NYR": 8,
-    "FLA": 9,
-    "MTL": 10,
-    "WPG": 11,
+    "NYR": 7,
+    "MIN": 8,
+    "BOS": 9,
+    "WPG": 10,
+    "SEA": 11,
     "UTA": 12,
-    "VAN": 13,
-    "BOS": 14,
-    "NYI": 15,
-    "SEA": 16,
-    "VGK": 17,
-    "WSH": 18,
-    "CBJ": 19,
-    "NSH": 20,
+    "WSH": 13,
+    "NSH": 14,
+    "COL": 15,
+    "TOR": 16,
+    "FLA": 17,
+    "PIT": 18,
+    "SJS": 19,
+    "DAL": 20,
     "STL": 21,
-    "CAR": 22,
-    "BUF": 23,
-    "TBL": 24,
-    "NJD": 25,
-    "TOR": 26,
-    "PHI": 27,
+    "MTL": 22,
+    "CBJ": 23,
+    "NJD": 24,
+    "NYI": 25,
+    "BUF": 26,
+    "DET": 27,
     "LAK": 28,
-    "DET": 29,
-    "DAL": 30,
-    "CHI": 31,
+    "VAN": 29,
+    "CHI": 30,
+    "PHI": 31,
     "CGY": 32
   },
-  "rankBaselineWeek": "2026-10-05",
+  "rankBaselineWeek": "2026-10-12",
   "ticker": [
-    "WEEK OF OCT 5",
+    "WEEK OF OCT 12",
     "NO. 1 EDM 4-0-1",
     "EAST CUT WSH 6 PTS",
     "WEST CUT COL 6 PTS",
     "HOT CAR +11 LAST 3"
   ],
   "narrative": {
-    "kicker": "Week of Oct 5",
+    "kicker": "Week of Oct 12",
     "headline": "The Hurricanes are the team on the rise",
-    "blurb": "47 games on this week's slate. The Oilers are No. 1 at 4-0-1 with a +8 goal differential. The East's last playoff spot is the Capitals on 6 points. The West's last spot is the Avalanche on 6 points. The Hurricanes lead the heat check at 3-0-0 and +11 goals over the last three games."
+    "blurb": "50 games on this week's slate. The Oilers are No. 1 at 4-0-1 with a +8 goal differential. The East's last playoff spot is the Capitals on 6 points. The West's last spot is the Avalanche on 6 points. The Hurricanes lead the heat check at 3-0-0 and +11 goals over the last three games."
   },
   "chips": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "label": "Games",
-      "value": "47"
+      "value": "50"
     },
     {
       "label": "Hottest",
@@ -112,7 +112,7 @@
       "soWins": 0,
       "playoffPct": 90.8,
       "rank": 1,
-      "move": 6,
+      "move": 0,
       "power": 81,
       "seed": 3,
       "path": "Pacific 2",
@@ -161,7 +161,7 @@
       "soWins": 0,
       "playoffPct": 63.0,
       "rank": 13,
-      "move": 5,
+      "move": 0,
       "power": 58,
       "seed": 8,
       "path": "Wild card",
@@ -210,7 +210,7 @@
       "soWins": 0,
       "playoffPct": 96.3,
       "rank": 15,
-      "move": -14,
+      "move": 0,
       "power": 57,
       "seed": 8,
       "path": "Wild card",
@@ -455,7 +455,7 @@
       "soWins": 0,
       "playoffPct": 90.8,
       "rank": 1,
-      "move": 6,
+      "move": 0,
       "power": 81,
       "seed": 3,
       "path": "Pacific 2",
@@ -504,7 +504,7 @@
       "soWins": 1,
       "playoffPct": 91.8,
       "rank": 2,
-      "move": 15,
+      "move": 0,
       "power": 76,
       "seed": 1,
       "path": "Pacific 1",
@@ -553,7 +553,7 @@
       "soWins": 0,
       "playoffPct": 99.2,
       "rank": 3,
-      "move": 19,
+      "move": 0,
       "power": 75,
       "seed": 1,
       "path": "Metropolitan 1",
@@ -602,7 +602,7 @@
       "soWins": 0,
       "playoffPct": 96.1,
       "rank": 4,
-      "move": 20,
+      "move": 0,
       "power": 74,
       "seed": 2,
       "path": "Atlantic 1",
@@ -749,7 +749,7 @@
       "soWins": 0,
       "playoffPct": 46.8,
       "rank": 7,
-      "move": 1,
+      "move": 0,
       "power": 67,
       "seed": 3,
       "path": "Metropolitan 2",
@@ -798,7 +798,7 @@
       "soWins": 0,
       "playoffPct": 89.7,
       "rank": 8,
-      "move": -5,
+      "move": 0,
       "power": 65,
       "seed": 5,
       "path": "Central 2",
@@ -847,7 +847,7 @@
       "soWins": 0,
       "playoffPct": 80.3,
       "rank": 9,
-      "move": 5,
+      "move": 0,
       "power": 64,
       "seed": 4,
       "path": "Atlantic 2",
@@ -896,7 +896,7 @@
       "soWins": 0,
       "playoffPct": 45.0,
       "rank": 10,
-      "move": 1,
+      "move": 0,
       "power": 64,
       "seed": 6,
       "path": "Central 3",
@@ -945,7 +945,7 @@
       "soWins": 0,
       "playoffPct": 44.4,
       "rank": 11,
-      "move": 5,
+      "move": 0,
       "power": 62,
       "seed": 4,
       "path": "Pacific 3",
@@ -1043,7 +1043,7 @@
       "soWins": 0,
       "playoffPct": 63.0,
       "rank": 13,
-      "move": 5,
+      "move": 0,
       "power": 58,
       "seed": 8,
       "path": "Wild card",
@@ -1092,7 +1092,7 @@
       "soWins": 0,
       "playoffPct": 38.8,
       "rank": 14,
-      "move": 6,
+      "move": 0,
       "power": 58,
       "seed": 9,
       "path": "Out",
@@ -1141,7 +1141,7 @@
       "soWins": 0,
       "playoffPct": 96.3,
       "rank": 15,
-      "move": -14,
+      "move": 0,
       "power": 57,
       "seed": 8,
       "path": "Wild card",
@@ -1190,7 +1190,7 @@
       "soWins": 0,
       "playoffPct": 20.0,
       "rank": 16,
-      "move": 10,
+      "move": 0,
       "power": 57,
       "seed": 7,
       "path": "Wild card",
@@ -1239,7 +1239,7 @@
       "soWins": 0,
       "playoffPct": 26.3,
       "rank": 17,
-      "move": -8,
+      "move": 0,
       "power": 56,
       "seed": 9,
       "path": "Out",
@@ -1288,7 +1288,7 @@
       "soWins": 1,
       "playoffPct": 66.1,
       "rank": 18,
-      "move": -16,
+      "move": 0,
       "power": 55,
       "seed": 6,
       "path": "Metropolitan 3",
@@ -1337,7 +1337,7 @@
       "soWins": 0,
       "playoffPct": 37.8,
       "rank": 19,
-      "move": -15,
+      "move": 0,
       "power": 55,
       "seed": 10,
       "path": "Out",
@@ -1386,7 +1386,7 @@
       "soWins": 0,
       "playoffPct": 80.2,
       "rank": 20,
-      "move": 10,
+      "move": 0,
       "power": 53,
       "seed": 11,
       "path": "Out",
@@ -1484,7 +1484,7 @@
       "soWins": 1,
       "playoffPct": 65.7,
       "rank": 22,
-      "move": -12,
+      "move": 0,
       "power": 48,
       "seed": 10,
       "path": "Out",
@@ -1533,7 +1533,7 @@
       "soWins": 1,
       "playoffPct": 35.6,
       "rank": 23,
-      "move": -4,
+      "move": 0,
       "power": 48,
       "seed": 14,
       "path": "Out",
@@ -1582,7 +1582,7 @@
       "soWins": 0,
       "playoffPct": 23.4,
       "rank": 24,
-      "move": 1,
+      "move": 0,
       "power": 48,
       "seed": 12,
       "path": "Out",
@@ -1631,7 +1631,7 @@
       "soWins": 0,
       "playoffPct": 19.6,
       "rank": 25,
-      "move": -10,
+      "move": 0,
       "power": 42,
       "seed": 11,
       "path": "Out",
@@ -1680,7 +1680,7 @@
       "soWins": 0,
       "playoffPct": 56.9,
       "rank": 26,
-      "move": -3,
+      "move": 0,
       "power": 40,
       "seed": 13,
       "path": "Out",
@@ -1729,7 +1729,7 @@
       "soWins": 0,
       "playoffPct": 11.1,
       "rank": 27,
-      "move": 2,
+      "move": 0,
       "power": 35,
       "seed": 15,
       "path": "Out",
@@ -1827,7 +1827,7 @@
       "soWins": 0,
       "playoffPct": 0.0,
       "rank": 29,
-      "move": -16,
+      "move": 0,
       "power": 30,
       "seed": 13,
       "path": "Out",
@@ -1876,7 +1876,7 @@
       "soWins": 0,
       "playoffPct": 0.1,
       "rank": 30,
-      "move": 1,
+      "move": 0,
       "power": 24,
       "seed": 14,
       "path": "Out",
@@ -1925,7 +1925,7 @@
       "soWins": 0,
       "playoffPct": 2.3,
       "rank": 31,
-      "move": -4,
+      "move": 0,
       "power": 21,
       "seed": 16,
       "path": "Out",
@@ -2027,7 +2027,7 @@
         "soWins": 0,
         "playoffPct": 99.2,
         "rank": 3,
-        "move": 19,
+        "move": 0,
         "power": 75,
         "seed": 1,
         "path": "Metropolitan 1",
@@ -2076,7 +2076,7 @@
         "soWins": 0,
         "playoffPct": 80.2,
         "rank": 20,
-        "move": 10,
+        "move": 0,
         "power": 53,
         "seed": 11,
         "path": "Out",
@@ -2125,7 +2125,7 @@
         "soWins": 0,
         "playoffPct": 90.8,
         "rank": 1,
-        "move": 6,
+        "move": 0,
         "power": 81,
         "seed": 3,
         "path": "Pacific 2",
@@ -2174,7 +2174,7 @@
         "soWins": 0,
         "playoffPct": 80.3,
         "rank": 9,
-        "move": 5,
+        "move": 0,
         "power": 64,
         "seed": 4,
         "path": "Atlantic 2",
@@ -2225,7 +2225,7 @@
         "soWins": 0,
         "playoffPct": 0.0,
         "rank": 29,
-        "move": -16,
+        "move": 0,
         "power": 30,
         "seed": 13,
         "path": "Out",
@@ -2323,7 +2323,7 @@
         "soWins": 0,
         "playoffPct": 2.3,
         "rank": 31,
-        "move": -4,
+        "move": 0,
         "power": 21,
         "seed": 16,
         "path": "Out",
@@ -2372,7 +2372,7 @@
         "soWins": 0,
         "playoffPct": 37.8,
         "rank": 19,
-        "move": -15,
+        "move": 0,
         "power": 55,
         "seed": 10,
         "path": "Out",
@@ -2425,7 +2425,7 @@
       "soWins": 0,
       "playoffPct": 99.2,
       "rank": 3,
-      "move": 19,
+      "move": 0,
       "power": 75,
       "seed": 1,
       "path": "Metropolitan 1",
@@ -2476,7 +2476,7 @@
       "soWins": 0,
       "playoffPct": 96.1,
       "rank": 4,
-      "move": 20,
+      "move": 0,
       "power": 74,
       "seed": 2,
       "path": "Atlantic 1",
@@ -2527,7 +2527,7 @@
       "soWins": 0,
       "playoffPct": 46.8,
       "rank": 7,
-      "move": 1,
+      "move": 0,
       "power": 67,
       "seed": 3,
       "path": "Metropolitan 2",
@@ -2578,7 +2578,7 @@
       "soWins": 0,
       "playoffPct": 80.3,
       "rank": 9,
-      "move": 5,
+      "move": 0,
       "power": 64,
       "seed": 4,
       "path": "Atlantic 2",
@@ -2680,7 +2680,7 @@
       "soWins": 1,
       "playoffPct": 66.1,
       "rank": 18,
-      "move": -16,
+      "move": 0,
       "power": 55,
       "seed": 6,
       "path": "Metropolitan 3",
@@ -2731,7 +2731,7 @@
       "soWins": 0,
       "playoffPct": 20.0,
       "rank": 16,
-      "move": 10,
+      "move": 0,
       "power": 57,
       "seed": 7,
       "path": "Wild card",
@@ -2782,7 +2782,7 @@
       "soWins": 0,
       "playoffPct": 63.0,
       "rank": 13,
-      "move": 5,
+      "move": 0,
       "power": 58,
       "seed": 8,
       "path": "Wild card",
@@ -2833,7 +2833,7 @@
       "soWins": 0,
       "playoffPct": 26.3,
       "rank": 17,
-      "move": -8,
+      "move": 0,
       "power": 56,
       "seed": 9,
       "path": "Out",
@@ -2884,7 +2884,7 @@
       "soWins": 1,
       "playoffPct": 65.7,
       "rank": 22,
-      "move": -12,
+      "move": 0,
       "power": 48,
       "seed": 10,
       "path": "Out",
@@ -2935,7 +2935,7 @@
       "soWins": 0,
       "playoffPct": 19.6,
       "rank": 25,
-      "move": -10,
+      "move": 0,
       "power": 42,
       "seed": 11,
       "path": "Out",
@@ -2986,7 +2986,7 @@
       "soWins": 0,
       "playoffPct": 23.4,
       "rank": 24,
-      "move": 1,
+      "move": 0,
       "power": 48,
       "seed": 12,
       "path": "Out",
@@ -3037,7 +3037,7 @@
       "soWins": 0,
       "playoffPct": 56.9,
       "rank": 26,
-      "move": -3,
+      "move": 0,
       "power": 40,
       "seed": 13,
       "path": "Out",
@@ -3088,7 +3088,7 @@
       "soWins": 1,
       "playoffPct": 35.6,
       "rank": 23,
-      "move": -4,
+      "move": 0,
       "power": 48,
       "seed": 14,
       "path": "Out",
@@ -3139,7 +3139,7 @@
       "soWins": 0,
       "playoffPct": 11.1,
       "rank": 27,
-      "move": 2,
+      "move": 0,
       "power": 35,
       "seed": 15,
       "path": "Out",
@@ -3190,7 +3190,7 @@
       "soWins": 0,
       "playoffPct": 2.3,
       "rank": 31,
-      "move": -4,
+      "move": 0,
       "power": 21,
       "seed": 16,
       "path": "Out",
@@ -3243,7 +3243,7 @@
       "soWins": 1,
       "playoffPct": 91.8,
       "rank": 2,
-      "move": 15,
+      "move": 0,
       "power": 76,
       "seed": 1,
       "path": "Pacific 1",
@@ -3345,7 +3345,7 @@
       "soWins": 0,
       "playoffPct": 90.8,
       "rank": 1,
-      "move": 6,
+      "move": 0,
       "power": 81,
       "seed": 3,
       "path": "Pacific 2",
@@ -3396,7 +3396,7 @@
       "soWins": 0,
       "playoffPct": 44.4,
       "rank": 11,
-      "move": 5,
+      "move": 0,
       "power": 62,
       "seed": 4,
       "path": "Pacific 3",
@@ -3447,7 +3447,7 @@
       "soWins": 0,
       "playoffPct": 89.7,
       "rank": 8,
-      "move": -5,
+      "move": 0,
       "power": 65,
       "seed": 5,
       "path": "Central 2",
@@ -3498,7 +3498,7 @@
       "soWins": 0,
       "playoffPct": 45.0,
       "rank": 10,
-      "move": 1,
+      "move": 0,
       "power": 64,
       "seed": 6,
       "path": "Central 3",
@@ -3600,7 +3600,7 @@
       "soWins": 0,
       "playoffPct": 96.3,
       "rank": 15,
-      "move": -14,
+      "move": 0,
       "power": 57,
       "seed": 8,
       "path": "Wild card",
@@ -3651,7 +3651,7 @@
       "soWins": 0,
       "playoffPct": 38.8,
       "rank": 14,
-      "move": 6,
+      "move": 0,
       "power": 58,
       "seed": 9,
       "path": "Out",
@@ -3702,7 +3702,7 @@
       "soWins": 0,
       "playoffPct": 37.8,
       "rank": 19,
-      "move": -15,
+      "move": 0,
       "power": 55,
       "seed": 10,
       "path": "Out",
@@ -3753,7 +3753,7 @@
       "soWins": 0,
       "playoffPct": 80.2,
       "rank": 20,
-      "move": 10,
+      "move": 0,
       "power": 53,
       "seed": 11,
       "path": "Out",
@@ -3855,7 +3855,7 @@
       "soWins": 0,
       "playoffPct": 0.0,
       "rank": 29,
-      "move": -16,
+      "move": 0,
       "power": 30,
       "seed": 13,
       "path": "Out",
@@ -3906,7 +3906,7 @@
       "soWins": 0,
       "playoffPct": 0.1,
       "rank": 30,
-      "move": 1,
+      "move": 0,
       "power": 24,
       "seed": 14,
       "path": "Out",
@@ -4063,7 +4063,7 @@
       "soWins": 0,
       "playoffPct": 96.1,
       "rank": 4,
-      "move": 20,
+      "move": 0,
       "power": 74,
       "seed": 2,
       "path": "Atlantic 1",
@@ -4112,7 +4112,7 @@
       "soWins": 0,
       "playoffPct": 99.2,
       "rank": 3,
-      "move": 19,
+      "move": 0,
       "power": 75,
       "seed": 1,
       "path": "Metropolitan 1",
@@ -4210,7 +4210,7 @@
       "soWins": 1,
       "playoffPct": 91.8,
       "rank": 2,
-      "move": 15,
+      "move": 0,
       "power": 76,
       "seed": 1,
       "path": "Pacific 1",
@@ -4226,6 +4226,1308 @@
     }
   ],
   "thisWeek": [
+    {
+      "id": 2026020087,
+      "date": "2026-10-12",
+      "status": "Mon, Oct 12 \u00b7 1:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "KeyBank Center",
+      "broadcast": "SN, TVAS, SCRIPPS",
+      "home": {
+        "abbr": "BUF",
+        "name": "Buffalo Sabres",
+        "nickname": "Sabres",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+        "record": "2-3-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "FLA",
+        "name": "Florida Panthers",
+        "nickname": "Panthers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+        "record": "2-1-2",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020088,
+      "date": "2026-10-12",
+      "status": "Mon, Oct 12 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Prudential Center",
+      "broadcast": "NHLN, SN+, TVAS",
+      "home": {
+        "abbr": "NJD",
+        "name": "New Jersey Devils",
+        "nickname": "Devils",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+        "record": "2-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "OTT",
+        "name": "Ottawa Senators",
+        "nickname": "Senators",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020089,
+      "date": "2026-10-12",
+      "status": "Mon, Oct 12 \u00b7 8:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Grand Casino Arena",
+      "broadcast": "SCRIPPS, MINNHL, Wild+",
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Wild",
+        "nickname": "Wild",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+        "record": "3-1-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "VGK",
+        "name": "Vegas Golden Knights",
+        "nickname": "Golden Knights",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+        "record": "5-1-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020090,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 6:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Little Caesars Arena",
+      "broadcast": "ESPN, SN+",
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Red Wings",
+        "nickname": "Red Wings",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
+        "record": "1-3-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "NJD",
+        "name": "New Jersey Devils",
+        "nickname": "Devils",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+        "record": "2-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020091,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 6:15 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Nationwide Arena",
+      "broadcast": "SCRIPPS, CBJNHL, CBJHN",
+      "home": {
+        "abbr": "CBJ",
+        "name": "Columbus Blue Jackets",
+        "nickname": "Blue Jackets",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+        "record": "2-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "FLA",
+        "name": "Florida Panthers",
+        "nickname": "Panthers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+        "record": "2-1-2",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020092,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 6:30 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Centre Bell",
+      "broadcast": "TSN2, RDS, MSG-B",
+      "home": {
+        "abbr": "MTL",
+        "name": "Montr\u00e9al Canadiens",
+        "nickname": "Canadiens",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Sabres",
+        "nickname": "Sabres",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+        "record": "2-3-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020093,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 6:45 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Lenovo Center",
+      "broadcast": "MNMT, CARNHL, HHN",
+      "home": {
+        "abbr": "CAR",
+        "name": "Carolina Hurricanes",
+        "nickname": "Hurricanes",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+        "record": "5-1-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "WSH",
+        "name": "Washington Capitals",
+        "nickname": "Capitals",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020094,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Xfinity Mobile Arena",
+      "broadcast": "Prime Video, KING, KONG",
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Flyers",
+        "nickname": "Flyers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "record": "0-5-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Kraken",
+        "nickname": "Kraken",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020095,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 7:15 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Madison Square Garden",
+      "broadcast": "MSG, The Spot",
+      "home": {
+        "abbr": "NYR",
+        "name": "NY Rangers",
+        "nickname": "Rangers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+        "record": "5-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "TBL",
+        "name": "Tampa Bay Lightning",
+        "nickname": "Lightning",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020096,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 7:30 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Canadian Tire Centre",
+      "broadcast": "STLNHL, BN+, TSN5",
+      "home": {
+        "abbr": "OTT",
+        "name": "Ottawa Senators",
+        "nickname": "Senators",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "STL",
+        "name": "St. Louis Blues",
+        "nickname": "Blues",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020097,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 7:45 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "UBS Arena",
+      "broadcast": "SNP, MSGSN",
+      "home": {
+        "abbr": "NYI",
+        "name": "NY Islanders",
+        "nickname": "Islanders",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+        "record": "2-3-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "VAN",
+        "name": "Vancouver Canucks",
+        "nickname": "Canucks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
+        "record": "2-5-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020098,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 8:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "United Center",
+      "broadcast": "CHSN, SN-PIT",
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Blackhawks",
+        "nickname": "Blackhawks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+        "record": "1-5-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Penguins",
+        "nickname": "Penguins",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+        "record": "3-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020099,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 8:15 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Canada Life Centre",
+      "broadcast": "TSN3, MINNHL, Wild+",
+      "home": {
+        "abbr": "WPG",
+        "name": "Winnipeg Jets",
+        "nickname": "Jets",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+        "record": "3-1-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "MIN",
+        "name": "Minnesota Wild",
+        "nickname": "Wild",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+        "record": "3-1-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020100,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 8:30 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "American Airlines Center",
+      "broadcast": "ESPN, SN+, TVAS",
+      "home": {
+        "abbr": "DAL",
+        "name": "Dallas Stars",
+        "nickname": "Stars",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "COL",
+        "name": "Colorado Avalanche",
+        "nickname": "Avalanche",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020101,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 8:45 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Bridgestone Arena",
+      "broadcast": "SCRIPPS",
+      "home": {
+        "abbr": "NSH",
+        "name": "Nashville Predators",
+        "nickname": "Predators",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+        "record": "2-1-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "VGK",
+        "name": "Vegas Golden Knights",
+        "nickname": "Golden Knights",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+        "record": "5-1-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020102,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 9:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Delta Center",
+      "broadcast": "TSN4, Utah16",
+      "home": {
+        "abbr": "UTA",
+        "name": "Utah Mammoth",
+        "nickname": "Mammoth",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "TOR",
+        "name": "Toronto Maple Leafs",
+        "nickname": "Maple Leafs",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+        "record": "3-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020103,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 9:45 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Honda Center",
+      "broadcast": "SNW, Prime Video, KCOP-13",
+      "home": {
+        "abbr": "ANA",
+        "name": "Anaheim Ducks",
+        "nickname": "Ducks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "CGY",
+        "name": "Calgary Flames",
+        "nickname": "Flames",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+        "record": "0-5-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020104,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 10:30 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Crypto.com Arena",
+      "broadcast": "SN1, TVAS, ABTV",
+      "home": {
+        "abbr": "LAK",
+        "name": "Los Angeles Kings",
+        "nickname": "Kings",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+        "record": "0-2-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "EDM",
+        "name": "Edmonton Oilers",
+        "nickname": "Oilers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+        "record": "4-0-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020105,
+      "date": "2026-10-13",
+      "status": "Tue, Oct 13 \u00b7 11:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "SAP Center at San Jose",
+      "broadcast": "ESPN, SN+, NESN",
+      "home": {
+        "abbr": "SJS",
+        "name": "San Jose Sharks",
+        "nickname": "Sharks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "BOS",
+        "name": "Boston Bruins",
+        "nickname": "Bruins",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020106,
+      "date": "2026-10-14",
+      "status": "Wed, Oct 14 \u00b7 7:30 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Capital One Arena",
+      "broadcast": "Prime, MNMT",
+      "home": {
+        "abbr": "WSH",
+        "name": "Washington Capitals",
+        "nickname": "Capitals",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "MTL",
+        "name": "Montr\u00e9al Canadiens",
+        "nickname": "Canadiens",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020107,
+      "date": "2026-10-14",
+      "status": "Wed, Oct 14 \u00b7 8:30 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Ball Arena",
+      "broadcast": "TNT, truTV, HBO MAX",
+      "home": {
+        "abbr": "COL",
+        "name": "Colorado Avalanche",
+        "nickname": "Avalanche",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Stars",
+        "nickname": "Stars",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020108,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Scotiabank Arena",
+      "broadcast": "TSN4, MSG-B",
+      "home": {
+        "abbr": "TOR",
+        "name": "Toronto Maple Leafs",
+        "nickname": "Maple Leafs",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+        "record": "3-2-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Sabres",
+        "nickname": "Sabres",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+        "record": "2-3-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020109,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Canadian Tire Centre",
+      "broadcast": "MSGSN, TSN5, RDS",
+      "home": {
+        "abbr": "OTT",
+        "name": "Ottawa Senators",
+        "nickname": "Senators",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "NYI",
+        "name": "NY Islanders",
+        "nickname": "Islanders",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+        "record": "2-3-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020110,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 7:30 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Little Caesars Arena",
+      "broadcast": "ESPN+, HULU, Disney+",
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Red Wings",
+        "nickname": "Red Wings",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
+        "record": "1-3-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "PHI",
+        "name": "Philadelphia Flyers",
+        "nickname": "Flyers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "record": "0-5-2",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020111,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Benchmark International Arena",
+      "broadcast": "Prime Video, KONG, The Spot",
+      "home": {
+        "abbr": "TBL",
+        "name": "Tampa Bay Lightning",
+        "nickname": "Lightning",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Kraken",
+        "nickname": "Kraken",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020112,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Amerant Bank Arena",
+      "broadcast": "SNP, TVAS, SCRIPPS",
+      "home": {
+        "abbr": "FLA",
+        "name": "Florida Panthers",
+        "nickname": "Panthers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+        "record": "2-1-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "VAN",
+        "name": "Vancouver Canucks",
+        "nickname": "Canucks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
+        "record": "2-5-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020113,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Prudential Center",
+      "broadcast": "MSG, MSGSN2",
+      "home": {
+        "abbr": "NJD",
+        "name": "New Jersey Devils",
+        "nickname": "Devils",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+        "record": "2-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "NYR",
+        "name": "NY Rangers",
+        "nickname": "Rangers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+        "record": "5-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020114,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 8:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "United Center",
+      "broadcast": "CHSN, TSN3",
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Blackhawks",
+        "nickname": "Blackhawks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+        "record": "1-5-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "WPG",
+        "name": "Winnipeg Jets",
+        "nickname": "Jets",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+        "record": "3-1-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020115,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 8:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Bridgestone Arena",
+      "broadcast": "NBCSCA, SCRIPPS",
+      "home": {
+        "abbr": "NSH",
+        "name": "Nashville Predators",
+        "nickname": "Predators",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+        "record": "2-1-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "SJS",
+        "name": "San Jose Sharks",
+        "nickname": "Sharks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020116,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 8:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Grand Casino Arena",
+      "broadcast": "STLNHL, BN+, MINNHL",
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Wild",
+        "nickname": "Wild",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+        "record": "3-1-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "STL",
+        "name": "St. Louis Blues",
+        "nickname": "Blues",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020117,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 9:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Rogers Place",
+      "broadcast": "SNW, Utah16",
+      "home": {
+        "abbr": "EDM",
+        "name": "Edmonton Oilers",
+        "nickname": "Oilers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+        "record": "4-0-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "UTA",
+        "name": "Utah Mammoth",
+        "nickname": "Mammoth",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020118,
+      "date": "2026-10-15",
+      "status": "Thu, Oct 15 \u00b7 10:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "T-Mobile Arena",
+      "broadcast": "SN1, TVAS, SCRIPPS",
+      "home": {
+        "abbr": "VGK",
+        "name": "Vegas Golden Knights",
+        "nickname": "Golden Knights",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+        "record": "5-1-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "CGY",
+        "name": "Calgary Flames",
+        "nickname": "Flames",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+        "record": "0-5-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020119,
+      "date": "2026-10-16",
+      "status": "Fri, Oct 16 \u00b7 9:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Ball Arena",
+      "broadcast": "SN+, TVAS, SN-PIT",
+      "home": {
+        "abbr": "COL",
+        "name": "Colorado Avalanche",
+        "nickname": "Avalanche",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Penguins",
+        "nickname": "Penguins",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+        "record": "3-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020120,
+      "date": "2026-10-16",
+      "status": "Fri, Oct 16 \u00b7 10:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Honda Center",
+      "broadcast": "Prime Video, KCOP-13, NESN",
+      "home": {
+        "abbr": "ANA",
+        "name": "Anaheim Ducks",
+        "nickname": "Ducks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "BOS",
+        "name": "Boston Bruins",
+        "nickname": "Bruins",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020121,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 1:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Capital One Arena",
+      "broadcast": "SN, NHLN, MSGSN",
+      "home": {
+        "abbr": "WSH",
+        "name": "Washington Capitals",
+        "nickname": "Capitals",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "NJD",
+        "name": "New Jersey Devils",
+        "nickname": "Devils",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
+        "record": "2-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020122,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 3:30 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Canada Life Centre",
+      "broadcast": "SN, CARNHL, HHN",
+      "home": {
+        "abbr": "WPG",
+        "name": "Winnipeg Jets",
+        "nickname": "Jets",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
+        "record": "3-1-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Hurricanes",
+        "nickname": "Hurricanes",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+        "record": "5-1-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020123,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 4:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Benchmark International Arena",
+      "broadcast": "SNP, The Spot",
+      "home": {
+        "abbr": "TBL",
+        "name": "Tampa Bay Lightning",
+        "nickname": "Lightning",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "VAN",
+        "name": "Vancouver Canucks",
+        "nickname": "Canucks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
+        "record": "2-5-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020124,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 6:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Amerant Bank Arena",
+      "broadcast": "Prime Video, KONG, SCRIPPS",
+      "home": {
+        "abbr": "FLA",
+        "name": "Florida Panthers",
+        "nickname": "Panthers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+        "record": "2-1-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "SEA",
+        "name": "Seattle Kraken",
+        "nickname": "Kraken",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020125,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Scotiabank Arena",
+      "broadcast": "SN, MSGSN",
+      "home": {
+        "abbr": "TOR",
+        "name": "Toronto Maple Leafs",
+        "nickname": "Maple Leafs",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+        "record": "3-2-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "NYI",
+        "name": "NY Islanders",
+        "nickname": "Islanders",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
+        "record": "2-3-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020126,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Centre Bell",
+      "broadcast": "SNE, NHLN, TVAS",
+      "home": {
+        "abbr": "MTL",
+        "name": "Montr\u00e9al Canadiens",
+        "nickname": "Canadiens",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "BUF",
+        "name": "Buffalo Sabres",
+        "nickname": "Sabres",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+        "record": "2-3-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020127,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Little Caesars Arena",
+      "broadcast": "NBCSCA, DSN",
+      "home": {
+        "abbr": "DET",
+        "name": "Detroit Red Wings",
+        "nickname": "Red Wings",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
+        "record": "1-3-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "SJS",
+        "name": "San Jose Sharks",
+        "nickname": "Sharks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+        "record": "3-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020128,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Xfinity Mobile Arena",
+      "broadcast": "SN1, TVAS-D, NBCSP",
+      "home": {
+        "abbr": "PHI",
+        "name": "Philadelphia Flyers",
+        "nickname": "Flyers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "record": "0-5-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "OTT",
+        "name": "Ottawa Senators",
+        "nickname": "Senators",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+        "record": "4-1-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020129,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Nationwide Arena",
+      "broadcast": "MSG, CBJNHL, CBJHN",
+      "home": {
+        "abbr": "CBJ",
+        "name": "Columbus Blue Jackets",
+        "nickname": "Blue Jackets",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+        "record": "2-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "NYR",
+        "name": "NY Rangers",
+        "nickname": "Rangers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+        "record": "5-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020130,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 7:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "United Center",
+      "broadcast": "CHSN, Prime Video",
+      "home": {
+        "abbr": "CHI",
+        "name": "Chicago Blackhawks",
+        "nickname": "Blackhawks",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+        "record": "1-5-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "DAL",
+        "name": "Dallas Stars",
+        "nickname": "Stars",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020131,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 8:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Bridgestone Arena",
+      "broadcast": "STLNHL, BN+, SCRIPPS",
+      "home": {
+        "abbr": "NSH",
+        "name": "Nashville Predators",
+        "nickname": "Predators",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+        "record": "2-1-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "STL",
+        "name": "St. Louis Blues",
+        "nickname": "Blues",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+        "record": "2-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020132,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 9:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Crypto.com Arena",
+      "broadcast": "ABTV, NESN",
+      "home": {
+        "abbr": "LAK",
+        "name": "Los Angeles Kings",
+        "nickname": "Kings",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
+        "record": "0-2-2",
+        "score": ""
+      },
+      "away": {
+        "abbr": "BOS",
+        "name": "Boston Bruins",
+        "nickname": "Bruins",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020133,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 10:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Delta Center",
+      "broadcast": "SN, Utah16",
+      "home": {
+        "abbr": "UTA",
+        "name": "Utah Mammoth",
+        "nickname": "Mammoth",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
+        "record": "4-2-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "EDM",
+        "name": "Edmonton Oilers",
+        "nickname": "Oilers",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
+        "record": "4-0-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020134,
+      "date": "2026-10-17",
+      "status": "Sat, Oct 17 \u00b7 10:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "T-Mobile Arena",
+      "broadcast": "SCRIPPS, SN-PIT",
+      "home": {
+        "abbr": "VGK",
+        "name": "Vegas Golden Knights",
+        "nickname": "Golden Knights",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+        "record": "5-1-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "PIT",
+        "name": "Pittsburgh Penguins",
+        "nickname": "Penguins",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+        "record": "3-2-1",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020135,
+      "date": "2026-10-18",
+      "status": "Sun, Oct 18 \u00b7 6:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Grand Casino Arena",
+      "broadcast": "SN+, TVAS, CBJNHL",
+      "home": {
+        "abbr": "MIN",
+        "name": "Minnesota Wild",
+        "nickname": "Wild",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
+        "record": "3-1-1",
+        "score": ""
+      },
+      "away": {
+        "abbr": "CBJ",
+        "name": "Columbus Blue Jackets",
+        "nickname": "Blue Jackets",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
+        "record": "2-2-0",
+        "score": ""
+      }
+    },
+    {
+      "id": 2026020136,
+      "date": "2026-10-18",
+      "status": "Sun, Oct 18 \u00b7 8:00 PM",
+      "live": false,
+      "completed": false,
+      "exhibition": false,
+      "venue": "Scotiabank Saddledome",
+      "broadcast": "SNW, TVAS, CARNHL",
+      "home": {
+        "abbr": "CGY",
+        "name": "Calgary Flames",
+        "nickname": "Flames",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
+        "record": "0-5-0",
+        "score": ""
+      },
+      "away": {
+        "abbr": "CAR",
+        "name": "Carolina Hurricanes",
+        "nickname": "Hurricanes",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+        "record": "5-1-1",
+        "score": ""
+      }
+    }
+  ],
+  "lastWeek": [
     {
       "id": 2026020040,
       "date": "2026-10-05",
@@ -5539,1100 +6841,6 @@
         "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
         "record": "5-1-1",
         "score": 4,
-        "winner": true
-      }
-    }
-  ],
-  "lastWeek": [
-    {
-      "id": 2026020001,
-      "date": "2026-09-29",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Lenovo Center",
-      "broadcast": "ESPN",
-      "home": {
-        "abbr": "CAR",
-        "name": "Carolina Hurricanes",
-        "nickname": "Hurricanes",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
-        "record": "5-1-1",
-        "score": 0,
-        "winner": false
-      },
-      "away": {
-        "abbr": "FLA",
-        "name": "Florida Panthers",
-        "nickname": "Panthers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
-        "record": "2-1-2",
-        "score": 1,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020002,
-      "date": "2026-09-29",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Scotiabank Arena",
-      "broadcast": "SN, TVAS",
-      "home": {
-        "abbr": "TOR",
-        "name": "Toronto Maple Leafs",
-        "nickname": "Maple Leafs",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
-        "record": "3-2-1",
-        "score": 2,
-        "winner": false
-      },
-      "away": {
-        "abbr": "MTL",
-        "name": "Montr\u00e9al Canadiens",
-        "nickname": "Canadiens",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
-        "record": "2-2-1",
-        "score": 3,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020003,
-      "date": "2026-09-29",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "TD Garden",
-      "broadcast": "ESPN",
-      "home": {
-        "abbr": "BOS",
-        "name": "Boston Bruins",
-        "nickname": "Bruins",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
-        "record": "4-2-0",
-        "score": 3,
-        "winner": true
-      },
-      "away": {
-        "abbr": "NYR",
-        "name": "NY Rangers",
-        "nickname": "Rangers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
-        "record": "5-2-0",
-        "score": 0,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020004,
-      "date": "2026-09-29",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Rogers Place",
-      "broadcast": "SN",
-      "home": {
-        "abbr": "EDM",
-        "name": "Edmonton Oilers",
-        "nickname": "Oilers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
-        "record": "4-0-1",
-        "score": 5,
-        "winner": false
-      },
-      "away": {
-        "abbr": "VAN",
-        "name": "Vancouver Canucks",
-        "nickname": "Canucks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
-        "record": "2-5-0",
-        "score": 6,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020005,
-      "date": "2026-09-29",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "T-Mobile Arena",
-      "broadcast": "ESPN, TVAS2",
-      "home": {
-        "abbr": "VGK",
-        "name": "Vegas Golden Knights",
-        "nickname": "Golden Knights",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
-        "record": "5-1-0",
-        "score": 5,
-        "winner": true
-      },
-      "away": {
-        "abbr": "CHI",
-        "name": "Chicago Blackhawks",
-        "nickname": "Blackhawks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
-        "record": "1-5-0",
-        "score": 2,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020006,
-      "date": "2026-09-30",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Xfinity Mobile Arena",
-      "broadcast": "TNT, truTV, HBO MAX",
-      "home": {
-        "abbr": "PHI",
-        "name": "Philadelphia Flyers",
-        "nickname": "Flyers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
-        "record": "0-5-2",
-        "score": 0,
-        "winner": false
-      },
-      "away": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Penguins",
-        "nickname": "Penguins",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
-        "record": "3-2-1",
-        "score": 7,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020007,
-      "date": "2026-09-30",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Ball Arena",
-      "broadcast": "TNT, truTV, HBO MAX",
-      "home": {
-        "abbr": "COL",
-        "name": "Colorado Avalanche",
-        "nickname": "Avalanche",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
-        "record": "3-2-0",
-        "score": 8,
-        "winner": true
-      },
-      "away": {
-        "abbr": "LAK",
-        "name": "Los Angeles Kings",
-        "nickname": "Kings",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
-        "record": "0-2-2",
-        "score": 4,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020008,
-      "date": "2026-09-30",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Scotiabank Arena",
-      "broadcast": "Prime, MSGSN",
-      "home": {
-        "abbr": "TOR",
-        "name": "Toronto Maple Leafs",
-        "nickname": "Maple Leafs",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
-        "record": "3-2-1",
-        "score": 2,
-        "winner": true
-      },
-      "away": {
-        "abbr": "NYI",
-        "name": "NY Islanders",
-        "nickname": "Islanders",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
-        "record": "2-3-0",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020009,
-      "date": "2026-10-01",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Prudential Center",
-      "broadcast": "ESPN+, HULU, Disney+",
-      "home": {
-        "abbr": "NJD",
-        "name": "New Jersey Devils",
-        "nickname": "Devils",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
-        "record": "2-2-0",
-        "score": 3,
-        "winner": true
-      },
-      "away": {
-        "abbr": "PHI",
-        "name": "Philadelphia Flyers",
-        "nickname": "Flyers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
-        "record": "0-5-2",
-        "score": 2,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020010,
-      "date": "2026-10-01",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Madison Square Garden",
-      "broadcast": "TVAS, MSG, The Spot",
-      "home": {
-        "abbr": "NYR",
-        "name": "NY Rangers",
-        "nickname": "Rangers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
-        "record": "5-2-0",
-        "score": 5,
-        "winner": true
-      },
-      "away": {
-        "abbr": "TBL",
-        "name": "Tampa Bay Lightning",
-        "nickname": "Lightning",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
-        "record": "4-1-0",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020011,
-      "date": "2026-10-01",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Nationwide Arena",
-      "broadcast": "CBJNHL, CBJHN, MSG-B",
-      "home": {
-        "abbr": "CBJ",
-        "name": "Columbus Blue Jackets",
-        "nickname": "Blue Jackets",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
-        "record": "2-2-0",
-        "score": 6,
-        "winner": true
-      },
-      "away": {
-        "abbr": "BUF",
-        "name": "Buffalo Sabres",
-        "nickname": "Sabres",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
-        "record": "2-3-0",
-        "score": 3,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020012,
-      "date": "2026-10-01",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Bridgestone Arena",
-      "broadcast": "SCRIPPS, MINNHL, Wild+",
-      "home": {
-        "abbr": "NSH",
-        "name": "Nashville Predators",
-        "nickname": "Predators",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
-        "record": "2-1-2",
-        "score": 1,
-        "winner": false
-      },
-      "away": {
-        "abbr": "MIN",
-        "name": "Minnesota Wild",
-        "nickname": "Wild",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
-        "record": "3-1-1",
-        "score": 3,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020013,
-      "date": "2026-10-01",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Delta Center",
-      "broadcast": "ESPN+, HULU, Disney+",
-      "home": {
-        "abbr": "UTA",
-        "name": "Utah Mammoth",
-        "nickname": "Mammoth",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
-        "record": "4-2-0",
-        "score": 6,
-        "winner": true
-      },
-      "away": {
-        "abbr": "CHI",
-        "name": "Chicago Blackhawks",
-        "nickname": "Blackhawks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
-        "record": "1-5-0",
-        "score": 0,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020014,
-      "date": "2026-10-01",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Scotiabank Saddledome",
-      "broadcast": "SNW, Prime Video, KONG",
-      "home": {
-        "abbr": "CGY",
-        "name": "Calgary Flames",
-        "nickname": "Flames",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
-        "record": "0-5-0",
-        "score": 1,
-        "winner": false
-      },
-      "away": {
-        "abbr": "SEA",
-        "name": "Seattle Kraken",
-        "nickname": "Kraken",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
-        "record": "4-2-0",
-        "score": 6,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020015,
-      "date": "2026-10-01",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Rogers Arena",
-      "broadcast": "SNP, SN1",
-      "home": {
-        "abbr": "VAN",
-        "name": "Vancouver Canucks",
-        "nickname": "Canucks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
-        "record": "2-5-0",
-        "score": 7,
-        "winner": false
-      },
-      "away": {
-        "abbr": "EDM",
-        "name": "Edmonton Oilers",
-        "nickname": "Oilers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
-        "record": "4-0-1",
-        "score": 9,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020016,
-      "date": "2026-10-01",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "SAP Center at San Jose",
-      "broadcast": "TVAS, SCRIPPS, NBCSCA",
-      "home": {
-        "abbr": "SJS",
-        "name": "San Jose Sharks",
-        "nickname": "Sharks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
-        "record": "3-2-0",
-        "score": 4,
-        "winner": true
-      },
-      "away": {
-        "abbr": "FLA",
-        "name": "Florida Panthers",
-        "nickname": "Panthers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
-        "record": "2-1-2",
-        "score": 3,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020017,
-      "date": "2026-10-02",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Little Caesars Arena",
-      "broadcast": "TNT, truTV, HBO MAX",
-      "home": {
-        "abbr": "DET",
-        "name": "Detroit Red Wings",
-        "nickname": "Red Wings",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
-        "record": "1-3-1",
-        "score": 0,
-        "winner": false
-      },
-      "away": {
-        "abbr": "NYR",
-        "name": "NY Rangers",
-        "nickname": "Rangers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
-        "record": "5-2-0",
-        "score": 2,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020018,
-      "date": "2026-10-02",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Lenovo Center",
-      "broadcast": "SN, TVAS, MNMT",
-      "home": {
-        "abbr": "CAR",
-        "name": "Carolina Hurricanes",
-        "nickname": "Hurricanes",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
-        "record": "5-1-1",
-        "score": 2,
-        "winner": false
-      },
-      "away": {
-        "abbr": "WSH",
-        "name": "Washington Capitals",
-        "nickname": "Capitals",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
-        "record": "3-2-0",
-        "score": 5,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020019,
-      "date": "2026-10-02",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Canada Life Centre",
-      "broadcast": "TSN3, NESN",
-      "home": {
-        "abbr": "WPG",
-        "name": "Winnipeg Jets",
-        "nickname": "Jets",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
-        "record": "3-1-1",
-        "score": 3,
-        "winner": false
-      },
-      "away": {
-        "abbr": "BOS",
-        "name": "Boston Bruins",
-        "nickname": "Bruins",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
-        "record": "4-2-0",
-        "score": 4,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020020,
-      "date": "2026-10-02",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "American Airlines Center",
-      "broadcast": "TNT, truTV, HBO MAX",
-      "home": {
-        "abbr": "DAL",
-        "name": "Dallas Stars",
-        "nickname": "Stars",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
-        "record": "2-2-1",
-        "score": 0,
-        "winner": false
-      },
-      "away": {
-        "abbr": "STL",
-        "name": "St. Louis Blues",
-        "nickname": "Blues",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
-        "record": "2-2-1",
-        "score": 4,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020021,
-      "date": "2026-10-02",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "T-Mobile Arena",
-      "broadcast": "SN, TVAS, Prime Video",
-      "home": {
-        "abbr": "VGK",
-        "name": "Vegas Golden Knights",
-        "nickname": "Golden Knights",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
-        "record": "5-1-0",
-        "score": 3,
-        "winner": false
-      },
-      "away": {
-        "abbr": "ANA",
-        "name": "Anaheim Ducks",
-        "nickname": "Ducks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
-        "record": "4-1-0",
-        "score": 4,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020022,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "KeyBank Center",
-      "broadcast": "CHSN, MSG-B",
-      "home": {
-        "abbr": "BUF",
-        "name": "Buffalo Sabres",
-        "nickname": "Sabres",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
-        "record": "2-3-0",
-        "score": 4,
-        "winner": true
-      },
-      "away": {
-        "abbr": "CHI",
-        "name": "Chicago Blackhawks",
-        "nickname": "Blackhawks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
-        "record": "1-5-0",
-        "score": 3,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020023,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Scotiabank Arena",
-      "broadcast": "SN",
-      "home": {
-        "abbr": "TOR",
-        "name": "Toronto Maple Leafs",
-        "nickname": "Maple Leafs",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
-        "record": "3-2-1",
-        "score": 2,
-        "winner": false
-      },
-      "away": {
-        "abbr": "OTT",
-        "name": "Ottawa Senators",
-        "nickname": "Senators",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
-        "record": "4-1-0",
-        "score": 3,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020024,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Benchmark International Arena",
-      "broadcast": "MNMT, The Spot",
-      "home": {
-        "abbr": "TBL",
-        "name": "Tampa Bay Lightning",
-        "nickname": "Lightning",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
-        "record": "4-1-0",
-        "score": 3,
-        "winner": true
-      },
-      "away": {
-        "abbr": "WSH",
-        "name": "Washington Capitals",
-        "nickname": "Capitals",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
-        "record": "3-2-0",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020025,
-      "date": "2026-10-03",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Xfinity Mobile Arena",
-      "broadcast": "NBCSP, CARNHL, HHN",
-      "home": {
-        "abbr": "PHI",
-        "name": "Philadelphia Flyers",
-        "nickname": "Flyers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
-        "record": "0-5-2",
-        "score": 2,
-        "winner": false
-      },
-      "away": {
-        "abbr": "CAR",
-        "name": "Carolina Hurricanes",
-        "nickname": "Hurricanes",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
-        "record": "5-1-1",
-        "score": 3,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020026,
-      "date": "2026-10-03",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "PPG Paints Arena",
-      "broadcast": "SNE, TVAS, SN-PIT",
-      "home": {
-        "abbr": "PIT",
-        "name": "Pittsburgh Penguins",
-        "nickname": "Penguins",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
-        "record": "3-2-1",
-        "score": 6,
-        "winner": true
-      },
-      "away": {
-        "abbr": "MTL",
-        "name": "Montr\u00e9al Canadiens",
-        "nickname": "Canadiens",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
-        "record": "2-2-1",
-        "score": 5,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020027,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Nationwide Arena",
-      "broadcast": "CBJNHL, CBJHN, Utah16",
-      "home": {
-        "abbr": "CBJ",
-        "name": "Columbus Blue Jackets",
-        "nickname": "Blue Jackets",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
-        "record": "2-2-0",
-        "score": 1,
-        "winner": false
-      },
-      "away": {
-        "abbr": "UTA",
-        "name": "Utah Mammoth",
-        "nickname": "Mammoth",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
-        "record": "4-2-0",
-        "score": 4,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020028,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Rogers Place",
-      "broadcast": "SNW, NHLN, Prime Video",
-      "home": {
-        "abbr": "EDM",
-        "name": "Edmonton Oilers",
-        "nickname": "Oilers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
-        "record": "4-0-1",
-        "score": 3,
-        "winner": true
-      },
-      "away": {
-        "abbr": "SEA",
-        "name": "Seattle Kraken",
-        "nickname": "Kraken",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
-        "record": "4-2-0",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020029,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "UBS Arena",
-      "broadcast": "MSG, MSGSN",
-      "home": {
-        "abbr": "NYI",
-        "name": "NY Islanders",
-        "nickname": "Islanders",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
-        "record": "2-3-0",
-        "score": 6,
-        "winner": true
-      },
-      "away": {
-        "abbr": "NJD",
-        "name": "New Jersey Devils",
-        "nickname": "Devils",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
-        "record": "2-2-0",
-        "score": 0,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020030,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Bridgestone Arena",
-      "broadcast": "SCRIPPS, Prime Video",
-      "home": {
-        "abbr": "NSH",
-        "name": "Nashville Predators",
-        "nickname": "Predators",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
-        "record": "2-1-2",
-        "score": 2,
-        "winner": true
-      },
-      "away": {
-        "abbr": "DAL",
-        "name": "Dallas Stars",
-        "nickname": "Stars",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
-        "record": "2-2-1",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020031,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Grand Casino Arena",
-      "broadcast": "NESN, MINNHL, Wild+",
-      "home": {
-        "abbr": "MIN",
-        "name": "Minnesota Wild",
-        "nickname": "Wild",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
-        "record": "3-1-1",
-        "score": 4,
-        "winner": true
-      },
-      "away": {
-        "abbr": "BOS",
-        "name": "Boston Bruins",
-        "nickname": "Bruins",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
-        "record": "4-2-0",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020032,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Ball Arena",
-      "broadcast": "STLNHL, BN+, ALT",
-      "home": {
-        "abbr": "COL",
-        "name": "Colorado Avalanche",
-        "nickname": "Avalanche",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
-        "record": "3-2-0",
-        "score": 6,
-        "winner": true
-      },
-      "away": {
-        "abbr": "STL",
-        "name": "St. Louis Blues",
-        "nickname": "Blues",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
-        "record": "2-2-1",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020033,
-      "date": "2026-10-03",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Rogers Arena",
-      "broadcast": "SN, TVAS2",
-      "home": {
-        "abbr": "VAN",
-        "name": "Vancouver Canucks",
-        "nickname": "Canucks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
-        "record": "2-5-0",
-        "score": 4,
-        "winner": true
-      },
-      "away": {
-        "abbr": "CGY",
-        "name": "Calgary Flames",
-        "nickname": "Flames",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
-        "record": "0-5-0",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020034,
-      "date": "2026-10-03",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "SAP Center at San Jose",
-      "broadcast": "NBCSCA, ABTV",
-      "home": {
-        "abbr": "SJS",
-        "name": "San Jose Sharks",
-        "nickname": "Sharks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
-        "record": "3-2-0",
-        "score": 5,
-        "winner": true
-      },
-      "away": {
-        "abbr": "LAK",
-        "name": "Los Angeles Kings",
-        "nickname": "Kings",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
-        "record": "0-2-2",
-        "score": 4,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020035,
-      "date": "2026-10-04",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Little Caesars Arena",
-      "broadcast": "NHLN, TSN3, DSN",
-      "home": {
-        "abbr": "DET",
-        "name": "Detroit Red Wings",
-        "nickname": "Red Wings",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
-        "record": "1-3-1",
-        "score": 2,
-        "winner": false
-      },
-      "away": {
-        "abbr": "WPG",
-        "name": "Winnipeg Jets",
-        "nickname": "Jets",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg",
-        "record": "3-1-1",
-        "score": 3,
-        "winner": true
-      }
-    },
-    {
-      "id": 2026020036,
-      "date": "2026-10-04",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Madison Square Garden",
-      "broadcast": "TVAS, MSG, Utah16",
-      "home": {
-        "abbr": "NYR",
-        "name": "NY Rangers",
-        "nickname": "Rangers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
-        "record": "5-2-0",
-        "score": 4,
-        "winner": true
-      },
-      "away": {
-        "abbr": "UTA",
-        "name": "Utah Mammoth",
-        "nickname": "Mammoth",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg",
-        "record": "4-2-0",
-        "score": 2,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020037,
-      "date": "2026-10-04",
-      "status": "Final/OT",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Honda Center",
-      "broadcast": "TVAS, SCRIPPS, Prime Video",
-      "home": {
-        "abbr": "ANA",
-        "name": "Anaheim Ducks",
-        "nickname": "Ducks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
-        "record": "4-1-0",
-        "score": 3,
-        "winner": true
-      },
-      "away": {
-        "abbr": "FLA",
-        "name": "Florida Panthers",
-        "nickname": "Panthers",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
-        "record": "2-1-2",
-        "score": 2,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020038,
-      "date": "2026-10-04",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Climate Pledge Arena",
-      "broadcast": "SNW, Prime Video, KONG",
-      "home": {
-        "abbr": "SEA",
-        "name": "Seattle Kraken",
-        "nickname": "Kraken",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg",
-        "record": "4-2-0",
-        "score": 6,
-        "winner": true
-      },
-      "away": {
-        "abbr": "CGY",
-        "name": "Calgary Flames",
-        "nickname": "Flames",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg",
-        "record": "0-5-0",
-        "score": 1,
-        "winner": false
-      }
-    },
-    {
-      "id": 2026020039,
-      "date": "2026-10-04",
-      "status": "Final",
-      "live": false,
-      "completed": true,
-      "exhibition": false,
-      "venue": "Rogers Arena",
-      "broadcast": "SNP, SCRIPPS",
-      "home": {
-        "abbr": "VAN",
-        "name": "Vancouver Canucks",
-        "nickname": "Canucks",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
-        "record": "2-5-0",
-        "score": 2,
-        "winner": false
-      },
-      "away": {
-        "abbr": "VGK",
-        "name": "Vegas Golden Knights",
-        "nickname": "Golden Knights",
-        "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
-        "record": "5-1-0",
-        "score": 3,
         "winner": true
       }
     }
