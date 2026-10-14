@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T16:46:52.350794-04:00",
+  "generatedAt": "2026-10-14T19:30:09.069932-04:00",
   "team": "MTL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020106,
       "date": "2026-10-14",
       "start": "2026-10-14T23:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Capital One Arena",
       "isHome": false,
       "opponent": {
@@ -2384,7 +2384,7 @@
       "id": 2026020106,
       "date": "2026-10-14",
       "start": "2026-10-14T23:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Capital One Arena",
       "isHome": false,
       "opponent": {
