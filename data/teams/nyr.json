@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T08:04:40.025749-04:00",
+  "generatedAt": "2026-10-14T13:17:21.132037-04:00",
   "team": "NYR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2682,18 +2682,6 @@
         "toi": "14:47"
       },
       {
-        "id": 8484786,
-        "name": "Cole Beaudoin",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8484786.png",
-        "gp": 4,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 0,
-        "toi": "8:46"
-      },
-      {
         "id": 8482877,
         "name": "Jaroslav Chmelar",
         "position": "R",
@@ -2704,6 +2692,18 @@
         "points": 0,
         "plusMinus": -1,
         "toi": "8:11"
+      },
+      {
+        "id": 8480813,
+        "name": "Joseph Veleno",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8480813.png",
+        "gp": 4,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "toi": "11:37"
       }
     ],
     "defense": [
