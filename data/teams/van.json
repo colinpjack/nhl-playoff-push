@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T13:47:44.724822-04:00",
+  "generatedAt": "2026-10-15T17:27:51.916332-04:00",
   "team": "VAN",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2728,16 +2728,16 @@
         "toi": "13:31"
       },
       {
-        "id": 8482691,
-        "name": "Aatu R\u00e4ty",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8482691.png",
-        "gp": 4,
-        "goals": 1,
-        "assists": 0,
+        "id": 8475848,
+        "name": "Brendan Gallagher",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8475848.png",
+        "gp": 7,
+        "goals": 0,
+        "assists": 1,
         "points": 1,
-        "plusMinus": -2,
-        "toi": "10:10"
+        "plusMinus": -1,
+        "toi": "10:53"
       }
     ],
     "defense": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T13:47:44.724822-04:00",
+  "generatedAt": "2026-10-15T17:27:51.916332-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 12",
@@ -4682,7 +4682,7 @@
       "completed": true,
       "exhibition": false,
       "venue": "Honda Center",
-      "broadcast": "SNW, Prime Video, KCOP-13",
+      "broadcast": "SNW, FOXLA+, Prime Video",
       "home": {
         "abbr": "ANA",
         "name": "Anaheim Ducks",
@@ -5134,7 +5134,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Honda Center",
-      "broadcast": "Prime Video, KCOP-13, NESN",
+      "broadcast": "FOXLA+, Prime Video, NESN",
       "home": {
         "abbr": "ANA",
         "name": "Anaheim Ducks",
@@ -5998,7 +5998,7 @@
       "completed": true,
       "exhibition": false,
       "venue": "Honda Center",
-      "broadcast": "Prime Video, KCOP-13, SNW",
+      "broadcast": "FOXLA+, Prime Video, SNW",
       "home": {
         "abbr": "ANA",
         "name": "Anaheim Ducks",
@@ -6390,7 +6390,7 @@
       "completed": true,
       "exhibition": false,
       "venue": "Canada Life Centre",
-      "broadcast": "SN, SN1, Prime Video",
+      "broadcast": "SN, SN1, FOXLA+",
       "home": {
         "abbr": "WPG",
         "name": "Winnipeg Jets",
@@ -6754,7 +6754,7 @@
       "completed": true,
       "exhibition": false,
       "venue": "Scotiabank Saddledome",
-      "broadcast": "SN, Prime Video, KCOP-13",
+      "broadcast": "SN, FOXLA+, Prime Video",
       "home": {
         "abbr": "CGY",
         "name": "Calgary Flames",

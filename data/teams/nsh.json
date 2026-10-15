@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T13:47:44.724822-04:00",
+  "generatedAt": "2026-10-15T17:27:51.916332-04:00",
   "team": "NSH",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2829,18 +2829,6 @@
         "otl": 1,
         "sv": 0.897,
         "gaa": 3.169886,
-        "so": 0
-      },
-      {
-        "id": 8483575,
-        "name": "Matt Murray",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NSH/8483575.png",
-        "gp": 1,
-        "wins": 0,
-        "losses": 0,
-        "otl": 1,
-        "sv": 0.9,
-        "gaa": 1.847575,
         "so": 0
       },
       {
