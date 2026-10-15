@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:30:09.069932-04:00",
+  "generatedAt": "2026-10-14T21:52:39.953045-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 12",
@@ -954,7 +954,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "vs DAL",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 14 \u00b7 8:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "156",
       "magicKind": "",
       "magicTitle": "156 more points guarantees Central top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -1150,7 +1150,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ WSH",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 14 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "156",
       "magicKind": "",
       "magicTitle": "156 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 158."
@@ -1542,7 +1542,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "vs MTL",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 14 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1640,7 +1640,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "@ COL",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 14 \u00b7 8:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2893,7 +2893,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ WSH",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 14 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "156",
       "magicKind": "",
       "magicTitle": "156 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 158.",
@@ -2995,7 +2995,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "vs MTL",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 14 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3558,7 +3558,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "vs DAL",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 14 \u00b7 8:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "156",
       "magicKind": "",
       "magicTitle": "156 more points guarantees Central top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point.",
@@ -3813,7 +3813,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "@ COL",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 14 \u00b7 8:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4761,8 +4761,8 @@
     {
       "id": 2026020106,
       "date": "2026-10-14",
-      "status": "Wed, Oct 14 \u00b7 7:30 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Capital One Arena",
@@ -4773,7 +4773,7 @@
         "nickname": "Capitals",
         "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
         "record": "3-3-0",
-        "score": ""
+        "score": 3
       },
       "away": {
         "abbr": "MTL",
@@ -4781,14 +4781,14 @@
         "nickname": "Canadiens",
         "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
         "record": "3-2-1",
-        "score": ""
+        "score": 3
       }
     },
     {
       "id": 2026020107,
       "date": "2026-10-14",
-      "status": "Wed, Oct 14 \u00b7 8:30 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Ball Arena",
@@ -4799,7 +4799,7 @@
         "nickname": "Avalanche",
         "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
         "record": "4-2-0",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "DAL",
@@ -4807,7 +4807,7 @@
         "nickname": "Stars",
         "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg",
         "record": "2-3-1",
-        "score": ""
+        "score": 0
       }
     },
     {
