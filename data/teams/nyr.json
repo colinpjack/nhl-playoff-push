@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T10:19:34.364315-04:00",
+  "generatedAt": "2026-10-16T14:25:50.245566-04:00",
   "team": "NYR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2682,18 +2682,6 @@
         "toi": "14:59"
       },
       {
-        "id": 8482877,
-        "name": "Jaroslav Chmelar",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8482877.png",
-        "gp": 7,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -2,
-        "toi": "8:15"
-      },
-      {
         "id": 8480813,
         "name": "Joseph Veleno",
         "position": "C",
@@ -2704,6 +2692,18 @@
         "points": 0,
         "plusMinus": 0,
         "toi": "11:37"
+      },
+      {
+        "id": 8475413,
+        "name": "Justin Dowling",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8475413.png",
+        "gp": 1,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -1,
+        "toi": "7:41"
       }
     ],
     "defense": [
