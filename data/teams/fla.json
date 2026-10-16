@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:25:50.245566-04:00",
+  "generatedAt": "2026-10-16T17:44:57.896580-04:00",
   "team": "FLA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2858,18 +2858,6 @@
         "sv": 0.878,
         "gaa": 3.251543,
         "so": 0
-      },
-      {
-        "id": 8484900,
-        "name": "Cooper Black",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/FLA/8484900.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       }
     ]
   },
