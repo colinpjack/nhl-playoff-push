@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:28:04.939328-04:00",
+  "generatedAt": "2026-10-17T14:52:02.983020-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 12",
@@ -1101,7 +1101,7 @@
       "formDiff": 4,
       "formDirection": "up",
       "nextLabel": "@ WSH",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 17 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1248,7 +1248,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "vs NJD",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 17 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2689,7 +2689,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "vs NJD",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 17 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -2842,7 +2842,7 @@
       "formDiff": 4,
       "formDirection": "up",
       "nextLabel": "@ WSH",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 17 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -5181,8 +5181,8 @@
     {
       "id": 2026020121,
       "date": "2026-10-17",
-      "status": "Sat, Oct 17 \u00b7 1:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Capital One Arena",
@@ -5193,7 +5193,7 @@
         "nickname": "Capitals",
         "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg",
         "record": "4-3-0",
-        "score": ""
+        "score": 4
       },
       "away": {
         "abbr": "NJD",
@@ -5201,7 +5201,7 @@
         "nickname": "Devils",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg",
         "record": "4-3-0",
-        "score": ""
+        "score": 1
       }
     },
     {
