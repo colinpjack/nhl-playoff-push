@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:09:37.625365-04:00",
+  "generatedAt": "2026-10-18T16:49:23.861926-04:00",
   "team": "PHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2814,18 +2814,6 @@
         "toi": "21:49"
       },
       {
-        "id": 8482169,
-        "name": "Helge Grans",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8482169.png",
-        "gp": 1,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -1,
-        "toi": "12:26"
-      },
-      {
         "id": 8482142,
         "name": "Jamie Drysdale",
         "position": "D",
@@ -2836,6 +2824,18 @@
         "points": 0,
         "plusMinus": -4,
         "toi": "22:04"
+      },
+      {
+        "id": 8481122,
+        "name": "Simon Benoit",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8481122.png",
+        "gp": 9,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -5,
+        "toi": "14:26"
       }
     ],
     "goalies": [
