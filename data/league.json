@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T16:49:23.861926-04:00",
+  "generatedAt": "2026-10-18T19:17:46.889933-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 12",
@@ -807,7 +807,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs CBJ",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 18 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "151",
       "magicKind": "",
       "magicTitle": "151 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 152."
@@ -1591,7 +1591,7 @@
       "formDiff": -5,
       "formDirection": "down",
       "nextLabel": "@ MIN",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 18 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "156",
       "magicKind": "",
       "magicTitle": "156 more points guarantees Metropolitan top three, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -3148,7 +3148,7 @@
       "formDiff": -5,
       "formDirection": "down",
       "nextLabel": "@ MIN",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 18 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "156",
       "magicKind": "",
       "magicTitle": "156 more points guarantees Metropolitan top three, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point.",
@@ -3456,7 +3456,7 @@
       "formDiff": 0,
       "formDirection": "flat",
       "nextLabel": "vs CBJ",
-      "nextTitle": "Regular season \u00b7 Sun, Oct 18 \u00b7 6:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "151",
       "magicKind": "",
       "magicTitle": "151 more points guarantees a wild card, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 152.",
@@ -5573,8 +5573,8 @@
     {
       "id": 2026020135,
       "date": "2026-10-18",
-      "status": "Sun, Oct 18 \u00b7 6:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Grand Casino Arena",
@@ -5585,7 +5585,7 @@
         "nickname": "Wild",
         "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg",
         "record": "5-2-1",
-        "score": ""
+        "score": 2
       },
       "away": {
         "abbr": "CBJ",
@@ -5593,7 +5593,7 @@
         "nickname": "Blue Jackets",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
         "record": "3-3-0",
-        "score": ""
+        "score": 1
       }
     },
     {
