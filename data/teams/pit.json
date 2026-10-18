@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:37:47.787789-04:00",
+  "generatedAt": "2026-10-18T14:09:37.625365-04:00",
   "team": "PIT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2656,18 +2656,6 @@
         "toi": "12:10"
       },
       {
-        "id": 8482758,
-        "name": "Ville Koivunen",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8482758.png",
-        "gp": 7,
-        "goals": 1,
-        "assists": 3,
-        "points": 4,
-        "plusMinus": 2,
-        "toi": "13:32"
-      },
-      {
         "id": 8481481,
         "name": "Blake Lizotte",
         "position": "C",
@@ -2702,6 +2690,18 @@
         "points": 3,
         "plusMinus": -2,
         "toi": "11:59"
+      },
+      {
+        "id": 8482758,
+        "name": "Ville Koivunen",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8482758.png",
+        "gp": 7,
+        "goals": 1,
+        "assists": 2,
+        "points": 3,
+        "plusMinus": 2,
+        "toi": "13:32"
       },
       {
         "id": 8480980,
@@ -2796,8 +2796,8 @@
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8471724.png",
         "gp": 9,
         "goals": 0,
-        "assists": 3,
-        "points": 3,
+        "assists": 4,
+        "points": 4,
         "plusMinus": 0,
         "toi": "19:51"
       },
