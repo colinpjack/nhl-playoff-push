@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:40:53.206356-04:00",
+  "generatedAt": "2026-10-19T16:43:48.213004-04:00",
   "team": "PHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2716,6 +2716,18 @@
         "toi": "17:36"
       },
       {
+        "id": 8483731,
+        "name": "Alex Bump",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8483731.png",
+        "gp": 3,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "toi": "12:08"
+      },
+      {
         "id": 8475253,
         "name": "Garrett Wilson",
         "position": "L",
@@ -2726,18 +2738,6 @@
         "points": 0,
         "plusMinus": -2,
         "toi": "9:48"
-      },
-      {
-        "id": 8480021,
-        "name": "Jack Studnicka",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8480021.png",
-        "gp": 3,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -1,
-        "toi": "8:48"
       }
     ],
     "defense": [

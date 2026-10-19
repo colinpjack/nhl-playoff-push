@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:40:53.206356-04:00",
+  "generatedAt": "2026-10-19T16:43:48.213004-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 19",
@@ -4572,7 +4572,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Rogers Arena",
-      "broadcast": "SNP, SN360, CARNHL",
+      "broadcast": "SN, CARNHL, HHN",
       "home": {
         "abbr": "VAN",
         "name": "Vancouver Canucks",

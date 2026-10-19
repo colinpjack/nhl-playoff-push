@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:40:53.206356-04:00",
+  "generatedAt": "2026-10-19T16:43:48.213004-04:00",
   "team": "WSH",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2742,18 +2742,6 @@
         "points": 3,
         "plusMinus": 10,
         "toi": "19:54"
-      },
-      {
-        "id": 8475718,
-        "name": "Justin Holl",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8475718.png",
-        "gp": 3,
-        "goals": 2,
-        "assists": 0,
-        "points": 2,
-        "plusMinus": 1,
-        "toi": "12:59"
       },
       {
         "id": 8480796,
