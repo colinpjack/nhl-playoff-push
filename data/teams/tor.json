@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:51:47.401035-04:00",
+  "generatedAt": "2026-10-19T11:40:53.206356-04:00",
   "team": "TOR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2862,6 +2862,18 @@
         "sv": 0.875,
         "gaa": 3.322872,
         "so": 0
+      },
+      {
+        "id": 8482515,
+        "name": "Artur Akhtyamov",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/TOR/8482515.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       }
     ]
   },

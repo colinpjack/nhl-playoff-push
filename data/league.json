@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T03:51:47.401035-04:00",
+  "generatedAt": "2026-10-19T11:40:53.206356-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 19",
@@ -4442,7 +4442,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Nationwide Arena",
-      "broadcast": "SN, SN360, CBJNHL",
+      "broadcast": "SN, CBJNHL, CBJHN",
       "home": {
         "abbr": "CBJ",
         "name": "Columbus Blue Jackets",
