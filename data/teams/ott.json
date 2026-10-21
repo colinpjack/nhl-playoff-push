@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:42:33.308067-04:00",
+  "generatedAt": "2026-10-21T19:42:41.317146-04:00",
   "team": "OTT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1697,7 +1697,7 @@
       "id": 2026020153,
       "date": "2026-10-21",
       "start": "2026-10-21T23:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Canadian Tire Centre",
       "isHome": true,
       "opponent": {
@@ -2488,7 +2488,7 @@
       "id": 2026020153,
       "date": "2026-10-21",
       "start": "2026-10-21T23:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Canadian Tire Centre",
       "isHome": true,
       "opponent": {

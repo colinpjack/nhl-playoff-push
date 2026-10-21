@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:42:33.308067-04:00",
+  "generatedAt": "2026-10-21T19:42:41.317146-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 19",
@@ -1395,7 +1395,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs PHI",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1738,7 +1738,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "@ BUF",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2944,7 +2944,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs PHI",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3097,7 +3097,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "@ BUF",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4649,8 +4649,8 @@
     {
       "id": 2026020152,
       "date": "2026-10-21",
-      "status": "Wed, Oct 21 \u00b7 7:30 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "KeyBank Center",
@@ -4661,7 +4661,7 @@
         "nickname": "Sabres",
         "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
         "record": "4-3-2",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "PHI",
@@ -4669,7 +4669,7 @@
         "nickname": "Flyers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
         "record": "2-6-3",
-        "score": ""
+        "score": 0
       }
     },
     {
