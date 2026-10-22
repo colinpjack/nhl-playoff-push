@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T19:42:41.317146-04:00",
+  "generatedAt": "2026-10-21T21:56:35.962195-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 19",
@@ -170,7 +170,7 @@
       "formDiff": 10,
       "formDirection": "up",
       "nextLabel": "@ OTT",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "149",
       "magicKind": "",
       "magicTitle": "149 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151."
@@ -709,7 +709,7 @@
       "formDiff": 10,
       "formDirection": "up",
       "nextLabel": "@ OTT",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "149",
       "magicKind": "",
       "magicTitle": "149 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151."
@@ -954,7 +954,7 @@
       "formDiff": -6,
       "formDirection": "down",
       "nextLabel": "vs FLA",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "149",
       "magicKind": "",
       "magicTitle": "149 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151."
@@ -2036,7 +2036,7 @@
         "formDiff": 10,
         "formDirection": "up",
         "nextLabel": "@ OTT",
-        "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "149",
         "magicKind": "",
         "magicTitle": "149 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151."
@@ -2283,7 +2283,7 @@
         "formDiff": -6,
         "formDirection": "down",
         "nextLabel": "vs FLA",
-        "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "149",
         "magicKind": "",
         "magicTitle": "149 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151."
@@ -2740,7 +2740,7 @@
       "formDiff": -6,
       "formDirection": "down",
       "nextLabel": "vs FLA",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "149",
       "magicKind": "",
       "magicTitle": "149 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151.",
@@ -2791,7 +2791,7 @@
       "formDiff": 10,
       "formDirection": "up",
       "nextLabel": "@ OTT",
-      "nextTitle": "Regular season \u00b7 Wed, Oct 21 \u00b7 7:30 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "149",
       "magicKind": "",
       "magicTitle": "149 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151.",
@@ -4661,7 +4661,7 @@
         "nickname": "Sabres",
         "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
         "record": "4-3-2",
-        "score": 0
+        "score": 1
       },
       "away": {
         "abbr": "PHI",
@@ -4669,14 +4669,14 @@
         "nickname": "Flyers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
         "record": "2-6-3",
-        "score": 0
+        "score": 3
       }
     },
     {
       "id": 2026020153,
       "date": "2026-10-21",
-      "status": "Wed, Oct 21 \u00b7 7:30 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Canadian Tire Centre",
@@ -4687,7 +4687,7 @@
         "nickname": "Senators",
         "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
         "record": "6-3-0",
-        "score": ""
+        "score": 3
       },
       "away": {
         "abbr": "FLA",
@@ -4695,7 +4695,7 @@
         "nickname": "Panthers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
         "record": "5-2-2",
-        "score": ""
+        "score": 1
       }
     },
     {
