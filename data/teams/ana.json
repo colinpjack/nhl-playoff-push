@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:01:54.788627-04:00",
+  "generatedAt": "2026-10-22T17:40:57.469245-04:00",
   "team": "ANA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2812,18 +2812,6 @@
         "points": 0,
         "plusMinus": 0,
         "toi": "18:54"
-      },
-      {
-        "id": 8484262,
-        "name": "Travis Mitchell",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8484262.png",
-        "gp": 5,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -3,
-        "toi": "16:36"
       },
       {
         "id": 8482731,
