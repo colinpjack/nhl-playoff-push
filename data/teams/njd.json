@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:18:34.882243-04:00",
+  "generatedAt": "2026-10-23T18:39:49.725869-04:00",
   "team": "NJD",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2846,6 +2846,18 @@
         "sv": 0.883,
         "gaa": 3.149606,
         "so": 0
+      },
+      {
+        "id": 8476945,
+        "name": "Connor Hellebuyck",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8476945.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       },
       {
         "id": 8482465,

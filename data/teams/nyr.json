@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:18:34.882243-04:00",
+  "generatedAt": "2026-10-23T18:39:49.725869-04:00",
   "team": "NYR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2682,18 +2682,6 @@
         "toi": "14:56"
       },
       {
-        "id": 8475413,
-        "name": "Justin Dowling",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8475413.png",
-        "gp": 4,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": 2,
-        "toi": "7:30"
-      },
-      {
         "id": 8479390,
         "name": "Taylor Raddysh",
         "position": "R",
@@ -2704,6 +2692,18 @@
         "points": 1,
         "plusMinus": 3,
         "toi": "8:39"
+      },
+      {
+        "id": 8480813,
+        "name": "Joseph Veleno",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8480813.png",
+        "gp": 4,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "toi": "11:37"
       }
     ],
     "defense": [
