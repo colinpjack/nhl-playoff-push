@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:57:56.400100-04:00",
+  "generatedAt": "2026-10-23T06:09:10.342689-04:00",
   "team": "UTA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2255,7 +2255,7 @@
       "id": 2026020164,
       "date": "2026-10-22",
       "start": "2026-10-23T02:00:00Z",
-      "state": "FINAL",
+      "state": "OFF",
       "venue": "Climate Pledge Arena",
       "isHome": false,
       "opponent": {
@@ -2566,144 +2566,144 @@
         "name": "Clayton Keller",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8479343.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 4,
-        "assists": 9,
-        "points": 13,
-        "plusMinus": -1,
-        "toi": "17:42"
+        "assists": 10,
+        "points": 14,
+        "plusMinus": -3,
+        "toi": "17:56"
       },
       {
         "id": 8477951,
         "name": "Nick Schmaltz",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8477951.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 7,
         "assists": 6,
         "points": 13,
-        "plusMinus": -4,
-        "toi": "18:17"
-      },
-      {
-        "id": 8482699,
-        "name": "Dylan Guenther",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8482699.png",
-        "gp": 10,
-        "goals": 4,
-        "assists": 5,
-        "points": 9,
-        "plusMinus": -1,
-        "toi": "16:25"
+        "plusMinus": -6,
+        "toi": "18:14"
       },
       {
         "id": 8483431,
         "name": "Logan Cooley",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8483431.png",
-        "gp": 10,
-        "goals": 1,
+        "gp": 11,
+        "goals": 3,
         "assists": 8,
+        "points": 11,
+        "plusMinus": -3,
+        "toi": "17:57"
+      },
+      {
+        "id": 8482699,
+        "name": "Dylan Guenther",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8482699.png",
+        "gp": 11,
+        "goals": 4,
+        "assists": 5,
         "points": 9,
         "plusMinus": -2,
-        "toi": "18:00"
+        "toi": "16:45"
       },
       {
         "id": 8480849,
         "name": "Barrett Hayton",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8480849.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 1,
         "assists": 6,
         "points": 7,
         "plusMinus": 5,
-        "toi": "13:55"
-      },
-      {
-        "id": 8475314,
-        "name": "Anders Lee",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8475314.png",
-        "gp": 10,
-        "goals": 2,
-        "assists": 3,
-        "points": 5,
-        "plusMinus": 0,
-        "toi": "13:22"
+        "toi": "13:58"
       },
       {
         "id": 8479977,
         "name": "Kailer Yamamoto",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8479977.png",
-        "gp": 5,
+        "gp": 6,
+        "goals": 2,
+        "assists": 4,
+        "points": 6,
+        "plusMinus": 2,
+        "toi": "14:30"
+      },
+      {
+        "id": 8475314,
+        "name": "Anders Lee",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8475314.png",
+        "gp": 11,
         "goals": 2,
         "assists": 3,
         "points": 5,
-        "plusMinus": 2,
-        "toi": "14:40"
+        "plusMinus": 0,
+        "toi": "13:15"
       },
       {
         "id": 8478831,
         "name": "Kevin Stenlund",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478831.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 1,
         "assists": 4,
         "points": 5,
         "plusMinus": 3,
-        "toi": "13:51"
-      },
-      {
-        "id": 8484388,
-        "name": "Daniil But",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8484388.png",
-        "gp": 10,
-        "goals": 2,
-        "assists": 2,
-        "points": 4,
-        "plusMinus": 4,
-        "toi": "11:07"
-      },
-      {
-        "id": 8478474,
-        "name": "Lawson Crouse",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478474.png",
-        "gp": 10,
-        "goals": 1,
-        "assists": 3,
-        "points": 4,
-        "plusMinus": 2,
-        "toi": "14:58"
+        "toi": "13:48"
       },
       {
         "id": 8476389,
         "name": "Vincent Trocheck",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8476389.png",
-        "gp": 10,
+        "gp": 11,
+        "goals": 3,
+        "assists": 2,
+        "points": 5,
+        "plusMinus": -4,
+        "toi": "16:26"
+      },
+      {
+        "id": 8484388,
+        "name": "Daniil But",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8484388.png",
+        "gp": 11,
         "goals": 2,
         "assists": 2,
         "points": 4,
-        "plusMinus": -3,
-        "toi": "16:19"
+        "plusMinus": 4,
+        "toi": "10:58"
+      },
+      {
+        "id": 8478474,
+        "name": "Lawson Crouse",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478474.png",
+        "gp": 11,
+        "goals": 1,
+        "assists": 3,
+        "points": 4,
+        "plusMinus": 1,
+        "toi": "14:47"
       },
       {
         "id": 8480855,
         "name": "Jack McBain",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8480855.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 1,
         "assists": 2,
         "points": 3,
         "plusMinus": 4,
-        "toi": "12:39"
+        "toi": "12:37"
       }
     ],
     "defense": [
@@ -2712,12 +2712,12 @@
         "name": "Mikhail Sergachev",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8479410.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 3,
-        "assists": 8,
-        "points": 11,
-        "plusMinus": 4,
-        "toi": "22:41"
+        "assists": 10,
+        "points": 13,
+        "plusMinus": 3,
+        "toi": "23:04"
       },
       {
         "id": 8478507,
@@ -2736,19 +2736,31 @@
         "name": "Andrew Peeke",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8479369.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 1,
         "assists": 2,
         "points": 3,
-        "plusMinus": -2,
-        "toi": "15:41"
+        "plusMinus": -3,
+        "toi": "16:04"
+      },
+      {
+        "id": 8477346,
+        "name": "MacKenzie Weegar",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8477346.png",
+        "gp": 11,
+        "goals": 2,
+        "assists": 1,
+        "points": 3,
+        "plusMinus": 1,
+        "toi": "21:25"
       },
       {
         "id": 8477220,
         "name": "Nate Schmidt",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8477220.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 1,
         "assists": 2,
         "points": 3,
@@ -2760,36 +2772,24 @@
         "name": "Dmitri Simashev",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8484386.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 0,
         "assists": 2,
         "points": 2,
-        "plusMinus": -2,
-        "toi": "15:01"
-      },
-      {
-        "id": 8477346,
-        "name": "MacKenzie Weegar",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8477346.png",
-        "gp": 10,
-        "goals": 2,
-        "assists": 0,
-        "points": 2,
-        "plusMinus": 1,
-        "toi": "21:18"
+        "plusMinus": -3,
+        "toi": "14:58"
       },
       {
         "id": 8480084,
         "name": "Nick DeSimone",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8480084.png",
-        "gp": 1,
+        "gp": 2,
         "goals": 0,
         "assists": 0,
         "points": 0,
         "plusMinus": 1,
-        "toi": "15:39"
+        "toi": "13:00"
       }
     ],
     "goalies": [
@@ -2797,12 +2797,12 @@
         "id": 8478872,
         "name": "Karel Vejmelka",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8478872.png",
-        "gp": 8,
+        "gp": 9,
         "wins": 5,
-        "losses": 2,
+        "losses": 3,
         "otl": 0,
-        "sv": 0.879,
-        "gaa": 2.892783,
+        "sv": 0.872,
+        "gaa": 3.037667,
         "so": 1
       },
       {
