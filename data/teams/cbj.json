@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:09:02.473262-04:00",
+  "generatedAt": "2026-10-23T15:18:34.882243-04:00",
   "team": "CBJ",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2752,6 +2752,18 @@
         "points": 6,
         "plusMinus": 6,
         "toi": "29:06"
+      },
+      {
+        "id": 8476923,
+        "name": "Damon Severson",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8476923.png",
+        "gp": 6,
+        "goals": 1,
+        "assists": 3,
+        "points": 4,
+        "plusMinus": 4,
+        "toi": "23:35"
       },
       {
         "id": 8483485,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:09:02.473262-04:00",
+  "generatedAt": "2026-10-23T15:18:34.882243-04:00",
   "team": "NJD",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2664,18 +2664,6 @@
         "toi": "17:10"
       },
       {
-        "id": 8482110,
-        "name": "Dawson Mercer",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8482110.png",
-        "gp": 10,
-        "goals": 0,
-        "assists": 4,
-        "points": 4,
-        "plusMinus": -2,
-        "toi": "15:06"
-      },
-      {
         "id": 8478542,
         "name": "Evan Rodrigues",
         "position": "C",
@@ -2746,6 +2734,18 @@
         "points": 3,
         "plusMinus": 0,
         "toi": "9:30"
+      },
+      {
+        "id": 8479996,
+        "name": "Cody Glass",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8479996.png",
+        "gp": 10,
+        "goals": 1,
+        "assists": 0,
+        "points": 1,
+        "plusMinus": -1,
+        "toi": "12:26"
       }
     ],
     "defense": [
@@ -2845,18 +2845,6 @@
         "otl": 0,
         "sv": 0.883,
         "gaa": 3.149606,
-        "so": 0
-      },
-      {
-        "id": 8482076,
-        "name": "Nico Daws",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8482076.png",
-        "gp": 4,
-        "wins": 2,
-        "losses": 2,
-        "otl": 0,
-        "sv": 0.874,
-        "gaa": 2.776999,
         "so": 0
       },
       {
