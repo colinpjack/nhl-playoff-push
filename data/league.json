@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:39:49.725869-04:00",
+  "generatedAt": "2026-10-23T21:09:56.771498-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 19",
@@ -219,7 +219,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs TBL",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -562,7 +562,7 @@
       "formDiff": 7,
       "formDirection": "up",
       "nextLabel": "@ COL",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "146",
       "magicKind": "",
       "magicTitle": "146 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 147."
@@ -1346,7 +1346,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs TBL",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1395,7 +1395,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ CHI",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "150",
       "magicKind": "",
       "magicTitle": "150 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151."
@@ -1885,7 +1885,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs MTL",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2134,7 +2134,7 @@
         "formDiff": 7,
         "formDirection": "up",
         "nextLabel": "@ COL",
-        "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 9:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "146",
         "magicKind": "",
         "magicTitle": "146 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 147."
@@ -2587,7 +2587,7 @@
       "formDiff": 7,
       "formDirection": "up",
       "nextLabel": "@ COL",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "146",
       "magicKind": "",
       "magicTitle": "146 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 147.",
@@ -3046,7 +3046,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ CHI",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "150",
       "magicKind": "",
       "magicTitle": "150 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 151.",
@@ -3609,7 +3609,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs TBL",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3915,7 +3915,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs MTL",
-      "nextTitle": "Regular season \u00b7 Fri, Oct 23 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -5041,8 +5041,8 @@
     {
       "id": 2026020166,
       "date": "2026-10-23",
-      "status": "Fri, Oct 23 \u00b7 8:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "United Center",
@@ -5053,7 +5053,7 @@
         "nickname": "Blackhawks",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
         "record": "3-6-0",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "MTL",
@@ -5061,14 +5061,14 @@
         "nickname": "Canadiens",
         "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg",
         "record": "4-3-2",
-        "score": ""
+        "score": 1
       }
     },
     {
       "id": 2026020167,
       "date": "2026-10-23",
-      "status": "Fri, Oct 23 \u00b7 9:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Ball Arena",
@@ -5079,7 +5079,7 @@
         "nickname": "Avalanche",
         "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
         "record": "5-4-1",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "TBL",
@@ -5087,7 +5087,7 @@
         "nickname": "Lightning",
         "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
         "record": "7-2-0",
-        "score": ""
+        "score": 0
       }
     },
     {
