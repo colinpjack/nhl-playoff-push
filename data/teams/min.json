@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:38:05.344417-04:00",
+  "generatedAt": "2026-10-24T15:50:37.899597-04:00",
   "team": "MIN",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2754,18 +2754,6 @@
         "points": 2,
         "plusMinus": 2,
         "toi": "20:22"
-      },
-      {
-        "id": 8482094,
-        "name": "Daemon Hunt",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MIN/8482094.png",
-        "gp": 11,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -4,
-        "toi": "14:08"
       },
       {
         "id": 8483766,

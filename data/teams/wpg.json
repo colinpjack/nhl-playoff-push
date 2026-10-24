@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:38:05.344417-04:00",
+  "generatedAt": "2026-10-24T15:50:37.899597-04:00",
   "team": "WPG",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2812,18 +2812,6 @@
         "points": 0,
         "plusMinus": -4,
         "toi": "16:07"
-      },
-      {
-        "id": 8481030,
-        "name": "Jack St. Ivany",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8481030.png",
-        "gp": 4,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -1,
-        "toi": "13:31"
       },
       {
         "id": 8482459,
