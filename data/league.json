@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:35:50.245054-04:00",
+  "generatedAt": "2026-10-24T13:38:05.344417-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 19",
@@ -1689,7 +1689,7 @@
       "formDiff": 5,
       "formDirection": "up",
       "nextLabel": "vs ANA",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 24 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1787,7 +1787,7 @@
       "formDiff": -7,
       "formDirection": "down",
       "nextLabel": "@ PHI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 24 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2283,7 +2283,7 @@
         "formDiff": -7,
         "formDirection": "down",
         "nextLabel": "@ PHI",
-        "nextTitle": "Regular season \u00b7 Sat, Oct 24 \u00b7 1:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "\u2014",
         "magicKind": "",
         "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -3097,7 +3097,7 @@
       "formDiff": 5,
       "formDirection": "up",
       "nextLabel": "vs ANA",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 24 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3813,7 +3813,7 @@
       "formDiff": -7,
       "formDirection": "down",
       "nextLabel": "@ PHI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 24 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -5097,8 +5097,8 @@
     {
       "id": 2026020168,
       "date": "2026-10-24",
-      "status": "Sat, Oct 24 \u00b7 1:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Xfinity Mobile Arena",
@@ -5109,7 +5109,7 @@
         "nickname": "Flyers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
         "record": "3-6-3",
-        "score": ""
+        "score": 2
       },
       "away": {
         "abbr": "ANA",
@@ -5117,7 +5117,7 @@
         "nickname": "Ducks",
         "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg",
         "record": "4-6-0",
-        "score": ""
+        "score": 0
       }
     },
     {
