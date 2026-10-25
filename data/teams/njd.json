@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:31:38.577787-04:00",
+  "generatedAt": "2026-10-24T20:34:00.897572-04:00",
   "team": "NJD",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2255,7 +2255,7 @@
       "id": 2026020169,
       "date": "2026-10-24",
       "start": "2026-10-24T19:30:00Z",
-      "state": "FINAL",
+      "state": "OFF",
       "venue": "Prudential Center",
       "isHome": true,
       "opponent": {
@@ -2566,23 +2566,23 @@
         "name": "Jack Hughes",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8481559.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 3,
-        "assists": 8,
-        "points": 11,
-        "plusMinus": 1,
-        "toi": "20:30"
+        "assists": 9,
+        "points": 12,
+        "plusMinus": 2,
+        "toi": "20:24"
       },
       {
         "id": 8479407,
         "name": "Jesper Bratt",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8479407.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 2,
-        "assists": 7,
-        "points": 9,
-        "plusMinus": 1,
+        "assists": 8,
+        "points": 10,
+        "plusMinus": 2,
         "toi": "17:22"
       },
       {
@@ -2590,96 +2590,96 @@
         "name": "Arseny Gritsyuk",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8481721.png",
-        "gp": 10,
-        "goals": 5,
-        "assists": 2,
-        "points": 7,
-        "plusMinus": 2,
+        "gp": 11,
+        "goals": 6,
+        "assists": 3,
+        "points": 9,
+        "plusMinus": 4,
         "toi": "15:21"
-      },
-      {
-        "id": 8480002,
-        "name": "Nico Hischier",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8480002.png",
-        "gp": 10,
-        "goals": 5,
-        "assists": 2,
-        "points": 7,
-        "plusMinus": 2,
-        "toi": "18:19"
       },
       {
         "id": 8482146,
         "name": "Luke Evangelista",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8482146.png",
-        "gp": 7,
+        "gp": 8,
         "goals": 3,
-        "assists": 3,
-        "points": 6,
-        "plusMinus": 1,
-        "toi": "17:10"
+        "assists": 4,
+        "points": 7,
+        "plusMinus": 2,
+        "toi": "17:05"
+      },
+      {
+        "id": 8480002,
+        "name": "Nico Hischier",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8480002.png",
+        "gp": 11,
+        "goals": 5,
+        "assists": 2,
+        "points": 7,
+        "plusMinus": 3,
+        "toi": "18:08"
       },
       {
         "id": 8478542,
         "name": "Evan Rodrigues",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8478542.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 2,
-        "assists": 2,
-        "points": 4,
+        "assists": 3,
+        "points": 5,
         "plusMinus": -2,
-        "toi": "15:26"
+        "toi": "15:22"
       },
       {
         "id": 8480003,
         "name": "Jesper Boqvist",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8480003.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 3,
-        "assists": 1,
-        "points": 4,
-        "plusMinus": 2,
-        "toi": "11:52"
-      },
-      {
-        "id": 8478414,
-        "name": "Timo Meier",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8478414.png",
-        "gp": 10,
-        "goals": 1,
-        "assists": 3,
-        "points": 4,
-        "plusMinus": -1,
-        "toi": "16:22"
-      },
-      {
-        "id": 8483695,
-        "name": "Amadeus Lombardi",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8483695.png",
-        "gp": 8,
-        "goals": 0,
-        "assists": 3,
-        "points": 3,
-        "plusMinus": -1,
-        "toi": "10:47"
+        "assists": 2,
+        "points": 5,
+        "plusMinus": 3,
+        "toi": "11:45"
       },
       {
         "id": 8477511,
         "name": "Anthony Mantha",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8477511.png",
-        "gp": 10,
-        "goals": 2,
+        "gp": 11,
+        "goals": 3,
         "assists": 1,
+        "points": 4,
+        "plusMinus": -1,
+        "toi": "13:09"
+      },
+      {
+        "id": 8478414,
+        "name": "Timo Meier",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8478414.png",
+        "gp": 11,
+        "goals": 1,
+        "assists": 3,
+        "points": 4,
+        "plusMinus": -2,
+        "toi": "16:19"
+      },
+      {
+        "id": 8483695,
+        "name": "Amadeus Lombardi",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8483695.png",
+        "gp": 9,
+        "goals": 0,
+        "assists": 3,
         "points": 3,
         "plusMinus": -1,
-        "toi": "13:13"
+        "toi": "10:57"
       },
       {
         "id": 8476474,
@@ -2698,12 +2698,12 @@
         "name": "Cody Glass",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8479996.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 1,
         "assists": 0,
         "points": 1,
         "plusMinus": -1,
-        "toi": "12:26"
+        "toi": "12:34"
       }
     ],
     "defense": [
@@ -2712,36 +2712,36 @@
         "name": "Dougie Hamilton",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8476462.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 1,
         "assists": 4,
         "points": 5,
-        "plusMinus": 1,
-        "toi": "21:14"
-      },
-      {
-        "id": 8482684,
-        "name": "Luke Hughes",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8482684.png",
-        "gp": 10,
-        "goals": 3,
-        "assists": 1,
-        "points": 4,
         "plusMinus": 2,
-        "toi": "23:57"
+        "toi": "21:01"
       },
       {
         "id": 8477488,
         "name": "Brett Pesce",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8477488.png",
-        "gp": 10,
-        "goals": 0,
+        "gp": 11,
+        "goals": 1,
         "assists": 3,
-        "points": 3,
-        "plusMinus": 6,
-        "toi": "21:15"
+        "points": 4,
+        "plusMinus": 7,
+        "toi": "21:17"
+      },
+      {
+        "id": 8482684,
+        "name": "Luke Hughes",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8482684.png",
+        "gp": 11,
+        "goals": 3,
+        "assists": 1,
+        "points": 4,
+        "plusMinus": 2,
+        "toi": "24:05"
       },
       {
         "id": 8480990,
@@ -2760,36 +2760,36 @@
         "name": "Jonas Siegenthaler",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8478399.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 0,
         "assists": 2,
         "points": 2,
-        "plusMinus": -3,
-        "toi": "19:29"
+        "plusMinus": -2,
+        "toi": "19:28"
       },
       {
         "id": 8475455,
         "name": "Brenden Dillon",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8475455.png",
-        "gp": 5,
+        "gp": 6,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -2,
-        "toi": "14:26"
+        "plusMinus": -1,
+        "toi": "14:30"
       },
       {
         "id": 8480192,
         "name": "Johnathan Kovacevic",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8480192.png",
-        "gp": 5,
+        "gp": 6,
         "goals": 0,
         "assists": 0,
         "points": 0,
         "plusMinus": -2,
-        "toi": "15:29"
+        "toi": "15:38"
       }
     ],
     "goalies": [
@@ -2797,12 +2797,12 @@
         "id": 8474596,
         "name": "Jake Allen",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NJD/8474596.png",
-        "gp": 6,
-        "wins": 4,
+        "gp": 7,
+        "wins": 5,
         "losses": 2,
         "otl": 0,
-        "sv": 0.883,
-        "gaa": 3.149606,
+        "sv": 0.886,
+        "gaa": 2.843939,
         "so": 0
       },
       {

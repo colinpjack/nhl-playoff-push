@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:31:38.577787-04:00",
+  "generatedAt": "2026-10-24T20:34:00.897572-04:00",
   "team": "LAK",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2255,7 +2255,7 @@
       "id": 2026020169,
       "date": "2026-10-24",
       "start": "2026-10-24T19:30:00Z",
-      "state": "FINAL",
+      "state": "OFF",
       "venue": "Prudential Center",
       "isHome": false,
       "opponent": {
@@ -2551,7 +2551,7 @@
       "id": 2026020170,
       "date": "2026-10-24",
       "start": "2026-10-24T23:00:00Z",
-      "state": "PRE",
+      "state": "LIVE",
       "venue": "TD Garden",
       "isHome": false,
       "opponent": {
@@ -2567,10 +2567,10 @@
       "awayWinPct": 35.3,
       "homeAbbr": "BOS",
       "awayAbbr": "SJS",
-      "homeScore": null,
-      "awayScore": null,
-      "usScore": null,
-      "themScore": null,
+      "homeScore": 2,
+      "awayScore": 2,
+      "usScore": 2,
+      "themScore": 2,
       "ot": false,
       "backToBack": false,
       "divisionGame": false,
@@ -2600,60 +2600,72 @@
         "name": "Artemi Panarin",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8478550.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 6,
         "assists": 3,
         "points": 9,
-        "plusMinus": -2,
-        "toi": "21:18"
+        "plusMinus": -4,
+        "toi": "21:30"
       },
       {
         "id": 8477960,
         "name": "Adrian Kempe",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8477960.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 3,
-        "assists": 4,
-        "points": 7,
-        "plusMinus": 1,
-        "toi": "20:43"
+        "assists": 5,
+        "points": 8,
+        "plusMinus": 0,
+        "toi": "20:42"
       },
       {
         "id": 8482155,
         "name": "Alex Laferriere",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482155.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 2,
         "assists": 5,
         "points": 7,
-        "plusMinus": 2,
-        "toi": "18:47"
+        "plusMinus": 1,
+        "toi": "19:05"
       },
       {
         "id": 8475287,
         "name": "Erik Haula",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8475287.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 1,
         "assists": 3,
         "points": 4,
-        "plusMinus": -1,
-        "toi": "16:03"
+        "plusMinus": -2,
+        "toi": "16:04"
+      },
+      {
+        "id": 8476872,
+        "name": "Scott Laughton",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8476872.png",
+        "gp": 9,
+        "goals": 2,
+        "assists": 1,
+        "points": 3,
+        "plusMinus": -2,
+        "toi": "14:35"
       },
       {
         "id": 8476469,
         "name": "Joel Armia",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8476469.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 1,
         "assists": 1,
         "points": 2,
         "plusMinus": -4,
-        "toi": "13:30"
+        "toi": "13:35"
       },
       {
         "id": 8482124,
@@ -2668,28 +2680,16 @@
         "toi": "18:26"
       },
       {
-        "id": 8476872,
-        "name": "Scott Laughton",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8476872.png",
-        "gp": 8,
-        "goals": 1,
-        "assists": 1,
-        "points": 2,
-        "plusMinus": -3,
-        "toi": "14:36"
-      },
-      {
         "id": 8479675,
         "name": "Trevor Moore",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8479675.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 1,
         "assists": 1,
         "points": 2,
         "plusMinus": -3,
-        "toi": "16:22"
+        "toi": "16:17"
       },
       {
         "id": 8481532,
@@ -2704,40 +2704,40 @@
         "toi": "14:06"
       },
       {
-        "id": 8475692,
-        "name": "Mats Zuccarello",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8475692.png",
-        "gp": 5,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": 1,
-        "toi": "16:59"
-      },
-      {
         "id": 8481732,
         "name": "Andre Lee",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8481732.png",
+        "gp": 7,
+        "goals": 0,
+        "assists": 1,
+        "points": 1,
+        "plusMinus": 0,
+        "toi": "11:22"
+      },
+      {
+        "id": 8475692,
+        "name": "Mats Zuccarello",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8475692.png",
         "gp": 6,
         "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 0,
-        "toi": "11:00"
+        "assists": 1,
+        "points": 1,
+        "plusMinus": 1,
+        "toi": "16:22"
       },
       {
         "id": 8470621,
         "name": "Corey Perry",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8470621.png",
-        "gp": 7,
+        "gp": 8,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -2,
-        "toi": "11:47"
+        "plusMinus": -4,
+        "toi": "11:39"
       }
     ],
     "defense": [
@@ -2746,36 +2746,36 @@
         "name": "Brandt Clarke",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8482730.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 2,
         "assists": 5,
         "points": 7,
-        "plusMinus": -5,
-        "toi": "19:36"
+        "plusMinus": -6,
+        "toi": "19:39"
       },
       {
         "id": 8476979,
         "name": "Erik Gustafsson",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8476979.png",
-        "gp": 6,
+        "gp": 7,
         "goals": 1,
         "assists": 1,
         "points": 2,
         "plusMinus": 0,
-        "toi": "18:08"
+        "toi": "18:37"
       },
       {
         "id": 8475208,
         "name": "Brian Dumoulin",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8475208.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 1,
         "assists": 0,
         "points": 1,
         "plusMinus": -2,
-        "toi": "16:32"
+        "toi": "16:26"
       },
       {
         "id": 8476879,
@@ -2794,36 +2794,36 @@
         "name": "Drew Doughty",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8474563.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 0,
         "assists": 1,
         "points": 1,
-        "plusMinus": 2,
-        "toi": "20:40"
+        "plusMinus": 1,
+        "toi": "20:58"
       },
       {
         "id": 8479998,
         "name": "Mikey Anderson",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8479998.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 0,
         "assists": 1,
         "points": 1,
         "plusMinus": 0,
-        "toi": "17:43"
+        "toi": "17:39"
       },
       {
         "id": 8476441,
         "name": "Joel Edmundson",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8476441.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": 2,
-        "toi": "16:06"
+        "plusMinus": 1,
+        "toi": "16:25"
       }
     ],
     "goalies": [
@@ -2843,12 +2843,12 @@
         "id": 8476341,
         "name": "Anton Forsberg",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/LAK/8476341.png",
-        "gp": 3,
+        "gp": 4,
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "otl": 1,
-        "sv": 0.883,
-        "gaa": 2.631304,
+        "sv": 0.894,
+        "gaa": 2.475928,
         "so": 0
       }
     ]
