@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T03:51:16.926696-04:00",
+  "generatedAt": "2026-10-26T11:14:35.704141-04:00",
   "team": "NYR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2803,18 +2803,6 @@
         "otl": 0,
         "sv": 0.927,
         "gaa": 1.793164,
-        "so": 0
-      },
-      {
-        "id": 8477484,
-        "name": "Spencer Martin",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8477484.png",
-        "gp": 1,
-        "wins": 0,
-        "losses": 0,
-        "otl": 0,
-        "sv": 0.833,
-        "gaa": 5.091938,
         "so": 0
       },
       {
