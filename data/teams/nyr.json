@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:14:35.704141-04:00",
+  "generatedAt": "2026-10-26T16:35:18.682127-04:00",
   "team": "NYR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2571,7 +2571,7 @@
         "assists": 6,
         "points": 15,
         "plusMinus": 3,
-        "toi": "19:04"
+        "toi": "19:06"
       },
       {
         "id": 8476459,
@@ -2583,7 +2583,7 @@
         "assists": 8,
         "points": 11,
         "plusMinus": 0,
-        "toi": "20:49"
+        "toi": "20:51"
       },
       {
         "id": 8476468,
@@ -2595,7 +2595,7 @@
         "assists": 6,
         "points": 9,
         "plusMinus": -1,
-        "toi": "18:23"
+        "toi": "18:25"
       },
       {
         "id": 8481789,
@@ -2607,7 +2607,7 @@
         "assists": 5,
         "points": 8,
         "plusMinus": 0,
-        "toi": "15:16"
+        "toi": "15:17"
       },
       {
         "id": 8482157,
@@ -2619,7 +2619,7 @@
         "assists": 4,
         "points": 8,
         "plusMinus": -4,
-        "toi": "16:04"
+        "toi": "16:00"
       },
       {
         "id": 8484210,
@@ -2631,7 +2631,7 @@
         "assists": 3,
         "points": 7,
         "plusMinus": 1,
-        "toi": "16:28"
+        "toi": "16:31"
       },
       {
         "id": 8477416,
@@ -2655,7 +2655,7 @@
         "assists": 4,
         "points": 7,
         "plusMinus": -11,
-        "toi": "17:31"
+        "toi": "17:28"
       },
       {
         "id": 8480009,
@@ -2679,7 +2679,7 @@
         "assists": 4,
         "points": 4,
         "plusMinus": 0,
-        "toi": "15:06"
+        "toi": "15:02"
       },
       {
         "id": 8479390,
@@ -2717,7 +2717,7 @@
         "assists": 16,
         "points": 16,
         "plusMinus": 4,
-        "toi": "21:54"
+        "toi": "21:56"
       },
       {
         "id": 8478882,
@@ -2729,7 +2729,7 @@
         "assists": 5,
         "points": 6,
         "plusMinus": 4,
-        "toi": "21:17"
+        "toi": "21:20"
       },
       {
         "id": 8480434,
@@ -2741,7 +2741,7 @@
         "assists": 2,
         "points": 4,
         "plusMinus": 0,
-        "toi": "20:09"
+        "toi": "20:14"
       },
       {
         "id": 8482073,
@@ -2753,7 +2753,7 @@
         "assists": 2,
         "points": 2,
         "plusMinus": -1,
-        "toi": "17:23"
+        "toi": "17:15"
       },
       {
         "id": 8477969,
@@ -2765,7 +2765,7 @@
         "assists": 2,
         "points": 2,
         "plusMinus": 3,
-        "toi": "20:36"
+        "toi": "20:40"
       },
       {
         "id": 8485957,
@@ -2777,7 +2777,7 @@
         "assists": 0,
         "points": 0,
         "plusMinus": -3,
-        "toi": "14:44"
+        "toi": "14:37"
       }
     ],
     "goalies": [
