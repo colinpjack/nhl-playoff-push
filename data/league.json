@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:35:18.682127-04:00",
+  "generatedAt": "2026-10-26T20:05:47.317974-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 26",
@@ -1150,7 +1150,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs LAK",
-      "nextTitle": "Regular season \u00b7 Mon, Oct 26 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1885,7 +1885,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "@ NYR",
-      "nextTitle": "Regular season \u00b7 Mon, Oct 26 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2638,7 +2638,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs LAK",
-      "nextTitle": "Regular season \u00b7 Mon, Oct 26 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3966,7 +3966,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "@ NYR",
-      "nextTitle": "Regular season \u00b7 Mon, Oct 26 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4229,8 +4229,8 @@
     {
       "id": 2026020185,
       "date": "2026-10-26",
-      "status": "Mon, Oct 26 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Madison Square Garden",
@@ -4241,7 +4241,7 @@
         "nickname": "Rangers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
         "record": "7-5-1",
-        "score": ""
+        "score": 1
       },
       "away": {
         "abbr": "LAK",
@@ -4249,7 +4249,7 @@
         "nickname": "Kings",
         "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg",
         "record": "2-5-2",
-        "score": ""
+        "score": 3
       }
     },
     {
