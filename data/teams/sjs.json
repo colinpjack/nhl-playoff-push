@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T01:48:47.323834-04:00",
+  "generatedAt": "2026-10-28T14:52:40.900385-04:00",
   "team": "SJS",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2818,18 +2818,6 @@
         "points": 2,
         "plusMinus": -2,
         "toi": "21:16"
-      },
-      {
-        "id": 8484152,
-        "name": "Luca Cagnoni",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8484152.png",
-        "gp": 9,
-        "goals": 1,
-        "assists": 1,
-        "points": 2,
-        "plusMinus": -3,
-        "toi": "17:29"
       },
       {
         "id": 8480891,
