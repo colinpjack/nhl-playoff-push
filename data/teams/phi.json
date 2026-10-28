@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T14:52:40.900385-04:00",
+  "generatedAt": "2026-10-28T19:15:13.393135-04:00",
   "team": "PHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020199,
       "date": "2026-10-28",
       "start": "2026-10-28T23:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Capital One Arena",
       "isHome": false,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020199,
       "date": "2026-10-28",
       "start": "2026-10-28T23:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Capital One Arena",
       "isHome": false,
       "opponent": {
