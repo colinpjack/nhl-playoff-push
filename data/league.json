@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:02:55.817128-04:00",
+  "generatedAt": "2026-10-27T20:05:11.824692-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 26",
@@ -1787,7 +1787,7 @@
       "formDiff": -4,
       "formDirection": "down",
       "nextLabel": "@ PHI",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 27 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1885,7 +1885,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "vs CBJ",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 27 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -3148,7 +3148,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "vs CBJ",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 27 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3199,7 +3199,7 @@
       "formDiff": -4,
       "formDirection": "down",
       "nextLabel": "@ PHI",
-      "nextTitle": "Regular season \u00b7 Tue, Oct 27 \u00b7 7:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4313,8 +4313,8 @@
     {
       "id": 2026020188,
       "date": "2026-10-27",
-      "status": "Tue, Oct 27 \u00b7 7:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Xfinity Mobile Arena",
@@ -4325,7 +4325,7 @@
         "nickname": "Flyers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
         "record": "3-7-3",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "CBJ",
@@ -4333,7 +4333,7 @@
         "nickname": "Blue Jackets",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg",
         "record": "4-5-0",
-        "score": ""
+        "score": 3
       }
     },
     {
