@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:12:44.356415-04:00",
+  "generatedAt": "2026-10-29T17:12:14.806614-04:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2656,18 +2656,6 @@
         "toi": "15:33"
       },
       {
-        "id": 8477946,
-        "name": "Dylan Larkin",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8477946.png",
-        "gp": 10,
-        "goals": 2,
-        "assists": 4,
-        "points": 6,
-        "plusMinus": 3,
-        "toi": "21:41"
-      },
-      {
         "id": 8477429,
         "name": "Andrew Copp",
         "position": "C",
@@ -2738,6 +2726,18 @@
         "points": 0,
         "plusMinus": -3,
         "toi": "10:34"
+      },
+      {
+        "id": 8483464,
+        "name": "Marco Kasper",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8483464.png",
+        "gp": 1,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 0,
+        "toi": "10:50"
       }
     ],
     "defense": [
@@ -2862,18 +2862,6 @@
         "sv": 0.94,
         "gaa": 1.402634,
         "so": 1
-      },
-      {
-        "id": 8485545,
-        "name": "Michal Postava",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8485545.png",
-        "gp": 2,
-        "wins": 1,
-        "losses": 0,
-        "otl": 0,
-        "sv": 0.886,
-        "gaa": 2.890986,
-        "so": 0
       }
     ]
   },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:12:44.356415-04:00",
+  "generatedAt": "2026-10-29T17:12:14.806614-04:00",
   "team": "CBJ",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2800,18 +2800,6 @@
         "points": 2,
         "plusMinus": -3,
         "toi": "13:59"
-      },
-      {
-        "id": 8477369,
-        "name": "Carson Soucy",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8477369.png",
-        "gp": 7,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": -5,
-        "toi": "14:45"
       },
       {
         "id": 8475790,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:12:44.356415-04:00",
+  "generatedAt": "2026-10-29T17:12:14.806614-04:00",
   "team": "OTT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2821,18 +2821,6 @@
         "points": 2,
         "plusMinus": 5,
         "toi": "20:52"
-      },
-      {
-        "id": 8480075,
-        "name": "Cameron Crotty",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8480075.png",
-        "gp": 3,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 1,
-        "toi": "11:09"
       }
     ],
     "goalies": [
