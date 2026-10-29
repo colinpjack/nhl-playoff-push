@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:56:41.024943-04:00",
+  "generatedAt": "2026-10-29T12:12:44.356415-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 26",
@@ -5076,7 +5076,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Scotiabank Saddledome",
-      "broadcast": "SNW, SN360, Prime Video",
+      "broadcast": "SN, SN360, Prime Video",
       "home": {
         "abbr": "CGY",
         "name": "Calgary Flames",
@@ -5258,7 +5258,7 @@
       "completed": false,
       "exhibition": false,
       "venue": "Centre Bell",
-      "broadcast": "SNE, TVAS, SN-PIT",
+      "broadcast": "SNE, SN1, TVAS",
       "home": {
         "abbr": "MTL",
         "name": "Montr\u00e9al Canadiens",
