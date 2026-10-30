@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:13:16.666115-04:00",
+  "generatedAt": "2026-10-30T15:29:34.531885-04:00",
   "team": "CGY",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2850,6 +2850,18 @@
         "sv": 0.839,
         "gaa": 4.811881,
         "so": 0
+      },
+      {
+        "id": 8482949,
+        "name": "Arsenii Sergeev",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CGY/8482949.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       }
     ]
   },

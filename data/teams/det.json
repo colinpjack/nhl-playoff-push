@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:13:16.666115-04:00",
+  "generatedAt": "2026-10-30T15:29:34.531885-04:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2800,18 +2800,6 @@
         "points": 1,
         "plusMinus": 1,
         "toi": "15:41"
-      },
-      {
-        "id": 8484223,
-        "name": "Axel Sandin-Pellikka",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8484223.png",
-        "gp": 7,
-        "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": -1,
-        "toi": "12:42"
       },
       {
         "id": 8475279,
