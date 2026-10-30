@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T15:29:34.531885-04:00",
+  "generatedAt": "2026-10-30T19:17:04.517524-04:00",
   "team": "VGK",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020214,
       "date": "2026-10-30",
       "start": "2026-10-30T22:00:00Z",
-      "state": "FUT",
+      "state": "LIVE",
       "venue": "T-Mobile Arena",
       "isHome": true,
       "opponent": {
@@ -1671,10 +1671,10 @@
       "awayWinPct": 40.9,
       "homeAbbr": "VGK",
       "awayAbbr": "NJD",
-      "homeScore": null,
-      "awayScore": null,
-      "usScore": null,
-      "themScore": null,
+      "homeScore": 2,
+      "awayScore": 3,
+      "usScore": 2,
+      "themScore": 3,
       "ot": false,
       "backToBack": false,
       "divisionGame": false,
@@ -2415,7 +2415,7 @@
       "id": 2026020214,
       "date": "2026-10-30",
       "start": "2026-10-30T22:00:00Z",
-      "state": "FUT",
+      "state": "LIVE",
       "venue": "T-Mobile Arena",
       "isHome": true,
       "opponent": {
@@ -2431,10 +2431,10 @@
       "awayWinPct": 40.9,
       "homeAbbr": "VGK",
       "awayAbbr": "NJD",
-      "homeScore": null,
-      "awayScore": null,
-      "usScore": null,
-      "themScore": null,
+      "homeScore": 2,
+      "awayScore": 3,
+      "usScore": 2,
+      "themScore": 3,
       "ot": false,
       "backToBack": false,
       "divisionGame": false,
@@ -2828,18 +2828,6 @@
         "sv": 0.895,
         "gaa": 2.633143,
         "so": 0
-      },
-      {
-        "id": 8483523,
-        "name": "Cameron Whitehead",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VGK/8483523.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       }
     ]
   },
