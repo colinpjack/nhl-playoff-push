@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:22:09.266621-04:00",
+  "generatedAt": "2026-10-31T15:34:06.436417-04:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Oct 26",
@@ -513,7 +513,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "@ NYI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "136",
       "magicKind": "",
       "magicTitle": "136 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -660,7 +660,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "@ NSH",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "141",
       "magicKind": "",
       "magicTitle": "141 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 142."
@@ -807,7 +807,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "vs CHI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "139",
       "magicKind": "",
       "magicTitle": "139 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 140."
@@ -1003,7 +1003,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs EDM",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "142",
       "magicKind": "",
       "magicTitle": "142 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 143."
@@ -1199,7 +1199,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs STL",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1444,7 +1444,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "vs TBL",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1542,7 +1542,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "@ DET",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1934,7 +1934,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "@ BOS",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2485,7 +2485,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "vs CHI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "139",
       "magicKind": "",
       "magicTitle": "139 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 140.",
@@ -2740,7 +2740,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "@ NSH",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "141",
       "magicKind": "",
       "magicTitle": "141 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 142.",
@@ -2893,7 +2893,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "vs EDM",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "142",
       "magicKind": "",
       "magicTitle": "142 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 143.",
@@ -3046,7 +3046,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "vs STL",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3303,7 +3303,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "@ NYI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "136",
       "magicKind": "",
       "magicTitle": "136 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point.",
@@ -3660,7 +3660,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "@ DET",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3711,7 +3711,7 @@
       "formDiff": 2,
       "formDirection": "up",
       "nextLabel": "vs TBL",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -3966,7 +3966,7 @@
       "formDiff": -3,
       "formDirection": "down",
       "nextLabel": "@ BOS",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4072,7 +4072,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "vs CHI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "139",
       "magicKind": "",
       "magicTitle": "139 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 140."
@@ -4219,7 +4219,7 @@
       "formDiff": -2,
       "formDirection": "down",
       "nextLabel": "@ NYI",
-      "nextTitle": "Regular season \u00b7 Sat, Oct 31 \u00b7 2:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "136",
       "magicKind": "",
       "magicTitle": "136 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point."
@@ -5125,8 +5125,8 @@
     {
       "id": 2026020217,
       "date": "2026-10-31",
-      "status": "Sat, Oct 31 \u00b7 1:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "TD Garden",
@@ -5137,7 +5137,7 @@
         "nickname": "Bruins",
         "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
         "record": "9-4-1",
-        "score": ""
+        "score": 3
       },
       "away": {
         "abbr": "CHI",
@@ -5145,14 +5145,14 @@
         "nickname": "Blackhawks",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
         "record": "4-9-0",
-        "score": ""
+        "score": 4
       }
     },
     {
       "id": 2026020218,
       "date": "2026-10-31",
-      "status": "Sat, Oct 31 \u00b7 1:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Little Caesars Arena",
@@ -5163,7 +5163,7 @@
         "nickname": "Red Wings",
         "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg",
         "record": "6-4-3",
-        "score": ""
+        "score": 4
       },
       "away": {
         "abbr": "STL",
@@ -5171,14 +5171,14 @@
         "nickname": "Blues",
         "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
         "record": "6-6-1",
-        "score": ""
+        "score": 5
       }
     },
     {
       "id": 2026020219,
       "date": "2026-10-31",
-      "status": "Sat, Oct 31 \u00b7 2:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Bridgestone Arena",
@@ -5189,7 +5189,7 @@
         "nickname": "Predators",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
         "record": "4-4-5",
-        "score": ""
+        "score": 2
       },
       "away": {
         "abbr": "TBL",
@@ -5197,14 +5197,14 @@
         "nickname": "Lightning",
         "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
         "record": "8-3-1",
-        "score": ""
+        "score": 3
       }
     },
     {
       "id": 2026020220,
       "date": "2026-10-31",
-      "status": "Sat, Oct 31 \u00b7 2:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "UBS Arena",
@@ -5215,7 +5215,7 @@
         "nickname": "Islanders",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg",
         "record": "7-4-2",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "EDM",
@@ -5223,7 +5223,7 @@
         "nickname": "Oilers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
         "record": "9-2-2",
-        "score": ""
+        "score": 2
       }
     },
     {

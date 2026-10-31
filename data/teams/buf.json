@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:22:09.266621-04:00",
+  "generatedAt": "2026-10-31T15:34:06.436417-04:00",
   "team": "BUF",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020221,
       "date": "2026-10-31",
       "start": "2026-10-31T20:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Crypto.com Arena",
       "isHome": false,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020221,
       "date": "2026-10-31",
       "start": "2026-10-31T20:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Crypto.com Arena",
       "isHome": false,
       "opponent": {
@@ -2551,7 +2551,7 @@
       "id": 2026020222,
       "date": "2026-10-31",
       "start": "2026-10-31T20:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "SAP Center at San Jose",
       "isHome": false,
       "opponent": {

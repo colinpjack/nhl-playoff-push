@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:22:09.266621-04:00",
+  "generatedAt": "2026-10-31T15:34:06.436417-04:00",
   "team": "PHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2826,16 +2826,16 @@
         "toi": "21:17"
       },
       {
-        "id": 8483760,
-        "name": "Hunter McDonald",
+        "id": 8481122,
+        "name": "Simon Benoit",
         "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8483760.png",
-        "gp": 5,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PHI/8481122.png",
+        "gp": 10,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -2,
-        "toi": "12:37"
+        "plusMinus": -5,
+        "toi": "14:21"
       }
     ],
     "goalies": [
