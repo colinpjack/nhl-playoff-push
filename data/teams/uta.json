@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T04:55:28.135527-04:00",
+  "generatedAt": "2026-10-31T11:22:09.266621-04:00",
   "team": "UTA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2682,18 +2682,6 @@
         "toi": "14:40"
       },
       {
-        "id": 8484388,
-        "name": "Daniil But",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8484388.png",
-        "gp": 13,
-        "goals": 2,
-        "assists": 2,
-        "points": 4,
-        "plusMinus": 3,
-        "toi": "10:30"
-      },
-      {
         "id": 8480855,
         "name": "Jack McBain",
         "position": "C",
@@ -2704,6 +2692,18 @@
         "points": 3,
         "plusMinus": 2,
         "toi": "12:18"
+      },
+      {
+        "id": 8479619,
+        "name": "Michael Carcone",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8479619.png",
+        "gp": 5,
+        "goals": 1,
+        "assists": 1,
+        "points": 2,
+        "plusMinus": 1,
+        "toi": "12:29"
       }
     ],
     "defense": [
