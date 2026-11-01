@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:23:55.445731-05:00",
+  "generatedAt": "2026-11-01T11:26:56.457758-05:00",
   "team": "BUF",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2788,18 +2788,6 @@
         "points": 6,
         "plusMinus": 0,
         "toi": "19:47"
-      },
-      {
-        "id": 8478502,
-        "name": "Dennis Gilbert",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/BUF/8478502.png",
-        "gp": 5,
-        "goals": 1,
-        "assists": 1,
-        "points": 2,
-        "plusMinus": 2,
-        "toi": "9:55"
       },
       {
         "id": 8484305,

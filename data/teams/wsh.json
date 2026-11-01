@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:23:55.445731-05:00",
+  "generatedAt": "2026-11-01T11:26:56.457758-05:00",
   "team": "WSH",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2828,6 +2828,18 @@
         "sv": 0.888,
         "gaa": 2.983838,
         "so": 0
+      },
+      {
+        "id": 8482465,
+        "name": "R\u00e9mi Poirier",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8482465.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       }
     ]
   },
