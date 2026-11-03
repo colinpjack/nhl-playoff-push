@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:42:42.528620-05:00",
+  "generatedAt": "2026-11-02T19:03:11.954814-05:00",
   "team": "NYR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2716,16 +2716,16 @@
         "toi": "14:44"
       },
       {
-        "id": 8479390,
-        "name": "Taylor Raddysh",
+        "id": 8482877,
+        "name": "Jaroslav Chmelar",
         "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8479390.png",
-        "gp": 6,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8482877.png",
+        "gp": 7,
         "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": 1,
-        "toi": "7:34"
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -2,
+        "toi": "8:15"
       },
       {
         "id": 8480813,
@@ -2835,7 +2835,7 @@
         "wins": 4,
         "losses": 6,
         "otl": 1,
-        "sv": 0.897,
+        "sv": 0.896,
         "gaa": 2.730694,
         "so": 1
       },

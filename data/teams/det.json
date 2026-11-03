@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:42:42.528620-05:00",
+  "generatedAt": "2026-11-02T19:03:11.954814-05:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020233,
       "date": "2026-11-02",
       "start": "2026-11-03T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Amerant Bank Arena",
       "isHome": false,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020233,
       "date": "2026-11-02",
       "start": "2026-11-03T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Amerant Bank Arena",
       "isHome": false,
       "opponent": {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:42:42.528620-05:00",
+  "generatedAt": "2026-11-02T19:03:11.954814-05:00",
   "team": "ANA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2820,18 +2820,6 @@
         "toi": "16:46"
       },
       {
-        "id": 8475324,
-        "name": "Nick Jensen",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8475324.png",
-        "gp": 3,
-        "goals": 1,
-        "assists": 1,
-        "points": 2,
-        "plusMinus": 0,
-        "toi": "15:20"
-      },
-      {
         "id": 8483490,
         "name": "Pavel Mintyukov",
         "position": "D",
@@ -2903,6 +2891,18 @@
         "otl": 0,
         "sv": 0.857,
         "gaa": 4.12038,
+        "so": 0
+      },
+      {
+        "id": 8476316,
+        "name": "Laurent Brossoit",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/ANA/8476316.png",
+        "gp": 1,
+        "wins": 1,
+        "losses": 0,
+        "otl": 0,
+        "sv": 0.87,
+        "gaa": 3.0,
         "so": 0
       }
     ]
