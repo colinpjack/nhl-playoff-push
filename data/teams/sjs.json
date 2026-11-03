@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T01:54:03.965594-05:00",
+  "generatedAt": "2026-11-03T16:05:13.880812-05:00",
   "team": "SJS",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2674,18 +2674,6 @@
         "toi": "16:17"
       },
       {
-        "id": 8480748,
-        "name": "Kiefer Sherwood",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8480748.png",
-        "gp": 16,
-        "goals": 2,
-        "assists": 7,
-        "points": 9,
-        "plusMinus": -5,
-        "toi": "15:37"
-      },
-      {
         "id": 8475726,
         "name": "Tyler Toffoli",
         "position": "C",
@@ -2698,14 +2686,26 @@
         "toi": "13:14"
       },
       {
+        "id": 8480748,
+        "name": "Kiefer Sherwood",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8480748.png",
+        "gp": 16,
+        "goals": 2,
+        "assists": 6,
+        "points": 8,
+        "plusMinus": -5,
+        "toi": "15:37"
+      },
+      {
         "id": 8485402,
         "name": "Michael Misa",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SJS/8485402.png",
         "gp": 16,
         "goals": 3,
-        "assists": 4,
-        "points": 7,
+        "assists": 5,
+        "points": 8,
         "plusMinus": -5,
         "toi": "13:53"
       },
