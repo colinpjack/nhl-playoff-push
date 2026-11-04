@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:04:33.335046-05:00",
+  "generatedAt": "2026-11-04T17:14:34.879129-05:00",
   "team": "WSH",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2824,18 +2824,6 @@
         "points": 1,
         "plusMinus": 0,
         "toi": "16:50"
-      },
-      {
-        "id": 8475795,
-        "name": "Dylan McIlrath",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8475795.png",
-        "gp": 4,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -2,
-        "toi": "6:35"
       }
     ],
     "goalies": [
