@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:52:22.824008-05:00",
+  "generatedAt": "2026-11-05T13:04:53.941188-05:00",
   "team": "WPG",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2728,16 +2728,16 @@
         "toi": "12:06"
       },
       {
-        "id": 8475799,
-        "name": "Nino Niederreiter",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8475799.png",
-        "gp": 10,
+        "id": 8484242,
+        "name": "Brayden Yager",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8484242.png",
+        "gp": 1,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -3,
-        "toi": "11:28"
+        "plusMinus": 0,
+        "toi": "14:38"
       }
     ],
     "defense": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:52:22.824008-05:00",
+  "generatedAt": "2026-11-05T13:04:53.941188-05:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2850,6 +2850,18 @@
         "sv": 0.927,
         "gaa": 1.737079,
         "so": 1
+      },
+      {
+        "id": 8485545,
+        "name": "Michal Postava",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8485545.png",
+        "gp": 2,
+        "wins": 1,
+        "losses": 0,
+        "otl": 0,
+        "sv": 0.886,
+        "gaa": 2.890986,
+        "so": 0
       }
     ]
   },
