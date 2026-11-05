@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:04:53.941188-05:00",
+  "generatedAt": "2026-11-05T18:40:13.186369-05:00",
   "team": "VGK",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020252,
       "date": "2026-11-05",
       "start": "2026-11-06T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Little Caesars Arena",
       "isHome": false,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020252,
       "date": "2026-11-05",
       "start": "2026-11-06T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Little Caesars Arena",
       "isHome": false,
       "opponent": {

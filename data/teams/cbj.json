@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:04:53.941188-05:00",
+  "generatedAt": "2026-11-05T18:40:13.186369-05:00",
   "team": "CBJ",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020258,
       "date": "2026-11-05",
       "start": "2026-11-06T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Nationwide Arena",
       "isHome": true,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020258,
       "date": "2026-11-05",
       "start": "2026-11-06T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Nationwide Arena",
       "isHome": true,
       "opponent": {
@@ -2551,7 +2551,7 @@
       "id": 2026020256,
       "date": "2026-11-05",
       "start": "2026-11-06T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Madison Square Garden",
       "isHome": true,
       "opponent": {
@@ -2716,18 +2716,6 @@
         "toi": "13:27"
       },
       {
-        "id": 8478046,
-        "name": "Danton Heinen",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8478046.png",
-        "gp": 10,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": -2,
-        "toi": "10:10"
-      },
-      {
         "id": 8483432,
         "name": "Luca Del Bel Belluz",
         "position": "C",
@@ -2738,6 +2726,18 @@
         "points": 0,
         "plusMinus": -2,
         "toi": "7:55"
+      },
+      {
+        "id": 8479066,
+        "name": "Ryan Lomberg",
+        "position": "L",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8479066.png",
+        "gp": 13,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -1,
+        "toi": "8:42"
       }
     ],
     "defense": [
@@ -2788,18 +2788,6 @@
         "points": 4,
         "plusMinus": -2,
         "toi": "13:55"
-      },
-      {
-        "id": 8482126,
-        "name": "Emil Andrae",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CBJ/8482126.png",
-        "gp": 5,
-        "goals": 0,
-        "assists": 2,
-        "points": 2,
-        "plusMinus": 3,
-        "toi": "10:33"
       },
       {
         "id": 8475790,
