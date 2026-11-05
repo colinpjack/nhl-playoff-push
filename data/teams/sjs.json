@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:14:34.879129-05:00",
+  "generatedAt": "2026-11-04T21:33:46.382592-05:00",
   "team": "SJS",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020249,
       "date": "2026-11-04",
       "start": "2026-11-05T03:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Crypto.com Arena",
       "isHome": false,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020249,
       "date": "2026-11-04",
       "start": "2026-11-05T03:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Crypto.com Arena",
       "isHome": false,
       "opponent": {
@@ -2551,7 +2551,7 @@
       "id": 2026020250,
       "date": "2026-11-04",
       "start": "2026-11-05T03:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Climate Pledge Arena",
       "isHome": true,
       "opponent": {
