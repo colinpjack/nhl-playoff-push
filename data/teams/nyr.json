@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:31:18.079844-05:00",
+  "generatedAt": "2026-11-06T18:32:21.761455-05:00",
   "team": "NYR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2815,18 +2815,6 @@
         "otl": 0,
         "sv": 0.927,
         "gaa": 1.793164,
-        "so": 0
-      },
-      {
-        "id": 8473503,
-        "name": "James Reimer",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYR/8473503.png",
-        "gp": 1,
-        "wins": 0,
-        "losses": 0,
-        "otl": 0,
-        "sv": 0.625,
-        "gaa": 9.0,
         "so": 0
       },
       {

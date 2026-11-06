@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:31:18.079844-05:00",
+  "generatedAt": "2026-11-06T18:32:21.761455-05:00",
   "team": "BUF",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020262,
       "date": "2026-11-06",
       "start": "2026-11-07T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "KeyBank Center",
       "isHome": true,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020262,
       "date": "2026-11-06",
       "start": "2026-11-07T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "KeyBank Center",
       "isHome": true,
       "opponent": {
