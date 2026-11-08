@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T08:31:32.843508-05:00",
+  "generatedAt": "2026-11-08T13:31:25.522600-05:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Nov 2",
@@ -170,7 +170,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ BOS",
-      "nextTitle": "Regular season \u00b7 Sun, Nov 8 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -562,7 +562,7 @@
       "formDiff": 6,
       "formDirection": "up",
       "nextLabel": "vs FLA",
-      "nextTitle": "Regular season \u00b7 Sun, Nov 8 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "130",
       "magicKind": "",
       "magicTitle": "130 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 131."
@@ -1150,7 +1150,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ BOS",
-      "nextTitle": "Regular season \u00b7 Sun, Nov 8 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2085,7 +2085,7 @@
         "formDiff": 6,
         "formDirection": "up",
         "nextLabel": "vs FLA",
-        "nextTitle": "Regular season \u00b7 Sun, Nov 8 \u00b7 1:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "130",
         "magicKind": "",
         "magicTitle": "130 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 131."
@@ -2485,7 +2485,7 @@
       "formDiff": 6,
       "formDirection": "up",
       "nextLabel": "vs FLA",
-      "nextTitle": "Regular season \u00b7 Sun, Nov 8 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "130",
       "magicKind": "",
       "magicTitle": "130 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 131.",
@@ -2791,7 +2791,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ BOS",
-      "nextTitle": "Regular season \u00b7 Sun, Nov 8 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4072,7 +4072,7 @@
       "formDiff": 6,
       "formDirection": "up",
       "nextLabel": "vs FLA",
-      "nextTitle": "Regular season \u00b7 Sun, Nov 8 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "130",
       "magicKind": "",
       "magicTitle": "130 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 131."
@@ -5489,8 +5489,8 @@
     {
       "id": 2026020277,
       "date": "2026-11-08",
-      "status": "Sun, Nov 8 \u00b7 1:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "TD Garden",
@@ -5501,7 +5501,7 @@
         "nickname": "Bruins",
         "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
         "record": "12-4-1",
-        "score": ""
+        "score": 2
       },
       "away": {
         "abbr": "FLA",
@@ -5509,7 +5509,7 @@
         "nickname": "Panthers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
         "record": "9-6-2",
-        "score": ""
+        "score": 0
       }
     },
     {
