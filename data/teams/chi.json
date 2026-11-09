@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:52:24.645352-05:00",
+  "generatedAt": "2026-11-09T15:48:15.156720-05:00",
   "team": "CHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2852,16 +2852,16 @@
         "so": 0
       },
       {
-        "id": 8482821,
-        "name": "Arvid Soderblom",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8482821.png",
-        "gp": 5,
-        "wins": 0,
-        "losses": 3,
-        "otl": 1,
-        "sv": 0.842,
-        "gaa": 4.670415,
-        "so": 0
+        "id": 8482123,
+        "name": "Drew Commesso",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8482123.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       }
     ]
   },

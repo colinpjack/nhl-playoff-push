@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:52:24.645352-05:00",
+  "generatedAt": "2026-11-09T15:48:15.156720-05:00",
   "team": "WSH",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2844,6 +2844,18 @@
         "toi": "19:25"
       },
       {
+        "id": 8475718,
+        "name": "Justin Holl",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8475718.png",
+        "gp": 3,
+        "goals": 2,
+        "assists": 0,
+        "points": 2,
+        "plusMinus": 1,
+        "toi": "12:59"
+      },
+      {
         "id": 8478911,
         "name": "Matt Roy",
         "position": "D",
@@ -2892,18 +2904,6 @@
         "sv": 0.881,
         "gaa": 3.075609,
         "so": 0
-      },
-      {
-        "id": 8482465,
-        "name": "R\u00e9mi Poirier",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WSH/8482465.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       }
     ]
   },

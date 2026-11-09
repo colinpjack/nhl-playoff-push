@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:52:24.645352-05:00",
+  "generatedAt": "2026-11-09T15:48:15.156720-05:00",
   "team": "DAL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2816,6 +2816,18 @@
         "sv": 0.909,
         "gaa": 2.415459,
         "so": 0
+      },
+      {
+        "id": 8482465,
+        "name": "R\u00e9mi Poirier",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DAL/8482465.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       }
     ]
   },

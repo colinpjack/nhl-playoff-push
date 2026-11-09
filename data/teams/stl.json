@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:52:24.645352-05:00",
+  "generatedAt": "2026-11-09T15:48:15.156720-05:00",
   "team": "STL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2788,30 +2788,6 @@
         "points": 4,
         "plusMinus": -9,
         "toi": "21:19"
-      },
-      {
-        "id": 8484790,
-        "name": "Adam Jiricek",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484790.png",
-        "gp": 17,
-        "goals": 1,
-        "assists": 2,
-        "points": 3,
-        "plusMinus": 2,
-        "toi": "15:51"
-      },
-      {
-        "id": 8484188,
-        "name": "Theo Lindstein",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484188.png",
-        "gp": 6,
-        "goals": 0,
-        "assists": 2,
-        "points": 2,
-        "plusMinus": -1,
-        "toi": "13:33"
       },
       {
         "id": 8478443,
