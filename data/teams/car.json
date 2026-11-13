@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:59:08.809489-05:00",
+  "generatedAt": "2026-11-12T20:08:25.199374-05:00",
   "team": "CAR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2255,7 +2255,7 @@
       "id": 2026020309,
       "date": "2026-11-12",
       "start": "2026-11-12T17:00:00Z",
-      "state": "FINAL",
+      "state": "OFF",
       "venue": "Veikkaus Arena",
       "isHome": false,
       "opponent": {
@@ -2566,144 +2566,144 @@
         "name": "Sebastian Aho",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8478427.png",
-        "gp": 19,
-        "goals": 10,
+        "gp": 20,
+        "goals": 12,
         "assists": 16,
-        "points": 26,
-        "plusMinus": 14,
-        "toi": "19:49"
+        "points": 28,
+        "plusMinus": 15,
+        "toi": "19:43"
       },
       {
         "id": 8482809,
         "name": "Jackson Blake",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8482809.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 5,
-        "assists": 14,
-        "points": 19,
-        "plusMinus": 14,
+        "assists": 15,
+        "points": 20,
+        "plusMinus": 16,
         "toi": "17:54"
-      },
-      {
-        "id": 8480830,
-        "name": "Andrei Svechnikov",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8480830.png",
-        "gp": 19,
-        "goals": 9,
-        "assists": 9,
-        "points": 18,
-        "plusMinus": 12,
-        "toi": "17:29"
       },
       {
         "id": 8482702,
         "name": "Logan Stankoven",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8482702.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 11,
-        "assists": 7,
-        "points": 18,
-        "plusMinus": 15,
-        "toi": "16:52"
+        "assists": 9,
+        "points": 20,
+        "plusMinus": 17,
+        "toi": "16:49"
+      },
+      {
+        "id": 8480830,
+        "name": "Andrei Svechnikov",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8480830.png",
+        "gp": 20,
+        "goals": 9,
+        "assists": 10,
+        "points": 19,
+        "plusMinus": 13,
+        "toi": "17:31"
       },
       {
         "id": 8477940,
         "name": "Nikolaj Ehlers",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8477940.png",
-        "gp": 19,
-        "goals": 4,
-        "assists": 11,
-        "points": 15,
-        "plusMinus": 6,
-        "toi": "16:11"
+        "gp": 20,
+        "goals": 5,
+        "assists": 12,
+        "points": 17,
+        "plusMinus": 8,
+        "toi": "16:16"
       },
       {
         "id": 8477478,
         "name": "William Carrier",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8477478.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 1,
         "assists": 11,
         "points": 12,
         "plusMinus": 4,
-        "toi": "12:50"
+        "toi": "12:52"
       },
       {
         "id": 8480829,
         "name": "Jesperi Kotkaniemi",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8480829.png",
-        "gp": 17,
+        "gp": 18,
         "goals": 5,
         "assists": 5,
         "points": 10,
         "plusMinus": 7,
-        "toi": "11:48"
+        "toi": "11:46"
       },
       {
         "id": 8476921,
         "name": "Jordan Martinook",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8476921.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 4,
         "assists": 6,
         "points": 10,
-        "plusMinus": 5,
-        "toi": "14:44"
+        "plusMinus": 6,
+        "toi": "14:36"
       },
       {
         "id": 8480762,
         "name": "Eric Robinson",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8480762.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 2,
         "assists": 7,
         "points": 9,
         "plusMinus": 9,
-        "toi": "12:23"
+        "toi": "12:20"
       },
       {
         "id": 8476873,
         "name": "Mark Jankowski",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8476873.png",
-        "gp": 15,
+        "gp": 16,
         "goals": 8,
         "assists": 1,
         "points": 9,
-        "plusMinus": -2,
-        "toi": "14:39"
+        "plusMinus": -3,
+        "toi": "14:42"
       },
       {
         "id": 8482093,
         "name": "Seth Jarvis",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8482093.png",
-        "gp": 8,
+        "gp": 9,
         "goals": 2,
         "assists": 6,
         "points": 8,
-        "plusMinus": 3,
-        "toi": "16:18"
+        "plusMinus": 2,
+        "toi": "16:05"
       },
       {
         "id": 8475791,
         "name": "Taylor Hall",
         "position": "L",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8475791.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 3,
         "assists": 3,
         "points": 6,
-        "plusMinus": 1,
-        "toi": "13:05"
+        "plusMinus": 0,
+        "toi": "13:14"
       }
     ],
     "defense": [
@@ -2712,72 +2712,72 @@
         "name": "Shayne Gostisbehere",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8476906.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 3,
         "assists": 11,
         "points": 14,
         "plusMinus": 14,
-        "toi": "17:49"
+        "toi": "17:47"
       },
       {
         "id": 8480336,
         "name": "Sean Walker",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8480336.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 3,
         "assists": 7,
         "points": 10,
-        "plusMinus": 9,
-        "toi": "21:00"
-      },
-      {
-        "id": 8478970,
-        "name": "Jalen Chatfield",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8478970.png",
-        "gp": 19,
-        "goals": 2,
-        "assists": 4,
-        "points": 6,
-        "plusMinus": 7,
-        "toi": "20:27"
+        "plusMinus": 11,
+        "toi": "21:02"
       },
       {
         "id": 8480817,
         "name": "K'Andre Miller",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8480817.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 1,
-        "assists": 5,
+        "assists": 7,
+        "points": 8,
+        "plusMinus": 10,
+        "toi": "22:10"
+      },
+      {
+        "id": 8478970,
+        "name": "Jalen Chatfield",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8478970.png",
+        "gp": 20,
+        "goals": 2,
+        "assists": 4,
         "points": 6,
-        "plusMinus": 8,
-        "toi": "22:08"
+        "plusMinus": 7,
+        "toi": "20:25"
       },
       {
         "id": 8476958,
         "name": "Jaccob Slavin",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8476958.png",
-        "gp": 19,
+        "gp": 20,
         "goals": 0,
         "assists": 4,
         "points": 4,
         "plusMinus": 7,
-        "toi": "21:27"
+        "toi": "21:26"
       },
       {
         "id": 8479976,
         "name": "Juuso V\u00e4lim\u00e4ki",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8479976.png",
-        "gp": 8,
-        "goals": 2,
+        "gp": 9,
+        "goals": 3,
         "assists": 1,
-        "points": 3,
+        "points": 4,
         "plusMinus": 7,
-        "toi": "14:22"
+        "toi": "14:19"
       },
       {
         "id": 8482100,
@@ -2821,12 +2821,12 @@
         "id": 8483548,
         "name": "Brandon Bussi",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8483548.png",
-        "gp": 7,
-        "wins": 3,
+        "gp": 8,
+        "wins": 4,
         "losses": 2,
         "otl": 2,
-        "sv": 0.869,
-        "gaa": 3.228951,
+        "sv": 0.872,
+        "gaa": 2.95607,
         "so": 0
       }
     ]

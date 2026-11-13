@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T14:59:08.809489-05:00",
+  "generatedAt": "2026-11-12T20:08:25.199374-05:00",
   "team": "SEA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2255,7 +2255,7 @@
       "id": 2026020309,
       "date": "2026-11-12",
       "start": "2026-11-12T17:00:00Z",
-      "state": "FINAL",
+      "state": "OFF",
       "venue": "Veikkaus Arena",
       "isHome": true,
       "opponent": {
@@ -2600,11 +2600,11 @@
         "name": "Berkly Catton",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8484800.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 5,
         "assists": 9,
         "points": 14,
-        "plusMinus": 5,
+        "plusMinus": 4,
         "toi": "15:07"
       },
       {
@@ -2612,7 +2612,7 @@
         "name": "Chandler Stephenson",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8476905.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 2,
         "assists": 11,
         "points": 13,
@@ -2624,60 +2624,60 @@
         "name": "Kaapo Kakko",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8481554.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 3,
         "assists": 10,
         "points": 13,
-        "plusMinus": 3,
-        "toi": "14:18"
-      },
-      {
-        "id": 8474586,
-        "name": "Jordan Eberle",
-        "position": "R",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8474586.png",
-        "gp": 16,
-        "goals": 5,
-        "assists": 6,
-        "points": 11,
-        "plusMinus": -5,
-        "toi": "16:44"
+        "plusMinus": 2,
+        "toi": "14:20"
       },
       {
         "id": 8482713,
         "name": "Mackie Samoskevich",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482713.png",
-        "gp": 15,
+        "gp": 16,
         "goals": 6,
-        "assists": 5,
-        "points": 11,
+        "assists": 6,
+        "points": 12,
         "plusMinus": -1,
-        "toi": "15:23"
+        "toi": "15:29"
       },
       {
         "id": 8477919,
         "name": "Frederick Gaudreau",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8477919.png",
-        "gp": 16,
-        "goals": 7,
+        "gp": 17,
+        "goals": 8,
         "assists": 3,
-        "points": 10,
+        "points": 11,
         "plusMinus": -4,
-        "toi": "15:36"
+        "toi": "15:38"
+      },
+      {
+        "id": 8474586,
+        "name": "Jordan Eberle",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8474586.png",
+        "gp": 17,
+        "goals": 5,
+        "assists": 6,
+        "points": 11,
+        "plusMinus": -6,
+        "toi": "16:39"
       },
       {
         "id": 8482665,
         "name": "Matty Beniers",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482665.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 4,
         "assists": 5,
         "points": 9,
-        "plusMinus": 6,
-        "toi": "17:55"
+        "plusMinus": 5,
+        "toi": "17:54"
       },
       {
         "id": 8477955,
@@ -2696,48 +2696,48 @@
         "name": "Ben Meyers",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8483570.png",
-        "gp": 14,
+        "gp": 15,
         "goals": 1,
         "assists": 5,
         "points": 6,
         "plusMinus": 3,
-        "toi": "12:32"
+        "toi": "12:34"
       },
       {
         "id": 8482751,
         "name": "Ryan Winterton",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482751.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 2,
         "assists": 4,
         "points": 6,
         "plusMinus": 4,
-        "toi": "12:49"
+        "toi": "12:52"
       },
       {
         "id": 8482259,
         "name": "Bobby McMann",
         "position": "C",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482259.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 3,
         "assists": 2,
         "points": 5,
-        "plusMinus": -3,
-        "toi": "17:04"
+        "plusMinus": -4,
+        "toi": "17:02"
       },
       {
         "id": 8484241,
         "name": "Matthew Wood",
         "position": "R",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8484241.png",
-        "gp": 2,
+        "gp": 3,
         "goals": 0,
         "assists": 1,
         "points": 1,
-        "plusMinus": 0,
-        "toi": "15:51"
+        "plusMinus": -1,
+        "toi": "15:03"
       }
     ],
     "defense": [
@@ -2746,60 +2746,60 @@
         "name": "Brandon Montour",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8477986.png",
-        "gp": 15,
+        "gp": 16,
         "goals": 3,
         "assists": 9,
         "points": 12,
-        "plusMinus": 5,
-        "toi": "24:13"
+        "plusMinus": 4,
+        "toi": "24:14"
       },
       {
         "id": 8478407,
         "name": "Vince Dunn",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8478407.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 3,
         "assists": 7,
         "points": 10,
         "plusMinus": -8,
-        "toi": "23:12"
+        "toi": "23:08"
       },
       {
         "id": 8482858,
         "name": "Ryker Evans",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482858.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 3,
         "assists": 4,
         "points": 7,
-        "plusMinus": 3,
-        "toi": "22:37"
+        "plusMinus": 2,
+        "toi": "22:45"
       },
       {
         "id": 8479372,
         "name": "Josh Mahura",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8479372.png",
-        "gp": 13,
+        "gp": 14,
         "goals": 1,
         "assists": 2,
         "points": 3,
-        "plusMinus": 0,
-        "toi": "13:43"
+        "plusMinus": -1,
+        "toi": "13:47"
       },
       {
         "id": 8476457,
         "name": "Adam Larsson",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8476457.png",
-        "gp": 16,
+        "gp": 17,
         "goals": 0,
         "assists": 2,
         "points": 2,
         "plusMinus": -1,
-        "toi": "21:11"
+        "toi": "21:03"
       },
       {
         "id": 8479985,
@@ -2818,12 +2818,12 @@
         "name": "Ville Ottavainen",
         "position": "D",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8482866.png",
-        "gp": 10,
+        "gp": 11,
         "goals": 1,
         "assists": 0,
         "points": 1,
-        "plusMinus": 2,
-        "toi": "11:22"
+        "plusMinus": 1,
+        "toi": "11:23"
       },
       {
         "id": 8479324,
@@ -2843,12 +2843,12 @@
         "id": 8475831,
         "name": "Philipp Grubauer",
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/SEA/8475831.png",
-        "gp": 10,
+        "gp": 11,
         "wins": 5,
-        "losses": 3,
+        "losses": 4,
         "otl": 1,
-        "sv": 0.89,
-        "gaa": 3.075949,
+        "sv": 0.887,
+        "gaa": 3.170905,
         "so": 0
       },
       {
