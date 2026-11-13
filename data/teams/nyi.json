@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:03:49.344884-05:00",
+  "generatedAt": "2026-11-13T17:13:23.405050-05:00",
   "team": "NYI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2698,8 +2698,8 @@
         "headshot": "https://assets.nhle.com/mugs/nhl/20262027/NYI/8475151.png",
         "gp": 18,
         "goals": 3,
-        "assists": 2,
-        "points": 5,
+        "assists": 3,
+        "points": 6,
         "plusMinus": -1,
         "toi": "16:46"
       },
