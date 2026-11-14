@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:28:58.374804-05:00",
+  "generatedAt": "2026-11-14T11:08:55.619567-05:00",
   "team": "PIT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2854,18 +2854,6 @@
         "points": 3,
         "plusMinus": 3,
         "toi": "17:20"
-      },
-      {
-        "id": 8482470,
-        "name": "Ilya Solovyov",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/PIT/8482470.png",
-        "gp": 3,
-        "goals": 0,
-        "assists": 0,
-        "points": 0,
-        "plusMinus": 1,
-        "toi": "16:14"
       },
       {
         "id": 8477845,

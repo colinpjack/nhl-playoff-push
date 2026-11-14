@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T04:28:58.374804-05:00",
+  "generatedAt": "2026-11-14T11:08:55.619567-05:00",
   "team": "CAR",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2790,18 +2790,6 @@
         "points": 2,
         "plusMinus": 3,
         "toi": "20:21"
-      },
-      {
-        "id": 8476422,
-        "name": "Mike Reilly",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CAR/8476422.png",
-        "gp": 8,
-        "goals": 0,
-        "assists": 2,
-        "points": 2,
-        "plusMinus": 4,
-        "toi": "12:26"
       }
     ],
     "goalies": [
