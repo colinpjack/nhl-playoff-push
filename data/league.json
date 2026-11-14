@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:13:23.405050-05:00",
+  "generatedAt": "2026-11-13T21:28:45.004578-05:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Nov 9",
@@ -1150,7 +1150,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "@ VAN",
-      "nextTitle": "Regular season \u00b7 Fri, Nov 13 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -1983,7 +1983,7 @@
       "formDiff": -8,
       "formDirection": "down",
       "nextLabel": "vs NYR",
-      "nextTitle": "Regular season \u00b7 Fri, Nov 13 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped."
@@ -2689,7 +2689,7 @@
       "formDiff": 1,
       "formDirection": "up",
       "nextLabel": "@ VAN",
-      "nextTitle": "Regular season \u00b7 Fri, Nov 13 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4017,7 +4017,7 @@
       "formDiff": -8,
       "formDirection": "down",
       "nextLabel": "vs NYR",
-      "nextTitle": "Regular season \u00b7 Fri, Nov 13 \u00b7 9:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "\u2014",
       "magicKind": "",
       "magicTitle": "Every contender can still finish level with a club that wins out. The clinch number appears once rivals are capped.",
@@ -4985,8 +4985,8 @@
     {
       "id": 2026020310,
       "date": "2026-11-13",
-      "status": "Fri, Nov 13 \u00b7 9:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Rogers Arena",
@@ -4997,7 +4997,7 @@
         "nickname": "Canucks",
         "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg",
         "record": "3-16-1",
-        "score": ""
+        "score": 0
       },
       "away": {
         "abbr": "NYR",
@@ -5005,7 +5005,7 @@
         "nickname": "Rangers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
         "record": "11-8-1",
-        "score": ""
+        "score": 0
       }
     },
     {
