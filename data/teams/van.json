@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T02:14:50.643706-05:00",
+  "generatedAt": "2026-11-15T15:25:04.473132-05:00",
   "team": "VAN",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2862,6 +2862,18 @@
         "sv": 0.808,
         "gaa": 6.032736,
         "so": 0
+      },
+      {
+        "id": 8484268,
+        "name": "Nikita Tolopilo",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484268.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       },
       {
         "id": 8477967,
