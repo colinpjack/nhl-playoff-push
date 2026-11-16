@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:25:04.473132-05:00",
+  "generatedAt": "2026-11-15T19:24:19.346775-05:00",
   "team": "PHI",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020326,
       "date": "2026-11-15",
       "start": "2026-11-16T00:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Xfinity Mobile Arena",
       "isHome": true,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020326,
       "date": "2026-11-15",
       "start": "2026-11-16T00:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Xfinity Mobile Arena",
       "isHome": true,
       "opponent": {
