@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:28:57.024918-05:00",
+  "generatedAt": "2026-11-16T20:05:58.318030-05:00",
   "team": "PIT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2551,7 +2551,7 @@
       "id": 2026020331,
       "date": "2026-11-16",
       "start": "2026-11-17T00:30:00Z",
-      "state": "FUT",
+      "state": "LIVE",
       "venue": "Madison Square Garden",
       "isHome": true,
       "opponent": {
@@ -2567,10 +2567,10 @@
       "awayWinPct": 57.2,
       "homeAbbr": "NYR",
       "awayAbbr": "MTL",
-      "homeScore": null,
-      "awayScore": null,
-      "usScore": null,
-      "themScore": null,
+      "homeScore": 0,
+      "awayScore": 0,
+      "usScore": 0,
+      "themScore": 0,
       "ot": false,
       "backToBack": false,
       "divisionGame": false,
@@ -2847,7 +2847,7 @@
         "wins": 2,
         "losses": 5,
         "otl": 1,
-        "sv": 0.893,
+        "sv": 0.894,
         "gaa": 3.245267,
         "so": 0
       }

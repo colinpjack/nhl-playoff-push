@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:28:57.024918-05:00",
+  "generatedAt": "2026-11-16T20:05:58.318030-05:00",
   "team": "UTA",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2780,16 +2780,28 @@
         "toi": "19:05"
       },
       {
-        "id": 8480084,
-        "name": "Nick DeSimone",
+        "id": 8481708,
+        "name": "Zac Jones",
         "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8480084.png",
-        "gp": 8,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8481708.png",
+        "gp": 2,
+        "goals": 2,
+        "assists": 0,
+        "points": 2,
+        "plusMinus": 0,
+        "toi": "12:49"
+      },
+      {
+        "id": 8483436,
+        "name": "Artem Duda",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/UTA/8483436.png",
+        "gp": 6,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": 0,
-        "toi": "13:58"
+        "plusMinus": -4,
+        "toi": "14:46"
       }
     ],
     "goalies": [
