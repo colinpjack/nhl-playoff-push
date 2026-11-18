@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T04:13:43.972715-05:00",
+  "generatedAt": "2026-11-18T13:10:15.868054-05:00",
   "team": "DAL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2570,8 +2570,8 @@
         "goals": 10,
         "assists": 16,
         "points": 26,
-        "plusMinus": 10,
-        "toi": "20:07"
+        "plusMinus": 9,
+        "toi": "20:08"
       },
       {
         "id": 8480027,
@@ -2642,8 +2642,8 @@
         "goals": 3,
         "assists": 4,
         "points": 7,
-        "plusMinus": -5,
-        "toi": "14:58"
+        "plusMinus": -4,
+        "toi": "14:56"
       },
       {
         "id": 8481641,
