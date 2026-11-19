@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:25:05.319400-05:00",
+  "generatedAt": "2026-11-19T18:53:22.470566-05:00",
   "team": "BUF",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020351,
       "date": "2026-11-19",
       "start": "2026-11-20T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Capital One Arena",
       "isHome": false,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020351,
       "date": "2026-11-19",
       "start": "2026-11-20T00:00:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Capital One Arena",
       "isHome": false,
       "opponent": {
