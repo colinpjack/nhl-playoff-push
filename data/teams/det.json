@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:10:15.868054-05:00",
+  "generatedAt": "2026-11-18T19:26:33.827783-05:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -1655,7 +1655,7 @@
       "id": 2026020344,
       "date": "2026-11-18",
       "start": "2026-11-19T00:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Little Caesars Arena",
       "isHome": true,
       "opponent": {
@@ -2415,7 +2415,7 @@
       "id": 2026020344,
       "date": "2026-11-18",
       "start": "2026-11-19T00:30:00Z",
-      "state": "FUT",
+      "state": "PRE",
       "venue": "Little Caesars Arena",
       "isHome": true,
       "opponent": {
