@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:23:39.065268-05:00",
+  "generatedAt": "2026-11-20T11:24:14.801224-05:00",
   "team": "OTT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2701,6 +2701,18 @@
         "toi": "17:33"
       },
       {
+        "id": 8481577,
+        "name": "Philip Tomasino",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8481577.png",
+        "gp": 9,
+        "goals": 2,
+        "assists": 3,
+        "points": 5,
+        "plusMinus": 3,
+        "toi": "11:01"
+      },
+      {
         "id": 8477998,
         "name": "Warren Foegele",
         "position": "L",
@@ -2723,18 +2735,6 @@
         "points": 3,
         "plusMinus": -5,
         "toi": "9:45"
-      },
-      {
-        "id": 8482667,
-        "name": "William Eklund",
-        "position": "L",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8482667.png",
-        "gp": 4,
-        "goals": 1,
-        "assists": 1,
-        "points": 2,
-        "plusMinus": 1,
-        "toi": "13:56"
       }
     ],
     "defense": [

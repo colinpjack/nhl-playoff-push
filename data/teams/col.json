@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:23:39.065268-05:00",
+  "generatedAt": "2026-11-20T11:24:14.801224-05:00",
   "team": "COL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2792,16 +2792,16 @@
         "toi": "12:37"
       },
       {
-        "id": 8482942,
-        "name": "Alex Gagne",
+        "id": 8476422,
+        "name": "Mike Reilly",
         "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8482942.png",
-        "gp": 2,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/COL/8476422.png",
+        "gp": 1,
         "goals": 0,
         "assists": 0,
         "points": 0,
-        "plusMinus": -1,
-        "toi": "12:21"
+        "plusMinus": 0,
+        "toi": "14:42"
       }
     ],
     "goalies": [
