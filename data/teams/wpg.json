@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:49:39.804137-05:00",
+  "generatedAt": "2026-11-21T14:49:28.265553-05:00",
   "team": "WPG",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2849,18 +2849,6 @@
         "otl": 3,
         "sv": 0.883,
         "gaa": 3.293687,
-        "so": 0
-      },
-      {
-        "id": 8483532,
-        "name": "Clay Stevenson",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/WPG/8483532.png",
-        "gp": 5,
-        "wins": 1,
-        "losses": 3,
-        "otl": 0,
-        "sv": 0.87,
-        "gaa": 3.609249,
         "so": 0
       },
       {

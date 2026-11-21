@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:49:39.804137-05:00",
+  "generatedAt": "2026-11-21T14:49:28.265553-05:00",
   "team": "VAN",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2668,18 +2668,6 @@
         "toi": "13:58"
       },
       {
-        "id": 8484136,
-        "name": "Max Sasson",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484136.png",
-        "gp": 24,
-        "goals": 5,
-        "assists": 3,
-        "points": 8,
-        "plusMinus": -9,
-        "toi": "12:06"
-      },
-      {
         "id": 8481032,
         "name": "Paul Cotter",
         "position": "L",
@@ -2738,6 +2726,18 @@
         "points": 4,
         "plusMinus": -3,
         "toi": "10:48"
+      },
+      {
+        "id": 8475848,
+        "name": "Brendan Gallagher",
+        "position": "R",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8475848.png",
+        "gp": 21,
+        "goals": 0,
+        "assists": 3,
+        "points": 3,
+        "plusMinus": -7,
+        "toi": "10:09"
       }
     ],
     "defense": [
@@ -2861,6 +2861,18 @@
         "otl": 0,
         "sv": 0.808,
         "gaa": 6.032736,
+        "so": 0
+      },
+      {
+        "id": 8484268,
+        "name": "Nikita Tolopilo",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/VAN/8484268.png",
+        "gp": 1,
+        "wins": 1,
+        "losses": 0,
+        "otl": 0,
+        "sv": 0.946,
+        "gaa": 2.0,
         "so": 0
       },
       {

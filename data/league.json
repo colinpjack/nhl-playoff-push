@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:49:39.804137-05:00",
+  "generatedAt": "2026-11-21T14:49:28.265553-05:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Nov 16",
@@ -513,7 +513,7 @@
       "formDiff": 6,
       "formDirection": "up",
       "nextLabel": "vs EDM",
-      "nextTitle": "Regular season \u00b7 Sat, Nov 21 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "115",
       "magicKind": "",
       "magicTitle": "115 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 117."
@@ -562,7 +562,7 @@
       "formDiff": 4,
       "formDirection": "up",
       "nextLabel": "@ CAR",
-      "nextTitle": "Regular season \u00b7 Sat, Nov 21 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "109",
       "magicKind": "",
       "magicTitle": "109 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 111."
@@ -2183,7 +2183,7 @@
         "formDiff": 6,
         "formDirection": "up",
         "nextLabel": "vs EDM",
-        "nextTitle": "Regular season \u00b7 Sat, Nov 21 \u00b7 1:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "115",
         "magicKind": "",
         "magicTitle": "115 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 117."
@@ -2434,7 +2434,7 @@
       "formDiff": 6,
       "formDirection": "up",
       "nextLabel": "vs EDM",
-      "nextTitle": "Regular season \u00b7 Sat, Nov 21 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "115",
       "magicKind": "",
       "magicTitle": "115 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 117.",
@@ -3303,7 +3303,7 @@
       "formDiff": 4,
       "formDirection": "up",
       "nextLabel": "@ CAR",
-      "nextTitle": "Regular season \u00b7 Sat, Nov 21 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "109",
       "magicKind": "",
       "magicTitle": "109 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 111.",
@@ -4121,7 +4121,7 @@
       "formDiff": 6,
       "formDirection": "up",
       "nextLabel": "vs EDM",
-      "nextTitle": "Regular season \u00b7 Sat, Nov 21 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "115",
       "magicKind": "",
       "magicTitle": "115 more points guarantees a wild card, no matter how the rest of the East finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 117."
@@ -4219,7 +4219,7 @@
       "formDiff": 4,
       "formDirection": "up",
       "nextLabel": "@ CAR",
-      "nextTitle": "Regular season \u00b7 Sat, Nov 21 \u00b7 1:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "109",
       "magicKind": "",
       "magicTitle": "109 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 111."
@@ -5013,8 +5013,8 @@
     {
       "id": 2026020359,
       "date": "2026-11-21",
-      "status": "Sat, Nov 21 \u00b7 1:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Lenovo Center",
@@ -5025,7 +5025,7 @@
         "nickname": "Hurricanes",
         "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
         "record": "16-3-3",
-        "score": ""
+        "score": 4
       },
       "away": {
         "abbr": "EDM",
@@ -5033,7 +5033,7 @@
         "nickname": "Oilers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
         "record": "17-4-3",
-        "score": ""
+        "score": 3
       }
     },
     {
