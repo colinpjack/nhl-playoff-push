@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T05:51:01.108630-05:00",
+  "generatedAt": "2026-11-23T17:41:37.206000-05:00",
   "team": "MTL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2701,18 +2701,6 @@
         "toi": "17:10"
       },
       {
-        "id": 8481523,
-        "name": "Kirby Dach",
-        "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8481523.png",
-        "gp": 22,
-        "goals": 2,
-        "assists": 6,
-        "points": 8,
-        "plusMinus": -1,
-        "toi": "11:42"
-      },
-      {
         "id": 8480074,
         "name": "Alexandre Texier",
         "position": "L",
@@ -2735,6 +2723,18 @@
         "points": 4,
         "plusMinus": 5,
         "toi": "11:14"
+      },
+      {
+        "id": 8483424,
+        "name": "Owen Beck",
+        "position": "C",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8483424.png",
+        "gp": 10,
+        "goals": 2,
+        "assists": 2,
+        "points": 4,
+        "plusMinus": 1,
+        "toi": "8:49"
       }
     ],
     "defense": [
@@ -2847,18 +2847,6 @@
         "sv": 0.864,
         "gaa": 3.598201,
         "so": 0
-      },
-      {
-        "id": 8478470,
-        "name": "Samuel Montembeault",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8478470.png",
-        "gp": null,
-        "wins": null,
-        "losses": null,
-        "otl": null,
-        "sv": null,
-        "gaa": null,
-        "so": null
       }
     ]
   },

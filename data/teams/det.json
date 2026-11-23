@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T05:51:01.108630-05:00",
+  "generatedAt": "2026-11-23T17:41:37.206000-05:00",
   "team": "DET",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2728,16 +2728,16 @@
         "toi": "15:04"
       },
       {
-        "id": 8480326,
-        "name": "Sheldon Dries",
+        "id": 8478891,
+        "name": "Mason Appleton",
         "position": "C",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8480326.png",
-        "gp": 16,
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478891.png",
+        "gp": 5,
         "goals": 0,
-        "assists": 1,
-        "points": 1,
-        "plusMinus": -1,
-        "toi": "10:06"
+        "assists": 0,
+        "points": 0,
+        "plusMinus": -2,
+        "toi": "10:29"
       }
     ],
     "defense": [
@@ -2862,6 +2862,18 @@
         "sv": 0.927,
         "gaa": 1.980077,
         "so": 2
+      },
+      {
+        "id": 8478470,
+        "name": "Samuel Montembeault",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/DET/8478470.png",
+        "gp": null,
+        "wins": null,
+        "losses": null,
+        "otl": null,
+        "sv": null,
+        "gaa": null,
+        "so": null
       }
     ]
   },
