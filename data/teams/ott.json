@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:28:24.412420-05:00",
+  "generatedAt": "2026-11-24T13:22:21.959399-05:00",
   "team": "OTT",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2797,18 +2797,6 @@
         "points": 5,
         "plusMinus": 8,
         "toi": "18:40"
-      },
-      {
-        "id": 8484759,
-        "name": "Carter Yakemchuk",
-        "position": "D",
-        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/OTT/8484759.png",
-        "gp": 15,
-        "goals": 1,
-        "assists": 2,
-        "points": 3,
-        "plusMinus": -6,
-        "toi": "17:42"
       },
       {
         "id": 8484321,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:28:24.412420-05:00",
+  "generatedAt": "2026-11-24T13:22:21.959399-05:00",
   "team": "MTL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2821,6 +2821,18 @@
         "points": 2,
         "plusMinus": 5,
         "toi": "11:35"
+      },
+      {
+        "id": 8484220,
+        "name": "David Reinbacher",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/MTL/8484220.png",
+        "gp": 2,
+        "goals": 0,
+        "assists": 0,
+        "points": 0,
+        "plusMinus": 1,
+        "toi": "10:00"
       }
     ],
     "goalies": [
