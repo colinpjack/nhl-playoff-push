@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:22:21.959399-05:00",
+  "generatedAt": "2026-11-24T21:49:18.015144-05:00",
   "team": "STL",
   "season": "2026\u201327",
   "seasonId": 20262027,
@@ -2778,6 +2778,18 @@
         "points": 4,
         "plusMinus": -1,
         "toi": "17:43"
+      },
+      {
+        "id": 8484790,
+        "name": "Adam Jiricek",
+        "position": "D",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20262027/STL/8484790.png",
+        "gp": 17,
+        "goals": 1,
+        "assists": 2,
+        "points": 3,
+        "plusMinus": 2,
+        "toi": "15:51"
       }
     ],
     "goalies": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:22:21.959399-05:00",
+  "generatedAt": "2026-11-24T21:49:18.015144-05:00",
   "season": "2026\u201327",
   "mode": "live",
   "weekLabel": "Week of Nov 23",
@@ -709,7 +709,7 @@
       "formDiff": -6,
       "formDirection": "down",
       "nextLabel": "vs VGK",
-      "nextTitle": "Regular season \u00b7 Tue, Nov 24 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "105",
       "magicKind": "",
       "magicTitle": "105 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 109."
@@ -807,7 +807,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ EDM",
-      "nextTitle": "Regular season \u00b7 Tue, Nov 24 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "110",
       "magicKind": "",
       "magicTitle": "110 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 114."
@@ -2283,7 +2283,7 @@
         "formDiff": -6,
         "formDirection": "down",
         "nextLabel": "vs VGK",
-        "nextTitle": "Regular season \u00b7 Tue, Nov 24 \u00b7 8:00 PM",
+        "nextTitle": "Regular season \u00b7 Live",
         "magicValue": "105",
         "magicKind": "",
         "magicTitle": "105 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 109."
@@ -3303,7 +3303,7 @@
       "formDiff": -6,
       "formDirection": "down",
       "nextLabel": "vs VGK",
-      "nextTitle": "Regular season \u00b7 Tue, Nov 24 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "105",
       "magicKind": "",
       "magicTitle": "105 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 109.",
@@ -3354,7 +3354,7 @@
       "formDiff": -1,
       "formDirection": "down",
       "nextLabel": "@ EDM",
-      "nextTitle": "Regular season \u00b7 Tue, Nov 24 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "110",
       "magicKind": "",
       "magicTitle": "110 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 114.",
@@ -4219,7 +4219,7 @@
       "formDiff": -6,
       "formDirection": "down",
       "nextLabel": "vs VGK",
-      "nextTitle": "Regular season \u00b7 Tue, Nov 24 \u00b7 8:00 PM",
+      "nextTitle": "Regular season \u00b7 Live",
       "magicValue": "105",
       "magicKind": "",
       "magicTitle": "105 more points guarantees Pacific top three, no matter how the rest of the West finishes. A win is worth 2. An overtime loss still hands the other team a point. The other route needs 109."
@@ -4425,8 +4425,8 @@
     {
       "id": 2026020385,
       "date": "2026-11-24",
-      "status": "Tue, Nov 24 \u00b7 8:00 PM",
-      "live": false,
+      "status": "Live",
+      "live": true,
       "completed": false,
       "exhibition": false,
       "venue": "Rogers Place",
@@ -4437,7 +4437,7 @@
         "nickname": "Oilers",
         "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg",
         "record": "17-5-4",
-        "score": ""
+        "score": 2
       },
       "away": {
         "abbr": "VGK",
@@ -4445,7 +4445,7 @@
         "nickname": "Golden Knights",
         "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
         "record": "14-6-5",
-        "score": ""
+        "score": 2
       }
     },
     {
